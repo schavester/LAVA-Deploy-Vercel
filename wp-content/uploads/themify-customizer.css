@@ -1,0 +1,24 @@
+#headerwrap {background-image: url("http://www.lavatransforms.org/wp-content/uploads/2015/09/superNovaNext.jpg");background-size: cover;}
+#site-description {font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;font-style: italic;font-style: italic;font-weight: bold;font-size: 1.5em;text-transform: capitalize;color: #fff;}
+#main-nav a {color: #fff;background: none;background-color: #403838;border: 1px solid #fff;padding: 3px;margin: 3px;}
+#main-nav a:hover {color: #fff;}
+a:hover a:visited a:link a:active {text-decoration: none;border: 0 !important;font-size: 102%;font-weight: 900;}
+a:link {color: orange;}
+a:visited {color: salmon;}
+a:hover {color: goldenrod;}
+a:active {color: cornsilk;}
+body .module-tile.size-square-largebody .module-tile.size-square-large .map-container {width: 480px;height: 480px;}
+body .module-tile.size-square-smallbody .module-tile.size-square-small .map-container {width: 240px;height: 240px;}
+body .module-tile.size-landscapebody .module-tile.size-landscape .map-container {width: 480px;height: 240px;}
+body .module-tile.size-portraitbody .module-tile.size-portrait .map-container {width: 240px;height: 480px;}
+a.dk-speakout-submit {font-size: 150%;text-decoration: none;}
+#dk-speakout-first-name-1 {border-radius: 20px;}
+#dk-speakout-last-name-1 {border-radius: 20px;}
+#dk-speakout-email-1 {border-radius: 20px;bottom-padding: 20px;}
+.dk-speakout-share {display: none;}
+.single-event .featured-area {padding-bottom: 0;}
+.display-posts-listing.grid {display: grid;grid-gap: 16px;}
+.display-posts-listing.grid .title {display: block;}
+.display-posts-listing.grid img {display: block;max-width: 100%;height: auto;}
+@media (min-width: 600px) {.display-posts-listing.grid {grid-template-columns: repeat(2,1fr);}}
+@media (min-width: 1024px) {.display-posts-listing.grid {grid-template-columns: repeat(3,1fr);}}
