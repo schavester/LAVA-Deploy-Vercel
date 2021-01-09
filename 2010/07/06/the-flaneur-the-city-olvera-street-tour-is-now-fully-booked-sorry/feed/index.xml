@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: The FlÃ¢neur &#038; The City: Olvera Street	</title>
+	<atom:link href="/2010/07/06/the-flaneur-the-city-olvera-street-tour-is-now-fully-booked-sorry/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/07/06/the-flaneur-the-city-olvera-street-tour-is-now-fully-booked-sorry/</link>
+	<description>LAVA</description>
+	<lastBuildDate>Thu, 14 Nov 2019 08:24:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+</channel>
+</rss>

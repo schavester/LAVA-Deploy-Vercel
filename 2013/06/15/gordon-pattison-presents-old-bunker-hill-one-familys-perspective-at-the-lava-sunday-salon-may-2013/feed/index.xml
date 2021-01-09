@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Gordon Pattison presents &#8220;Old Bunker Hill: One Family&#8217;s Perspective&#8221; at the LAVA Sunday Salon, May 2013	</title>
+	<atom:link href="/2013/06/15/gordon-pattison-presents-old-bunker-hill-one-familys-perspective-at-the-lava-sunday-salon-may-2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/06/15/gordon-pattison-presents-old-bunker-hill-one-familys-perspective-at-the-lava-sunday-salon-may-2013/</link>
+	<description>LAVA</description>
+	<lastBuildDate>Thu, 14 Nov 2019 06:36:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+</channel>
+</rss>
