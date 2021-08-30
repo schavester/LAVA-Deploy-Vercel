@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Frazgo &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/author/Frazgo/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/author/Frazgo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>Celebrate the Arts</title>
-		<link>/2013/09/14/celebrate-the-arts/</link>
-					<comments>/2013/09/14/celebrate-the-arts/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/09/14/celebrate-the-arts/</link>
+					<comments>https://www.lavatransforms.org/2013/09/14/celebrate-the-arts/#respond</comments>
 		
 		<dc:creator><![CDATA[Frazgo]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -43,15 +40,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/09/14/celebrate-the-arts/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/09/14/celebrate-the-arts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1100</post-id>	</item>
+			</item>
 		<item>
 		<title>Photographer, Artist, blogger and meanderer</title>
-		<link>/2013/08/22/photographer-artist-blogger-and-meanderer/</link>
-					<comments>/2013/08/22/photographer-artist-blogger-and-meanderer/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/08/22/photographer-artist-blogger-and-meanderer/</link>
+					<comments>https://www.lavatransforms.org/2013/08/22/photographer-artist-blogger-and-meanderer/#respond</comments>
 		
 		<dc:creator><![CDATA[Frazgo]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -65,18 +62,18 @@
 <p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">These passions to communicate those relationships and emotions have been explored through the â€œwatercolor photographyâ€ process.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">In its simplest terms its working with images so they will print on wet watercolor paper.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">This process produces impressionistic images that enhance the communication of the sense of place and emotions in the subjects.</span></p>
 <p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">Frank has found that the use of the personal computer and a variety of imaging programs has led to faster and new ways to communicate what he saw through the camera.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">No longer confined to the time consuming processes need to produce an image in silver based media as enable him to be out more often photographing the world around him.</span></p>
 <p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">Frank has shown at a variety of galleries locally and is a listed artist at the Saatchi Gallery in </span>London<span style="font-size: 12px; line-height: 1.5;">.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">He is past president on the Monrovia Association of Fine Arts, and serves currently as a Board Member and Vice President.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">He was the featured artist for the MAFA Celebrate the Arts Festival </span>October 11-12,2008<span style="font-size: 12px; line-height: 1.5;">.</span></p>
-<p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">His art and writing is done under the nom de plum â€œfrazgoâ€.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">His artistic explorations may be followed at his blog: http://frazgomeanders.blogspot.com/, that blog was named last year as one of KCBS&#8217;s top 20 blogs in </span>Los Angeles<span style="font-size: 12px; line-height: 1.5;">.</span></p>
-<p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">He is also a writer with the Metroblogging team and you may follow is escapades there at </span><span style="font-size: 12px; line-height: 1.5;">&nbsp;</span><span style="font-size: 12px; line-height: 1.5; color: black;"><a href="http://blogging.la/author/frazgo/"><span style="color: black;">http://blogging.la/author/frazgo/</span></a></span></p>
-<p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">You may see more of his work at</span><span style="font-size: 12px; line-height: 1.5; color: black;"> </span><a style="font-size: 12px; line-height: 1.5;" href="http://www.flickr.com/photos/frazgo/sets/">http://www.flickr.com/photos/frazgo/sets/</a></p>
+<p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">His art and writing is done under the nom de plum â€œfrazgoâ€.</span><span style="font-size: 12px; line-height: 1.5;">&nbsp; </span><span style="font-size: 12px; line-height: 1.5;">His artistic explorations may be followed at his blog: https://frazgomeanders.blogspot.com/, that blog was named last year as one of KCBS&#8217;s top 20 blogs in </span>Los Angeles<span style="font-size: 12px; line-height: 1.5;">.</span></p>
+<p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">He is also a writer with the Metroblogging team and you may follow is escapades there at </span><span style="font-size: 12px; line-height: 1.5;">&nbsp;</span><span style="font-size: 12px; line-height: 1.5; color: black;"><a href="https://blogging.la/author/frazgo/"><span style="color: black;">https://blogging.la/author/frazgo/</span></a></span></p>
+<p class="MsoNormal">&nbsp;<span style="font-size: 12px; line-height: 1.5;">You may see more of his work at</span><span style="font-size: 12px; line-height: 1.5; color: black;"> </span><a style="font-size: 12px; line-height: 1.5;" href="https://www.flickr.com/photos/frazgo/sets/">https://www.flickr.com/photos/frazgo/sets/</a></p>
 <div id="themify_builder_content-1082" data-postid="1082" class="themify_builder_content themify_builder_content-1082 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/08/22/photographer-artist-blogger-and-meanderer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/08/22/photographer-artist-blogger-and-meanderer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1082</post-id>	</item>
+			</item>
 	</channel>
 </rss>

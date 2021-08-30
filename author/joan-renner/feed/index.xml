@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Joan Renner &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/author/joan-renner/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/author/joan-renner/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>Sleeping Beauties: Deranged L.A. Crimes From The Notebook of Aggie Underwood</title>
-		<link>/2013/06/09/sleeping-beauties-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/</link>
-					<comments>/2013/06/09/sleeping-beauties-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/06/09/sleeping-beauties-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/</link>
+					<comments>https://www.lavatransforms.org/2013/06/09/sleeping-beauties-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -43,15 +40,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/06/09/sleeping-beauties-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/06/09/sleeping-beauties-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1027</post-id>	</item>
+			</item>
 		<item>
 		<title>Felonious Flappers: Bad Girls of the Art Deco Era</title>
-		<link>/2012/08/18/felonious-flappers-bad-girls-of-the-art-deco-era/</link>
-					<comments>/2012/08/18/felonious-flappers-bad-girls-of-the-art-deco-era/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/08/18/felonious-flappers-bad-girls-of-the-art-deco-era/</link>
+					<comments>https://www.lavatransforms.org/2012/08/18/felonious-flappers-bad-girls-of-the-art-deco-era/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -60,28 +57,28 @@
 
 					<description><![CDATA[Prohibition literally fueled crime during the 1920s.&#160; Flappers flaunted the law by drinking in speakeasies and wearing garters equipped with a handy flask filled with bootleg hootch â€“ or a gun! The good times wouldn&#8217;t last forever, the giddy drinking and partying that characterized the 1920s came to a screeching halt in October of 1929 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">Prohibition literally fueled crime during the 1920s.<span style="mso-spacerun: yes;">&nbsp; </span>Flappers flaunted the law by drinking in speakeasies and wearing garters equipped with a handy flask filled with bootleg hootch â€“ or a gun! The good times wouldn&#8217;t last forever, the giddy drinking and partying that characterized the 1920s came to a screeching halt in October of 1929 with the stock market crash.<span style="mso-spacerun: yes;">&nbsp; </span></span></span></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">Former beauty pageant winner Hazel Belford Glab was handy with a gun, and she wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t afraid to use one to further her agenda.<span style="mso-spacerun: yes;">&nbsp; </span>When her husband threatened to divorce her, Hazel hatched a plan to cash in before Mr. Glab could bail out.</span></span></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">During the Deco Era when a wife wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t taking deadly aim at her husband, itâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s probably because sheâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d focused instead on the â€œother womanâ€. </span></span></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">When neighborhood gossip hinted at a love affair between Clara Phillipsâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> husband and an attractive young widow, Clara became a woman with a mission, to remove the woman she thought was a rival for her husbandâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s love by any means necessary. </span></span></span></p>
+<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">Former beauty pageant winner Hazel Belford Glab was handy with a gun, and she wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t afraid to use one to further her agenda.<span style="mso-spacerun: yes;">&nbsp; </span>When her husband threatened to divorce her, Hazel hatched a plan to cash in before Mr. Glab could bail out.</span></span></span></p>
+<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">During the Deco Era when a wife wasnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t taking deadly aim at her husband, itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s probably because sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d focused instead on the â€œother womanâ€. </span></span></span></p>
+<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">When neighborhood gossip hinted at a love affair between Clara Phillipsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> husband and an attractive young widow, Clara became a woman with a mission, to remove the woman she thought was a rival for her husbandâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s love by any means necessary. </span></span></span></p>
 <p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">The Depression of the 1930s resulted in the perpetration of darker crimes. Women became involved in bandit gangs, and they were active participants in kidnappings, bank robberies, and murders.</span></span></span></p>
 <p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">During the early 1930s Bonnie Parker and Clyde Barrow were on the run from the law in the Midwest.<span style="mso-spacerun: yes;">&nbsp; </span>In Los Angeles, Burmah and Thomas White were also on the run. The nineteen year old bride and her twenty-eight year old groom spent their honeymoon on a deadly crime spree.</span></span></span></p>
 <p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">While some women blatantly committed crimes on the streets of Los Angeles, other women went quietly about their evil business in the comfort of their own homes. </span></span></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">Youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve heard of someone keeping a skeleton in their closet â€“ Walburga â€œDollyâ€ Oesterreich kept her murderous secret in the attic of her home, and when it was finally revealed it was so unbelievable that it made headlines.</span></span></span></p>
+<p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve heard of someone keeping a skeleton in their closet â€“ Walburga â€œDollyâ€ Oesterreich kept her murderous secret in the attic of her home, and when it was finally revealed it was so unbelievable that it made headlines.</span></span></span></p>
 <p class="MsoNormal" style="margin: 0in 0in 10pt;"><span style="font-family: &amp;amp;quot;"><span style="font-size: small;"><span style="color: #000000;">Curvy killers have always been a part of the fabric of Los Angeles, and whether you empathize with them, or find them repellent, you are certain to be fascinated by Felonious Flappers!</span></span></span></p>
 <div id="themify_builder_content-777" data-postid="777" class="themify_builder_content themify_builder_content-777 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/08/18/felonious-flappers-bad-girls-of-the-art-deco-era/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/08/18/felonious-flappers-bad-girls-of-the-art-deco-era/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">777</post-id>	</item>
+			</item>
 		<item>
 		<title>Union Station History and Architecture Tour</title>
-		<link>/2012/05/02/union-station-history-and-architecture-tour/</link>
-					<comments>/2012/05/02/union-station-history-and-architecture-tour/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/05/02/union-station-history-and-architecture-tour/</link>
+					<comments>https://www.lavatransforms.org/2012/05/02/union-station-history-and-architecture-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -102,15 +99,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/05/02/union-station-history-and-architecture-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/05/02/union-station-history-and-architecture-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">686</post-id>	</item>
+			</item>
 		<item>
 		<title>James Ellroy Presents: Elizabeth (private tours)</title>
-		<link>/2012/03/02/james-ellroy-presents-elizabeth-private-tours/</link>
-					<comments>/2012/03/02/james-ellroy-presents-elizabeth-private-tours/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/03/02/james-ellroy-presents-elizabeth-private-tours/</link>
+					<comments>https://www.lavatransforms.org/2012/03/02/james-ellroy-presents-elizabeth-private-tours/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -121,24 +118,24 @@
 
 					<description><![CDATA[This unique exhibition allows ticketed guests to become the first to view actual material from the LAPD files on the notorious Black Dahlia murder, and converse with LA&#8217;s great crime novelist, James Ellroy! A limited number of tickets to an evening of conversation and hors d&#8217;ouvres with bestselling author James Ellroy are now available. James [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>This unique exhibition allows ticketed guests to become the first to view actual material from the LAPD files on the notorious Black Dahlia murder, and converse with LA&#8217;s great crime novelist, James Ellroy!</p>
-<p>A limited number of tickets to an evening of conversation and hors d&#8217;ouvres with bestselling author James Ellroy are now available. James will take ticketed guests for a personal and conversational tour of the exhibition. Guests will receive refreshments and hors d&#8217;ouvres and receive an autographed copy of his best selling novel, <a href="http://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a>.</p>
+<p>A limited number of tickets to an evening of conversation and hors d&#8217;ouvres with bestselling author James Ellroy are now available. James will take ticketed guests for a personal and conversational tour of the exhibition. Guests will receive refreshments and hors d&#8217;ouvres and receive an autographed copy of his best selling novel, <a href="https://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a>.</p>
 <p>A very limited number of tickets are available for this March 16th event at the LA Police Museum from 7 to 9 pm. Tickets are priced at $250 per person</p>
-<p>The following day, March 17, 2012, Mr. Ellroy will host conversational tours with small groups of visitors through the new exhibition. Visitors will also receive an autographed copy of&nbsp;<a style="border-style: initial; border-color: initial; font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;" href="http://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a><span style="font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal;">.</span>&nbsp;Tours will last approximately 45 minutes and will be available at 10 am, noon and 2pm. Tickets are priced at $100 each. Tickets to either, or both events can be purchased by phoning (323) 344-9445.</p>
+<p>The following day, March 17, 2012, Mr. Ellroy will host conversational tours with small groups of visitors through the new exhibition. Visitors will also receive an autographed copy of&nbsp;<a style="border-style: initial; border-color: initial; font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;" href="https://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a><span style="font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal;">.</span>&nbsp;Tours will last approximately 45 minutes and will be available at 10 am, noon and 2pm. Tickets are priced at $100 each. Tickets to either, or both events can be purchased by phoning (323) 344-9445.</p>
 <p>Both events are unique opportunities to visit the Los Angeles Police Museum and support its programs and activities. The Los Angeles Police Museum is a 501 (C)(3) organization.</p>
 <div id="themify_builder_content-641" data-postid="641" class="themify_builder_content themify_builder_content-641 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/03/02/james-ellroy-presents-elizabeth-private-tours/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/03/02/james-ellroy-presents-elizabeth-private-tours/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">641</post-id>	</item>
+			</item>
 		<item>
 		<title>James Ellroy Presents: Elizabeth (opening night)</title>
-		<link>/2012/03/02/james-ellroy-presents-elizabeth-opening-night/</link>
-					<comments>/2012/03/02/james-ellroy-presents-elizabeth-opening-night/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/03/02/james-ellroy-presents-elizabeth-opening-night/</link>
+					<comments>https://www.lavatransforms.org/2012/03/02/james-ellroy-presents-elizabeth-opening-night/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -149,24 +146,24 @@
 
 					<description><![CDATA[This unique exhibition allows ticketed guests to become the first to view actual material from the LAPD files on the notorious Black Dahlia murder, and converse with LA&#8217;s great crime novelist, James Ellroy! A limited number of tickets to an evening of conversation and hors d&#8217;ouvres with bestselling author James Ellroy are now available. James [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>This unique exhibition allows ticketed guests to become the first to view actual material from the LAPD files on the notorious Black Dahlia murder, and converse with LA&#8217;s great crime novelist, James Ellroy!</p>
-<p>A limited number of tickets to an evening of conversation and hors d&#8217;ouvres with bestselling author James Ellroy are now available. James will take ticketed guests for a personal and conversational tour of the exhibition. Guests will receive refreshments and hors d&#8217;ouvres and receive an autographed copy of his best selling novel, <a href="http://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a>.</p>
+<p>A limited number of tickets to an evening of conversation and hors d&#8217;ouvres with bestselling author James Ellroy are now available. James will take ticketed guests for a personal and conversational tour of the exhibition. Guests will receive refreshments and hors d&#8217;ouvres and receive an autographed copy of his best selling novel, <a href="https://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a>.</p>
 <p>A very limited number of tickets are available for this March 16th event at the LA Police Museum from 7 to 9 pm. Tickets are priced at $250 per person</p>
-<p>The following day, March 17, 2012, Mr. Ellroy will host conversational tours with small groups of visitors through the new exhibition. Visitors will also receive an autographed copy of&nbsp;<a style="border-style: initial; border-color: initial; font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;" href="http://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a><span style="font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal;">.</span>&nbsp;Tours will last approximately 45 minutes and will be available at 10 am, noon and 2pm. Tickets are priced at $100 each. Tickets to either, or both events can be purchased by phoning (323) 344-9445.</p>
+<p>The following day, March 17, 2012, Mr. Ellroy will host conversational tours with small groups of visitors through the new exhibition. Visitors will also receive an autographed copy of&nbsp;<a style="border-style: initial; border-color: initial; font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;" href="https://astore.amazon.com/bubble1-20/detail/0446618128" target="_blank"><em>The Black Dahlia</em></a><span style="font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal;">.</span>&nbsp;Tours will last approximately 45 minutes and will be available at 10 am, noon and 2pm. Tickets are priced at $100 each. Tickets to either, or both events can be purchased by phoning (323) 344-9445.</p>
 <p>Both events are unique opportunities to visit the Los Angeles Police Museum and support its programs and activities. The Los Angeles Police Museum is a 501 (C)(3) organization.</p>
 <div id="themify_builder_content-640" data-postid="640" class="themify_builder_content themify_builder_content-640 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/03/02/james-ellroy-presents-elizabeth-opening-night/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/03/02/james-ellroy-presents-elizabeth-opening-night/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">640</post-id>	</item>
+			</item>
 		<item>
 		<title>Felonious Flappers: Bad Girls of the Art Deco Era</title>
-		<link>/2012/01/28/felonious-flappers-bad-girls-of-the-art-deco-era/</link>
-					<comments>/2012/01/28/felonious-flappers-bad-girls-of-the-art-deco-era/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/01/28/felonious-flappers-bad-girls-of-the-art-deco-era/</link>
+					<comments>https://www.lavatransforms.org/2012/01/28/felonious-flappers-bad-girls-of-the-art-deco-era/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -176,8 +173,8 @@
 
 					<description><![CDATA[What motivates a woman to become a criminal? Are some women just born bad, or are they driven to commit crimes for, or because of, the men in their lives? Felonious Flappers will explore the lives and crimes of some of the baddest girls in Los Angeles, from actress and writer Dorothy Mackaye to the [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>What motivates a woman to become a criminal?  Are some women just born bad, or are they driven to commit crimes for, or because of, the men in their lives?  Felonious Flappers will explore the lives and crimes of some of the baddest girls in Los Angeles, from actress and writer Dorothy Mackaye to the ironically named Helen Love.</p>
-<p>What is it about Los Angeles that brings out the evil in a woman?  Crime writer Raymond Chandler speculated that a local weather phenomenon could cause a woman to contemplate murder:   â€œThere was a desert wind blowing that night. It was one of those hot dry Santa Anas that come down through the mountain passes and curl your hair and make your nerves jump and your skin itch. On nights like that every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbandsâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> necks. Anything can happen. You can even get a full glass of beer at a cocktail lounge.â€</p>
-<p>Whether itâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the climate, their greed, or that theyâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re just plain evil, curvy killers have always been a part of the fabric of Los Angeles.  You may empathize with the femme fatales, or find them repellent, but you are sure to be fascinated by them.</p>
+<p>What is it about Los Angeles that brings out the evil in a woman?  Crime writer Raymond Chandler speculated that a local weather phenomenon could cause a woman to contemplate murder:   â€œThere was a desert wind blowing that night. It was one of those hot dry Santa Anas that come down through the mountain passes and curl your hair and make your nerves jump and your skin itch. On nights like that every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbandsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> necks. Anything can happen. You can even get a full glass of beer at a cocktail lounge.â€</p>
+<p>Whether itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the climate, their greed, or that theyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re just plain evil, curvy killers have always been a part of the fabric of Los Angeles.  You may empathize with the femme fatales, or find them repellent, but you are sure to be fascinated by them.</p>
 <p>Social historian and writer Joan Renner will present an illustrated lecture which will explore the cases of a few Los Angeles women who found themselves on the wrong side of the law during the Art Deco era.</p>
 <p>Presentation will be followed by a rare theatrical screening of the pre-code â€œlady criminal filmâ€ THE LADIES THEY TALK ABOUT starring Barbara Stanwyck.</p>
 <div id="themify_builder_content-619" data-postid="619" class="themify_builder_content themify_builder_content-619 themify_builder">
@@ -185,15 +182,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/01/28/felonious-flappers-bad-girls-of-the-art-deco-era/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/01/28/felonious-flappers-bad-girls-of-the-art-deco-era/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">619</post-id>	</item>
+			</item>
 		<item>
 		<title>Gold Diggers &#038; Snake Handlers: Deranged L.A. Crimes From The Notebook Of Aggie Underwood</title>
-		<link>/2011/09/06/gold-diggers-snake-handlers-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/</link>
-					<comments>/2011/09/06/gold-diggers-snake-handlers-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/#respond</comments>
+		<link>https://www.lavatransforms.org/2011/09/06/gold-diggers-snake-handlers-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/</link>
+					<comments>https://www.lavatransforms.org/2011/09/06/gold-diggers-snake-handlers-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -205,22 +202,22 @@
 
 					<description><![CDATA[L.A. in Focus: Images from the Los Angeles Public Library Photo Collection Presented by Photo Friends. Writer and social historian Joan Renner explores the dark side of Southern California in a presentation focusing on crime photos from the Herald-Examiner collection, and drawn from the stories of legendary Los Angeles newswoman Agness Underwood.&#160; Free and open [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>L.A. in Focus: Images from the Los Angeles Public Library Photo Collection</strong></p>
-<p>Presented by Photo Friends. Writer and social historian <a href="/user/37" target="_blank">Joan Renner</a> explores the dark side of Southern California in a presentation focusing on crime photos from the Herald-Examiner collection, and drawn from the stories of legendary Los Angeles newswoman Agness Underwood.&nbsp; Free and open to the public.</p>
+<p>Presented by Photo Friends. Writer and social historian <a href="https://www.lavatransforms.org/user/37" target="_blank">Joan Renner</a> explores the dark side of Southern California in a presentation focusing on crime photos from the Herald-Examiner collection, and drawn from the stories of legendary Los Angeles newswoman Agness Underwood.&nbsp; Free and open to the public.</p>
 <p>&nbsp;</p>
 <div id="themify_builder_content-543" data-postid="543" class="themify_builder_content themify_builder_content-543 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/09/06/gold-diggers-snake-handlers-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2011/09/06/gold-diggers-snake-handlers-deranged-l-a-crimes-from-the-notebook-of-aggie-underwood/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+			</item>
 		<item>
 		<title>Casino Moderne</title>
-		<link>/2011/01/18/casino-moderne/</link>
-					<comments>/2011/01/18/casino-moderne/#respond</comments>
+		<link>https://www.lavatransforms.org/2011/01/18/casino-moderne/</link>
+					<comments>https://www.lavatransforms.org/2011/01/18/casino-moderne/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:54 +0000</pubDate>
@@ -246,31 +243,31 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/01/18/casino-moderne/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2011/01/18/casino-moderne/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">387</post-id>	</item>
+			</item>
 		<item>
 		<title>Joan Renner&#8217;s Biography</title>
-		<link>/2010/02/17/joan-renners-biography/</link>
-					<comments>/2010/02/17/joan-renners-biography/#respond</comments>
+		<link>https://www.lavatransforms.org/2010/02/17/joan-renners-biography/</link>
+					<comments>https://www.lavatransforms.org/2010/02/17/joan-renners-biography/#respond</comments>
 		
 		<dc:creator><![CDATA[Joan Renner]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:52 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
-					<description><![CDATA[<p>Joan is a writer and a social historian. She has a passion for vintage cosmetics ephemera, and crime. She believes that a dame should strive to look her best, even while committing a felony. As a tour guide for <a href="http://www.esotouric.com/" target="_blank">Esotouric</a> she has created a personality profile of Elizabeth Short (aka The Black Dahlia) based upon her choice of makeup. Joan is currently developing a tour that will delve into graft and corruption in Los Angeles during the 1930s.]]></description>
-										<content:encoded><![CDATA[<p>Joan is a writer and a social historian. She has a passion for vintage cosmetics ephemera, and crime. She believes that a dame should strive to look her best, even while committing a felony. As a tour guide for <a href="http://www.esotouric.com/" target="_blank">Esotouric</a> she has created a personality profile of Elizabeth Short (aka The Black Dahlia) based upon her choice of makeup. Joan is currently developing a tour that will delve into graft and corruption in Los Angeles during the 1930s. Her blog <a href="http://vintagepowderroom.org/">Vintage Powder Room</a> explores history, women, art, and provides her with a transparent excuse to add to her collection of over 500 items, which she has lectured on at the Queen Mary Art Deco Festival.</p>
+					<description><![CDATA[<p>Joan is a writer and a social historian. She has a passion for vintage cosmetics ephemera, and crime. She believes that a dame should strive to look her best, even while committing a felony. As a tour guide for <a href="https://www.esotouric.com/" target="_blank">Esotouric</a> she has created a personality profile of Elizabeth Short (aka The Black Dahlia) based upon her choice of makeup. Joan is currently developing a tour that will delve into graft and corruption in Los Angeles during the 1930s.]]></description>
+										<content:encoded><![CDATA[<p>Joan is a writer and a social historian. She has a passion for vintage cosmetics ephemera, and crime. She believes that a dame should strive to look her best, even while committing a felony. As a tour guide for <a href="https://www.esotouric.com/" target="_blank">Esotouric</a> she has created a personality profile of Elizabeth Short (aka The Black Dahlia) based upon her choice of makeup. Joan is currently developing a tour that will delve into graft and corruption in Los Angeles during the 1930s. Her blog <a href="https://vintagepowderroom.org/">Vintage Powder Room</a> explores history, women, art, and provides her with a transparent excuse to add to her collection of over 500 items, which she has lectured on at the Queen Mary Art Deco Festival.</p>
 <div id="themify_builder_content-32" data-postid="32" class="themify_builder_content themify_builder_content-32 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2010/02/17/joan-renners-biography/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2010/02/17/joan-renners-biography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">32</post-id>	</item>
+			</item>
 	</channel>
 </rss>

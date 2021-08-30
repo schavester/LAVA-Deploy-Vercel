@@ -788,7 +788,7 @@ var Themify;
             ss.id = id;
 
             // Inject link
-            // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+            // Note: `insertBefore` is used instead of `appendChild`, for safety re: https://www.paulirish.com/2011/surefire-dom-element-insertion/
             ref.parentNode.insertBefore(ss, (before ? ref : ref.nextSibling));
             // A method (exposed on return object for external use) that mimics onload by polling document.styleSheets until it includes the new sheet.
             var onloadcssdefined = function (cb) {
@@ -1895,7 +1895,7 @@ var Themify;
             if('facebook' === type){
                 url = 'https://www.facebook.com/sharer.php?u='+url;
             } else if ( 'twitter' === type) {
-                url = 'http://twitter.com/share?url='+url+'&text='+title;
+                url = 'https://twitter.com/share?url='+url+'&text='+title;
             } else if ( 'linkedin' === type) {
                 url = 'https://www.linkedin.com/shareArticle?mini=true&url='+url;
             } else if ( 'pinterest' === type) {

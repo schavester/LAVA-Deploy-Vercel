@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Clifton&#8217;s Sunday Salon &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/video-category/cliftons-sunday-salon/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/video-category/cliftons-sunday-salon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 06:12:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>LAVA Sunday Salon November 2011</title>
-		<link>/video/salon1111/</link>
+		<link>https://www.lavatransforms.org/video/salon1111/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 28 Nov 2011 03:43:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=5021</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5021</guid>
 
 					<description><![CDATA[On the last Sunday of each month, LAVA welcomes interested individuals to gather in downtown Los Angeles&#160;(noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5021" data-postid="5021" class="themify_builder_content themify_builder_content-5021 themify_builder">
@@ -42,14 +39,14 @@
             <div  class="tb_text_wrap">
     <p>On the last Sunday of each month, LAVA welcomes interested individuals to gather in downtown Los Angeles&nbsp;(noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.&nbsp;<strong>Please note that due to ongoing renovation work at Clifton&#8217;s Cafeteria, we are moving to a nearby location, and starting the Salon one hour earlier.&nbsp;</strong></p>
 <p><strong>Special program at the November 27 Salon:</strong></p>
-<p><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/1WXMj4or9q8?version=3&amp;hl=en_US" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /></object></p>
-<p><strong>&nbsp;</strong>â€¢ LAVA Visionary <a href="/web/20130211072608/https://www.facebook.com/pages/An-Artist-for-President-by-Susanna-B-Dakin/152195484837077?v=info" target="_blank">SUSANNA DAKIN</a> is a sculptor, performance artist, writer and once upon a time publisher of artistsâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> books, magazines and a community newspaper.She is currently on the Board of the 18th Street Arts Center in Santa Monica, California. She has taught sculpture and drawing, exhibited both in solo and group shows, and completed a few large-scale sculpture commissions. She has done several unique performance pieces at various venues in southern California.Dakinâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most well known work was a year-long performance campaign around the United States as â€œAn Artist for Presidentâ€ in 1983-84, in which she advanced the idea that â€œThe Nation is the art work and we the people are the artists.â€ The book about that campaign, as timely today as it was then, is being published in fall 2011. Dakin will reprise the campaign as a book tour. &nbsp;<strong>About &#8220;An Artist for President&#8221;</strong>: In 1984, Reagan was running for his second-term, while pursuing what would become a relentless, multi-decades long retreat from democratic ideals. Susanna Dakin, sculptor, performance artist and <em>High Performance Magazine</em> publisher, had an outlandish notion: she declared with the Federal Elections Commission as an Artist/Candidate for President of the United States. Now a compelling and high-entertaining book, as timely today as it was then, <em>An Artist for President</em> makes a case for the vital role of art and creativity in all aspects of life, including politics. This &#8220;biography of an event,&#8221; records the loony ideas people hold about woman, artists and the political process. November is Election Month, so cast your vote for art, civil liberties and freedom of expression, by attending this fun refection on where weâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been and where weâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re going.</p>
-<p>â€¢&nbsp;LAVA is proud (and not too terrified, since weâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been good this year!) to present the KRAMPUS CHOIR, who will literally kick-start the holiday season with their odes to the Real ghost of Christmas, Lord Krampus. Youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve heard all about Santaâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Evil Twin, who follows the Jolly One with burlap sack in hand, taking gifts away from miscreant children and giving them a thrashing to boot! This long-toothed, tongued charmer now has his very own CHOIR, who, in dulcet harmony, will regale our Visionaries and guests with such favorites as, â€œBleeding through the Snow,â€ â€œO Shining Lump of Coal,â€&nbsp; and â€œBring a Switch, Jeannette Isabella.â€&nbsp;King Krampus himself will be on hand to autograph your childâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s deficiency notices.&nbsp; Donâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss this one-time-only event!&nbsp;</p>
-<p><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/K1SCT5HDNxQ?version=3&amp;hl=en_US" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /></object></p>
-<p><a href="/web/20130211072608/http://www.laac.com/default.aspx?p=DynamicModule&amp;pageid=249774&amp;ssid=107113&amp;vnf=1" target="_blank">The Los Angeles Athletic Club</a>&nbsp;is located at&nbsp;431 West 7th Street, on the north-east corner of 7th and Olive Streets. When you enter the Athletic Club, inform the person at the desk that you are there as a guest of club member Richard Schave attending the LAVA event. They will sign you in, and send you upstairs to the third floor. If you want to have breakfast, please arrive no later than 10:30am. The price per person for the buffet breakfast is $15.50 (including taxes and gratuity), and the buffet includes orange juice, hot and cold cereal, yogurt, fresh and dried fruits, eggs, bacon/sausage, potatoes, muffins, croissants, etc. (Alternately, the 8th floor snack bar, which is not in the Salon space, will be open serving sandwiches, wraps and salads after 11am.) If you want to attend the Salon, you should arrive by 11am.&nbsp;We recommend parking under Pershing Square at Fifth and Olive, which is also the nearest Metro Station. If you order food, the Athletic Club will validate for their parking lot.&nbsp;</p>
+<p><object width="420" height="315"><param name="movie" value="https://www.youtube.com/v/1WXMj4or9q8?version=3&amp;hl=en_US" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /></object></p>
+<p><strong>&nbsp;</strong>â€¢ LAVA Visionary <a href="/web/20130211072608/https://www.facebook.com/pages/An-Artist-for-President-by-Susanna-B-Dakin/152195484837077?v=info" target="_blank">SUSANNA DAKIN</a> is a sculptor, performance artist, writer and once upon a time publisher of artistsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> books, magazines and a community newspaper.She is currently on the Board of the 18th Street Arts Center in Santa Monica, California. She has taught sculpture and drawing, exhibited both in solo and group shows, and completed a few large-scale sculpture commissions. She has done several unique performance pieces at various venues in southern California.Dakinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most well known work was a year-long performance campaign around the United States as â€œAn Artist for Presidentâ€ in 1983-84, in which she advanced the idea that â€œThe Nation is the art work and we the people are the artists.â€ The book about that campaign, as timely today as it was then, is being published in fall 2011. Dakin will reprise the campaign as a book tour. &nbsp;<strong>About &#8220;An Artist for President&#8221;</strong>: In 1984, Reagan was running for his second-term, while pursuing what would become a relentless, multi-decades long retreat from democratic ideals. Susanna Dakin, sculptor, performance artist and <em>High Performance Magazine</em> publisher, had an outlandish notion: she declared with the Federal Elections Commission as an Artist/Candidate for President of the United States. Now a compelling and high-entertaining book, as timely today as it was then, <em>An Artist for President</em> makes a case for the vital role of art and creativity in all aspects of life, including politics. This &#8220;biography of an event,&#8221; records the loony ideas people hold about woman, artists and the political process. November is Election Month, so cast your vote for art, civil liberties and freedom of expression, by attending this fun refection on where weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been and where weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re going.</p>
+<p>â€¢&nbsp;LAVA is proud (and not too terrified, since weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been good this year!) to present the KRAMPUS CHOIR, who will literally kick-start the holiday season with their odes to the Real ghost of Christmas, Lord Krampus. Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve heard all about Santaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Evil Twin, who follows the Jolly One with burlap sack in hand, taking gifts away from miscreant children and giving them a thrashing to boot! This long-toothed, tongued charmer now has his very own CHOIR, who, in dulcet harmony, will regale our Visionaries and guests with such favorites as, â€œBleeding through the Snow,â€ â€œO Shining Lump of Coal,â€&nbsp; and â€œBring a Switch, Jeannette Isabella.â€&nbsp;King Krampus himself will be on hand to autograph your childâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s deficiency notices.&nbsp; Donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss this one-time-only event!&nbsp;</p>
+<p><object width="420" height="315"><param name="movie" value="https://www.youtube.com/v/K1SCT5HDNxQ?version=3&amp;hl=en_US" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /></object></p>
+<p><a href="/web/20130211072608/https://www.laac.com/default.aspx?p=DynamicModule&amp;pageid=249774&amp;ssid=107113&amp;vnf=1" target="_blank">The Los Angeles Athletic Club</a>&nbsp;is located at&nbsp;431 West 7th Street, on the north-east corner of 7th and Olive Streets. When you enter the Athletic Club, inform the person at the desk that you are there as a guest of club member Richard Schave attending the LAVA event. They will sign you in, and send you upstairs to the third floor. If you want to have breakfast, please arrive no later than 10:30am. The price per person for the buffet breakfast is $15.50 (including taxes and gratuity), and the buffet includes orange juice, hot and cold cereal, yogurt, fresh and dried fruits, eggs, bacon/sausage, potatoes, muffins, croissants, etc. (Alternately, the 8th floor snack bar, which is not in the Salon space, will be open serving sandwiches, wraps and salads after 11am.) If you want to attend the Salon, you should arrive by 11am.&nbsp;We recommend parking under Pershing Square at Fifth and Olive, which is also the nearest Metro Station. If you order food, the Athletic Club will validate for their parking lot.&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Location</h3>
-<p><em>Los Angeles Athletic Club</em>431 West 7th StreetLos Angeles, CA, 90014United States<abbr class="type" title="voice">Phone:</abbr>323-223-2767<abbr class="latitude" title="34.046499">34Â° 2&#8242; 47.3964&#8243; N</abbr>, <abbr class="longitude" title="-118.255130">118Â° 15&#8242; 18.468&#8243; W</abbr>See map: <a href="/web/20130211072608/http://maps.google.com/?q=34.046499+-118.255130+%28431+West+7th+Street%2C+Los+Angeles%2C+CA%2C+90014%2C+us%29">Google Maps</a></p>
+<p><em>Los Angeles Athletic Club</em>431 West 7th StreetLos Angeles, CA, 90014United States<abbr class="type" title="voice">Phone:</abbr>323-223-2767<abbr class="latitude" title="34.046499">34Â° 2&#8242; 47.3964&#8243; N</abbr>, <abbr class="longitude" title="-118.255130">118Â° 15&#8242; 18.468&#8243; W</abbr>See map: <a href="/web/20130211072608/https://maps.google.com/?q=34.046499+-118.255130+%28431+West+7th+Street%2C+Los+Angeles%2C+CA%2C+90014%2C+us%29">Google Maps</a></p>
     </div>
 </div>
 <!-- /module text -->
@@ -60,7 +57,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_molh329 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/sueDakin.png" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/sueDakin.png" alt="" width="400" height="0" />            
             
         
             </div>
@@ -70,7 +67,7 @@
     <!-- module image -->
     <div  class="module module-image tb_xs07003 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/krampus-rumpus_7797p.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/krampus-rumpus_7797p.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -80,7 +77,7 @@
     <!-- module image -->
     <div  class="module module-image tb_2ezo303 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/2325421865_df587b6cb3_o.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/2325421865_df587b6cb3_o.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -134,17 +131,17 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5021</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon September 2011</title>
-		<link>/video/salon911/</link>
+		<link>https://www.lavatransforms.org/video/salon911/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 26 Sep 2011 02:16:02 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=5003</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5003</guid>
 
 					<description><![CDATA[p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="683" src="/wp-content/uploads/2016/03/Cliftons_Cafeteria-03.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2016/03/Cliftons_Cafeteria-03.jpg 1024w, /wp-content/uploads/2016/03/Cliftons_Cafeteria-03-300x200.jpg 300w, /wp-content/uploads/2016/03/Cliftons_Cafeteria-03-1024x683-400x267.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-5003" data-postid="5003" class="themify_builder_content themify_builder_content-5003 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1024" height="683" src="https://www.lavatransforms.org/wp-content/uploads/2016/03/Cliftons_Cafeteria-03.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2016/03/Cliftons_Cafeteria-03.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2016/03/Cliftons_Cafeteria-03-300x200.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2016/03/Cliftons_Cafeteria-03-1024x683-400x267.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-5003" data-postid="5003" class="themify_builder_content themify_builder_content-5003 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_5003_row module_row_5003-0 tb_w4tu006">
 	    	    <div class="row_inner col_align_top" >
@@ -155,9 +152,9 @@
             <div  class="tb_text_wrap">
     <p>p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p><strong>Special program at the September 25 Salon&nbsp;</strong><strong>(additional programs may be added closer to Salon time).</strong></p>
-<p>â€¢LAVA Visionary&nbsp;<a href="/web/20111112142522/http://lavatransforms.org/user/259%20target=">THE UKULADY</a>&nbsp;&amp; The Evil Sandwiches return to LA after a triumphant &amp; adventure-filled residency in Barra De Navidad Mexico!&nbsp; Dubbed The Love Child of Pee Wee Herman &amp; Cyndi Lauper, The Ukulady will share songs &amp; stories of Mexico, LA &amp; their cultural similarities, differences &amp; more!&nbsp; Interactive Crafting, Photo-Ops with the Unicorndog, The Evil Sandwich &amp; Dr. Steve Chicken.</p>
+<p>â€¢LAVA Visionary&nbsp;<a href="/web/20111112142522/https://lavatransforms.org/user/259%20target=">THE UKULADY</a>&nbsp;&amp; The Evil Sandwiches return to LA after a triumphant &amp; adventure-filled residency in Barra De Navidad Mexico!&nbsp; Dubbed The Love Child of Pee Wee Herman &amp; Cyndi Lauper, The Ukulady will share songs &amp; stories of Mexico, LA &amp; their cultural similarities, differences &amp; more!&nbsp; Interactive Crafting, Photo-Ops with the Unicorndog, The Evil Sandwich &amp; Dr. Steve Chicken.</p>
 <p></p>
-<p>â€¢LAVA Visionary and PhD in Art History PAUL KOUDOUNARIS will discuss the research for his new book, <em><a href="/web/20111112142522/http://www.tandhhighlights.co.uk/9780500251782.html" target="_blank">The Empire of Death: A Cultural History of Ossuaries and Charnel Houses</a></em>. Five years in the making, the book will be available for the first time at a <a href="/web/20111112142522/http://www.laluzdejesus.com/shows/2011/Events/Empire-of-Death/Ossuaries.htm" target="_blank">signing and photo show</a>&nbsp;the night prior to the Sunday Salon, and the LAVA talk will be the authorâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first public presentation on the work. The research for this unique book took the author to over 70 preserved charnel houses and skeletal shrines on four continents, to document the otherwise forgotten history of the veneration of the dead in Christian culture through the direct presence of human remains. The presentation will not only illuminate a forgotten history, it will also reveal the surreal saga of the research itself: among other tribulations, in the course of completing his research, the author was pursued by malevolent spirits, handcuffed to a table in a striptease bar by a prurient monk, forced to undergo a religious pilgrimage and exorcism, and arrested by the Austrian police. </p>
+<p>â€¢LAVA Visionary and PhD in Art History PAUL KOUDOUNARIS will discuss the research for his new book, <em><a href="/web/20111112142522/https://www.tandhhighlights.co.uk/9780500251782.html" target="_blank">The Empire of Death: A Cultural History of Ossuaries and Charnel Houses</a></em>. Five years in the making, the book will be available for the first time at a <a href="/web/20111112142522/https://www.laluzdejesus.com/shows/2011/Events/Empire-of-Death/Ossuaries.htm" target="_blank">signing and photo show</a>&nbsp;the night prior to the Sunday Salon, and the LAVA talk will be the authorâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first public presentation on the work. The research for this unique book took the author to over 70 preserved charnel houses and skeletal shrines on four continents, to document the otherwise forgotten history of the veneration of the dead in Christian culture through the direct presence of human remains. The presentation will not only illuminate a forgotten history, it will also reveal the surreal saga of the research itself: among other tribulations, in the course of completing his research, the author was pursued by malevolent spirits, handcuffed to a table in a striptease bar by a prurient monk, forced to undergo a religious pilgrimage and exorcism, and arrested by the Austrian police. </p>
     </div>
 </div>
 <!-- /module text -->
@@ -168,7 +165,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_x7hc613 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/paulK-2.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/paulK-2.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -178,7 +175,7 @@
     <!-- module image -->
     <div  class="module module-image tb_84f8041 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/paulK-1.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/paulK-1.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -188,7 +185,7 @@
     <!-- module image -->
     <div  class="module module-image tb_sgrz526 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/Ukulady-Pioneer-1.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/Ukulady-Pioneer-1.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -198,7 +195,7 @@
     <!-- module image -->
     <div  class="module module-image tb_8170216 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/UkuladyOGs.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/UkuladyOGs.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -208,7 +205,7 @@
     <!-- module image -->
     <div  class="module module-image tb_yqxl201 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/Cliftons_Cafeteria-03.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/Cliftons_Cafeteria-03.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -262,14 +259,14 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5003</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon August 2011</title>
-		<link>/video/salon811/</link>
+		<link>https://www.lavatransforms.org/video/salon811/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 29 Aug 2011 01:08:06 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=5004</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5004</guid>
 
 					<description><![CDATA[On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5004" data-postid="5004" class="themify_builder_content themify_builder_content-5004 themify_builder">
@@ -283,8 +280,8 @@
             <div  class="tb_text_wrap">
     <p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p><strong>Special program at the August 28 Salon</strong><strong>:&nbsp;</strong></p>
-<p>â€¢ LAVA Visionary <a href="/web/20120518094110/http://ruthannfriedman.com/" target="_blank">Ruthann Friedman</a> wrote the early bubble-pop anthem <a href="/web/20120518094110/http://www.youtube.com/watch?v=IoC4cWvRkXs" target="_blank">&#8220;Windy&#8221;</a> for The Association while crashed out on Crosbyâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s couch, swung with Zappaâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s crew, and she almost got that Jefferson Airplane vocalist slot before bitch goddess Grace slunk in. Ruthannâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1970 LP <em>Constant Companion</em> is a recording of sublime beauty and abstract folky ruminations which shouldâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve sent olâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Joni running to Essra Mohawk and Judee Sill for consolation (and inspiration!) â€” but sadly recognition was a long time in coming. Friedmanâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lone 45, <a href="/web/20120518094110/http://www.youtube.com/watch?v=AFbxKq5Vbqs" target="_blank">&#8220;Carry On (Glittering Dancer)&#8221;</a> is another bit of genius, fleshed out by captivating Van Dyke Parks arrangements a la <em>Smile</em> or <em>Song Cycle</em>. At the Sunday Salon, &nbsp;Ruthann will sing reflections of her life growing up in Los Angeles in the fifties and sixties, and let you in on intimate personal stories that have a universal appeal. Accompanied by her own guitar and the bass playing of David Jenkins, she bridges the gap between generations.</p>
-<p>â€¢ Local artist and historian <a href="/web/20120518094110/http://lavatransforms.org/user/224" target="_blank">Al Guerrero</a> is the LAVA Visionary behind the &#8220;<a href="/web/20120518094110/http://www.lavatransforms.org/nightstalker2011" target="_blank">Richard Ramirez &#8211; Night Stalker Walking Tour.</a>&#8221; For the Sunday Salon, he will be conducting a short presentation and discussion on this bloody chapter of L.A. crime history. Attendees will experience a chilling narrative of the fear and terror that gripped the Los Angeles area during the fearful, hot summer 1985, during the Night Stalkerâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s wave of terror. Al will share first-hand accounts and reveal little known facts and gruesome details of the case, including details about the Night Stalker&#8217;s haunts in the downtown area surrounding the Salon.Immediately following the Sunday Salon, Al Guerroro&#8217;s &#8220;Richard Ramirez &#8211; Night Stalker Walking Tour&#8221; will depart from Clifton&#8217;s Cafeteria (<strong>This tour is now sold out; limited standby spots may be available on tour day</strong>). This event was a complete sell-out last year, so reservations are strongly recommended. Al advises guests as to the graphic nature of some portions of the tour. For further tour information, please visit this <a href="/web/20120518094110/http://nightstalkertour.blogspot.com/" target="_blank">link</a>&nbsp;or email nightstalkertourATgmailDOTcom &nbsp;</p>
+<p>â€¢ LAVA Visionary <a href="/web/20120518094110/https://ruthannfriedman.com/" target="_blank">Ruthann Friedman</a> wrote the early bubble-pop anthem <a href="/web/20120518094110/https://www.youtube.com/watch?v=IoC4cWvRkXs" target="_blank">&#8220;Windy&#8221;</a> for The Association while crashed out on Crosbyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s couch, swung with Zappaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s crew, and she almost got that Jefferson Airplane vocalist slot before bitch goddess Grace slunk in. Ruthannâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1970 LP <em>Constant Companion</em> is a recording of sublime beauty and abstract folky ruminations which shouldâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve sent olâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Joni running to Essra Mohawk and Judee Sill for consolation (and inspiration!) â€” but sadly recognition was a long time in coming. Friedmanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lone 45, <a href="/web/20120518094110/https://www.youtube.com/watch?v=AFbxKq5Vbqs" target="_blank">&#8220;Carry On (Glittering Dancer)&#8221;</a> is another bit of genius, fleshed out by captivating Van Dyke Parks arrangements a la <em>Smile</em> or <em>Song Cycle</em>. At the Sunday Salon, &nbsp;Ruthann will sing reflections of her life growing up in Los Angeles in the fifties and sixties, and let you in on intimate personal stories that have a universal appeal. Accompanied by her own guitar and the bass playing of David Jenkins, she bridges the gap between generations.</p>
+<p>â€¢ Local artist and historian <a href="/web/20120518094110/https://lavatransforms.org/user/224" target="_blank">Al Guerrero</a> is the LAVA Visionary behind the &#8220;<a href="/web/20120518094110/https://www.lavatransforms.org/nightstalker2011" target="_blank">Richard Ramirez &#8211; Night Stalker Walking Tour.</a>&#8221; For the Sunday Salon, he will be conducting a short presentation and discussion on this bloody chapter of L.A. crime history. Attendees will experience a chilling narrative of the fear and terror that gripped the Los Angeles area during the fearful, hot summer 1985, during the Night Stalkerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s wave of terror. Al will share first-hand accounts and reveal little known facts and gruesome details of the case, including details about the Night Stalker&#8217;s haunts in the downtown area surrounding the Salon.Immediately following the Sunday Salon, Al Guerroro&#8217;s &#8220;Richard Ramirez &#8211; Night Stalker Walking Tour&#8221; will depart from Clifton&#8217;s Cafeteria (<strong>This tour is now sold out; limited standby spots may be available on tour day</strong>). This event was a complete sell-out last year, so reservations are strongly recommended. Al advises guests as to the graphic nature of some portions of the tour. For further tour information, please visit this <a href="/web/20120518094110/https://nightstalkertour.blogspot.com/" target="_blank">link</a>&nbsp;or email nightstalkertourATgmailDOTcom &nbsp;</p>
 <p>â€¢ Sorry, THE UKULADY&#8217;S previously announced appearance has been postponed until the September 25 Sunday Salon.</p>
     </div>
 </div>
@@ -296,7 +293,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_jyh4009 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/ruthann-e1413384502493.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/ruthann-e1413384502493.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -306,7 +303,7 @@
     <!-- module image -->
     <div  class="module module-image tb_v31p065 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/ruthann.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/ruthann.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -316,7 +313,7 @@
     <!-- module image -->
     <div  class="module module-image tb_93ra661 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/ramirez-la-opinion.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/ramirez-la-opinion.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -326,7 +323,7 @@
     <!-- module image -->
     <div  class="module module-image tb_t1pu000 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/15-andresRamirezCuff.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/15-andresRamirezCuff.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -336,7 +333,7 @@
     <!-- module image -->
     <div  class="module module-image tb_jpit266 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/16-HEROES-GET-AWARDS.png" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/16-HEROES-GET-AWARDS.png" alt="" width="400" height="" />            
             
         
             </div>
@@ -346,7 +343,7 @@
     <!-- module image -->
     <div  class="module module-image tb_em90202 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/09-aterazzoCliftons2.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/09-aterazzoCliftons2.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -356,7 +353,7 @@
     <!-- module image -->
     <div  class="module module-image tb_72w6560 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2015/10/panckaeCliftonsReOpening1.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2015/10/panckaeCliftonsReOpening1.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -410,14 +407,14 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5004</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon June 2011</title>
-		<link>/video/salon611/</link>
+		<link>https://www.lavatransforms.org/video/salon611/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2011 05:30:39 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=4975</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4975</guid>
 
 					<description><![CDATA[On the last Sunday of the month starting in March 2010, LAVA welcomes interested individuals to gather on the third floor of the historic Cliftonâ€™s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-4975" data-postid="4975" class="themify_builder_content themify_builder_content-4975 themify_builder">
@@ -429,14 +426,14 @@
 		    <!-- module text -->
 <div  class="module module-text tb_b9w3000    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
+    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p>&nbsp;</p>
-<p><strong>IMPORTANT ANNOUNCEMENT! This month only: due to unforeseen circumstances, the LAVA Sunday Salon will not be held at Clifton&#8217;s Cafeteria, which is closed.</strong> Instead we will gather on the third floor of the <a href="/web/20110810184804/http://www.laac.com/default.aspx?p=DynamicModule&amp;pageid=249774&amp;ssid=107113&amp;vnf=1" target="_blank">Los Angeles Athletic Club</a>, which is just two blocks west of Clifton&#8217;s, on the north-east corner of 7th and Olive Streets. For walking directions from Clifton&#8217;s Cafeteria, click&nbsp;<a href="/web/20110810184804/http://maps.google.com/maps?saddr=648+South+Broadway,+Los+Angeles,+CA&amp;daddr=431+W+7th+St,+Los+Angeles,+California+90014&amp;hl=en&amp;ll=34.045797,-118.254154&amp;spn=0.00472,0.009302&amp;sll=33.89216,-118.270088&amp;sspn=0.60531,1.190643&amp;geocode=FQh-BwIdQZrz-CmfrwdUtcfCgDG0LioGconPmQ%3BFSOCBwId5pHz-Cn79F0PtcfCgDF6bB-oOAfQsg&amp;mra=pd&amp;t=h&amp;z=17" target="_blank">here</a>. When you enter the Athletic Club, inform the person at the desk that you are there as a guest of club member Richard Schave attending the LAVA event. They will sign you in, and send you up to the third floor. It will be possible to order light meals of sandwiches in the 8th floor snack bar, however, please note that service will be slower than at Clifton&#8217;s, and that arriving early and ordering promptly will be very helpful. We recommend parking under Pershing Square at Fifth and Olive. If you order food, the Athletic Club will validate for their parking lot.&nbsp;</p>
+<p><strong>IMPORTANT ANNOUNCEMENT! This month only: due to unforeseen circumstances, the LAVA Sunday Salon will not be held at Clifton&#8217;s Cafeteria, which is closed.</strong> Instead we will gather on the third floor of the <a href="/web/20110810184804/https://www.laac.com/default.aspx?p=DynamicModule&amp;pageid=249774&amp;ssid=107113&amp;vnf=1" target="_blank">Los Angeles Athletic Club</a>, which is just two blocks west of Clifton&#8217;s, on the north-east corner of 7th and Olive Streets. For walking directions from Clifton&#8217;s Cafeteria, click&nbsp;<a href="/web/20110810184804/https://maps.google.com/maps?saddr=648+South+Broadway,+Los+Angeles,+CA&amp;daddr=431+W+7th+St,+Los+Angeles,+California+90014&amp;hl=en&amp;ll=34.045797,-118.254154&amp;spn=0.00472,0.009302&amp;sll=33.89216,-118.270088&amp;sspn=0.60531,1.190643&amp;geocode=FQh-BwIdQZrz-CmfrwdUtcfCgDG0LioGconPmQ%3BFSOCBwId5pHz-Cn79F0PtcfCgDF6bB-oOAfQsg&amp;mra=pd&amp;t=h&amp;z=17" target="_blank">here</a>. When you enter the Athletic Club, inform the person at the desk that you are there as a guest of club member Richard Schave attending the LAVA event. They will sign you in, and send you up to the third floor. It will be possible to order light meals of sandwiches in the 8th floor snack bar, however, please note that service will be slower than at Clifton&#8217;s, and that arriving early and ordering promptly will be very helpful. We recommend parking under Pershing Square at Fifth and Olive. If you order food, the Athletic Club will validate for their parking lot.&nbsp;</p>
 <p><strong>ABOUT THE SUNDAY SALON: </strong>On the last Sunday of each month, LAVA welcomes interested individuals to gather <span style="text-decoration: line-through;">on the third floor of the historic Clifton&#8217;s Cafeteria </span>in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.&nbsp;</p>
 <p><strong>Special program at the June 26 Salon (additional programs may be added closer to Salon time):&nbsp;</strong></p>
-<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; padding: 0px; border: 0px initial initial;">â€¢ Special guest Milt Stevens, a long time SF fan who has been a member of the <a href="/web/20110810184804/http://www.lasfsinc.info/" target="_blank">Los Angeles Science Fantasy Society</a> for a bit over fifty years, will give a presentation on this illustrious southland organization&#8211;the world&#8217;s oldest science fiction club, which for many years met <span style="text-decoration: line-through;">right here</span> at Clifton&#8217;s Cafeteria. Milt will give a brief history of the LASFS and discuss its current activities, with a focus on memorable anecdotes about the writers and fans who have been part of this remarkable entity.</p>
-<p>â€¢ Back by popular demand, LAVA Visionary Gene Sculatti, outsider artist and pop culture critic (<a href="/web/20110810184804/http://web.archive.org/web/20080410080056/http://www.catalog-of-cool.com/index.html" target="_blank">The Catalog of Cool</a>) returns to show off the new &#8220;construction&#8221; on his newest fantasy cityscape scroll </span><em>Majestic Boulevard</em><span style="font-style: inherit;">, which has been developed in response to the daffy and inspired suggestions of January Salon attendees. New developments suggested by LAVA Visionaries include: the world HQ of Ian Whitcomb&#8217;s ITW Industries and the&nbsp;consulate general of Smokessylvania, submitted by Count Smokula.&nbsp;Gene&#8217;s pitch to virtual developers: &#8220;Come live the Jet Age California dream when you stake out a virtual half-acre along Majestic Boulevard and plan the commercial development of your dreams. Maybe it&#8217;s tiki-themed bowling alley&#8230; or a no-tell motel named after your secret crush&#8230; or the lone Victorian farmhouse left behind when progress came to town.&#8221; Six months in the works, Gene returns to the Sunday Salon to unveil the expanded scroll to the lucky &#8220;property owners.&#8221; Also on view:&nbsp;</span><em>Untitled #1</em><span style="font-style: inherit;">, &nbsp;whose theme might be â€˜Imagining SoCal.â€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> This is a 13-inches-by-53-feet job, drawn from 1969-71, and was the last one the artist did before moving to L.A. The inspiration is mostly Southern California, and the work covers all four of Reyner Banhamâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s ecologies. Bonus: a portion has the experimental &#8220;smog coat&#8221; the artist devised to make it &#8220;more like L.A.&#8221;</span></span><span style="font-style: inherit;">&nbsp;</span><strong>ABOUT GENE SCULATTI&#8217;S SCROLLS</strong><span style="font-style: inherit;">: Since the age of 9, Sculatti, 63, has created imaginary horizontal cities packed with fascinating details that reflect his evolving obsessions: googie signage, soaring bridges, skyscrapers, suburbs, amusement parks and much more. Join us for a rare opportunity to get close to these beautiful and strange artworks, and to hear the artist discuss his inspirations, working methods, and how the scrolls have stayed with him for more than four decades. To learn more about Gene&#8217;s cityscapes, see photos from the March 2010 Sunday Salon exhibit of Gene&#8217;s scrolls </span><a style="font-style: inherit;" href="/web/20110810184804/http://www.flickr.com/photos/richardschave/sets/72157623729484726/" target="_blank">here</a><span style="font-style: inherit;">, read Gene&#8217;s musings </span><a style="font-style: inherit;" href="/web/20110810184804/http://lavatransforms.org/cityscapes" target="_blank">here</a><span style="font-style: inherit;">, or view his work-in-progress sketches </span><a style="font-style: inherit;" href="/web/20110810184804/http://lavatransforms.org/blog/55" target="_blank">here</a><span style="font-style: inherit;">.</span></p>
-<p><span style="text-decoration: line-through;"><span style="font-weight: inherit; font-style: inherit; font-size: small; font-family: inherit; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px initial initial;">Clifton&#8217;s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Clifton&#8217;s is online at&nbsp;<a style="font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; vertical-align: baseline; color: #ff4500; outline-style: none; outline-width: initial; outline-color: initial; text-decoration: none; padding: 0px; margin: 0px; border: 0px initial initial;" href="/web/20110810184804/http://www.cliftonscafeteria.com/" target="_blank">http://www.cliftonscafeteria.com/</a></span></p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; padding: 0px; border: 0px initial initial;">â€¢ Special guest Milt Stevens, a long time SF fan who has been a member of the <a href="/web/20110810184804/https://www.lasfsinc.info/" target="_blank">Los Angeles Science Fantasy Society</a> for a bit over fifty years, will give a presentation on this illustrious southland organization&#8211;the world&#8217;s oldest science fiction club, which for many years met <span style="text-decoration: line-through;">right here</span> at Clifton&#8217;s Cafeteria. Milt will give a brief history of the LASFS and discuss its current activities, with a focus on memorable anecdotes about the writers and fans who have been part of this remarkable entity.</p>
+<p>â€¢ Back by popular demand, LAVA Visionary Gene Sculatti, outsider artist and pop culture critic (<a href="/web/20110810184804/https://web.archive.org/web/20080410080056/https://www.catalog-of-cool.com/index.html" target="_blank">The Catalog of Cool</a>) returns to show off the new &#8220;construction&#8221; on his newest fantasy cityscape scroll </span><em>Majestic Boulevard</em><span style="font-style: inherit;">, which has been developed in response to the daffy and inspired suggestions of January Salon attendees. New developments suggested by LAVA Visionaries include: the world HQ of Ian Whitcomb&#8217;s ITW Industries and the&nbsp;consulate general of Smokessylvania, submitted by Count Smokula.&nbsp;Gene&#8217;s pitch to virtual developers: &#8220;Come live the Jet Age California dream when you stake out a virtual half-acre along Majestic Boulevard and plan the commercial development of your dreams. Maybe it&#8217;s tiki-themed bowling alley&#8230; or a no-tell motel named after your secret crush&#8230; or the lone Victorian farmhouse left behind when progress came to town.&#8221; Six months in the works, Gene returns to the Sunday Salon to unveil the expanded scroll to the lucky &#8220;property owners.&#8221; Also on view:&nbsp;</span><em>Untitled #1</em><span style="font-style: inherit;">, &nbsp;whose theme might be â€˜Imagining SoCal.â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> This is a 13-inches-by-53-feet job, drawn from 1969-71, and was the last one the artist did before moving to L.A. The inspiration is mostly Southern California, and the work covers all four of Reyner Banhamâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s ecologies. Bonus: a portion has the experimental &#8220;smog coat&#8221; the artist devised to make it &#8220;more like L.A.&#8221;</span></span><span style="font-style: inherit;">&nbsp;</span><strong>ABOUT GENE SCULATTI&#8217;S SCROLLS</strong><span style="font-style: inherit;">: Since the age of 9, Sculatti, 63, has created imaginary horizontal cities packed with fascinating details that reflect his evolving obsessions: googie signage, soaring bridges, skyscrapers, suburbs, amusement parks and much more. Join us for a rare opportunity to get close to these beautiful and strange artworks, and to hear the artist discuss his inspirations, working methods, and how the scrolls have stayed with him for more than four decades. To learn more about Gene&#8217;s cityscapes, see photos from the March 2010 Sunday Salon exhibit of Gene&#8217;s scrolls </span><a style="font-style: inherit;" href="/web/20110810184804/https://www.flickr.com/photos/richardschave/sets/72157623729484726/" target="_blank">here</a><span style="font-style: inherit;">, read Gene&#8217;s musings </span><a style="font-style: inherit;" href="/web/20110810184804/https://lavatransforms.org/cityscapes" target="_blank">here</a><span style="font-style: inherit;">, or view his work-in-progress sketches </span><a style="font-style: inherit;" href="/web/20110810184804/https://lavatransforms.org/blog/55" target="_blank">here</a><span style="font-style: inherit;">.</span></p>
+<p><span style="text-decoration: line-through;"><span style="font-weight: inherit; font-style: inherit; font-size: small; font-family: inherit; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px initial initial;">Clifton&#8217;s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Clifton&#8217;s is online at&nbsp;<a style="font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; vertical-align: baseline; color: #ff4500; outline-style: none; outline-width: initial; outline-color: initial; text-decoration: none; padding: 0px; margin: 0px; border: 0px initial initial;" href="/web/20110810184804/https://www.cliftonscafeteria.com/" target="_blank">https://www.cliftonscafeteria.com/</a></span></p>
     </div>
 </div>
 <!-- /module text -->
@@ -447,7 +444,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_rdxi141 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/LASFS-018.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/LASFS-018.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -457,7 +454,7 @@
     <!-- module image -->
     <div  class="module module-image tb_m6tn066 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img32.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img32.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -467,7 +464,7 @@
     <!-- module image -->
     <div  class="module module-image tb_20g4201 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/5484148138_91d2b76e83.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/5484148138_91d2b76e83.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -477,7 +474,7 @@
     <!-- module image -->
     <div  class="module module-image tb_7hd6047 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img61.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img61.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -531,14 +528,14 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4975</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon July 2011</title>
-		<link>/video/salon711/</link>
+		<link>https://www.lavatransforms.org/video/salon711/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 01 Aug 2011 00:55:12 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=5002</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5002</guid>
 
 					<description><![CDATA[On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5002" data-postid="5002" class="themify_builder_content themify_builder_content-5002 themify_builder">
@@ -552,8 +549,8 @@
             <div  class="tb_text_wrap">
     <p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p><strong>Special program at the July 31 Salon</strong><strong>&nbsp;(additional programs may be added closer to Salon time)</strong><strong>:&nbsp;</strong></p>
-<p>â€¢ Preservationist, &nbsp;tile historian and LAVA Visionary Brian Kaiser will give a talk on Artistic Tile in Southern California. The main body of the presentation is a slide tour of the house that Rufus Keeler built for himself in South Gate in 1924. Mr. Keeler was founder, plant manager, and sole ceramist of the <a href="/web/20120621053441/http://www.tileheritage.org/Calco-inside.html" target="_blank">Calco</a> (1923-1932) and <a href="/web/20120621053441/http://www.adamsonhouse.org/Tile/tile.html" target="_blank">Malibu</a> potteries (1926-1932). His house is tile from start to finish, and was made from Calco Tile, a pottery that preceded Malibu Tile. Meant to be a showcase for the use of clay products in home construction and decoration, the house still stands as a magnificent example of one of the finest ceramists in all of California during the 1920s and 1930s.</p>
-<p>â€¢ LAVA Visionaries <a href="/web/20120621053441/http://godismyboyfriend.com/" target="_blank">Maja D&#8217;Aoust</a>, Librarian at the <a href="/web/20120621053441/http://prs.org/wpcms/" target="_blank">Philosophical Research Society</a>&nbsp;and host of the July 30 Esotouric bus adventure&nbsp;<em><a href="/web/20120621053441/http://esotouric.com/maja-7-30-11" target="_blank">Maja&#8217;s Mysteries: Rapture &amp; Release</a></em><span style="font-style: inherit;">, and Rev. Paul Nugent of </span><a style="font-style: inherit;" href="/web/20120621053441/http://www.aetherius.org/index.cfm?app=content&amp;SectionID=87" target="_blank">The Aetherius Society</a><span style="font-style: inherit;"> will host a joint presentation / conversation on the history of Los Angeles as a magnetic spiritual center: a place where people of all faiths and backgrounds have come to seek enlightenment since the turn of the last century.&nbsp; Maja will introduce us to some of the major esoteric groups and thinkers that have made Los Angeles their home, revealing the shared aims beneath a seemingly disparate collection of seekers.&nbsp; These will include The Ordo Templi Orientis (O.T.O.), Manly P. Hall and his Philosophical Research Society and The Theosophy Society, to name a few. Then Paul will give a brief history of The Aetherius Society, the spiritual organization which was brought to Los Angeles by Yoga Master and extraterrestrial contactee Dr. George King in 1959, as part of his mission to help humanity raise itself from universal suffering and ignorance. Dr. King&#8217;s initial communication with the Cosmic Master Aetherius occurred in 1954, spurring Dr. King on to found the Society in England the following year (he ran it until his death in 1997; Paul Nugent was a personal assistant to Dr. King and is a current Director of the organization&#8217;s American headquarters). Part of the work of The Aetherius Society is predicated on Prayer, and the mental direction of positive energy towards the world&#8217;s trouble spots in a manifestation of the concept that consciousness can impact objective reality. The presentation will provide an overview of the&nbsp;Southland&#8217;s fascinating spiritual history and ongoing role in the development of new religious thought and action.</span></p>
+<p>â€¢ Preservationist, &nbsp;tile historian and LAVA Visionary Brian Kaiser will give a talk on Artistic Tile in Southern California. The main body of the presentation is a slide tour of the house that Rufus Keeler built for himself in South Gate in 1924. Mr. Keeler was founder, plant manager, and sole ceramist of the <a href="/web/20120621053441/https://www.tileheritage.org/Calco-inside.html" target="_blank">Calco</a> (1923-1932) and <a href="/web/20120621053441/https://www.adamsonhouse.org/Tile/tile.html" target="_blank">Malibu</a> potteries (1926-1932). His house is tile from start to finish, and was made from Calco Tile, a pottery that preceded Malibu Tile. Meant to be a showcase for the use of clay products in home construction and decoration, the house still stands as a magnificent example of one of the finest ceramists in all of California during the 1920s and 1930s.</p>
+<p>â€¢ LAVA Visionaries <a href="/web/20120621053441/https://godismyboyfriend.com/" target="_blank">Maja D&#8217;Aoust</a>, Librarian at the <a href="/web/20120621053441/https://prs.org/wpcms/" target="_blank">Philosophical Research Society</a>&nbsp;and host of the July 30 Esotouric bus adventure&nbsp;<em><a href="/web/20120621053441/https://esotouric.com/maja-7-30-11" target="_blank">Maja&#8217;s Mysteries: Rapture &amp; Release</a></em><span style="font-style: inherit;">, and Rev. Paul Nugent of </span><a style="font-style: inherit;" href="/web/20120621053441/https://www.aetherius.org/index.cfm?app=content&amp;SectionID=87" target="_blank">The Aetherius Society</a><span style="font-style: inherit;"> will host a joint presentation / conversation on the history of Los Angeles as a magnetic spiritual center: a place where people of all faiths and backgrounds have come to seek enlightenment since the turn of the last century.&nbsp; Maja will introduce us to some of the major esoteric groups and thinkers that have made Los Angeles their home, revealing the shared aims beneath a seemingly disparate collection of seekers.&nbsp; These will include The Ordo Templi Orientis (O.T.O.), Manly P. Hall and his Philosophical Research Society and The Theosophy Society, to name a few. Then Paul will give a brief history of The Aetherius Society, the spiritual organization which was brought to Los Angeles by Yoga Master and extraterrestrial contactee Dr. George King in 1959, as part of his mission to help humanity raise itself from universal suffering and ignorance. Dr. King&#8217;s initial communication with the Cosmic Master Aetherius occurred in 1954, spurring Dr. King on to found the Society in England the following year (he ran it until his death in 1997; Paul Nugent was a personal assistant to Dr. King and is a current Director of the organization&#8217;s American headquarters). Part of the work of The Aetherius Society is predicated on Prayer, and the mental direction of positive energy towards the world&#8217;s trouble spots in a manifestation of the concept that consciousness can impact objective reality. The presentation will provide an overview of the&nbsp;Southland&#8217;s fascinating spiritual history and ongoing role in the development of new religious thought and action.</span></p>
 <p>&nbsp;</p>
     </div>
 </div>
@@ -565,7 +562,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_qqhj987 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/briansFirePlace.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/briansFirePlace.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -575,7 +572,7 @@
     <!-- module image -->
     <div  class="module module-image tb_2wjt907 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/majaPRS.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/majaPRS.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -585,7 +582,7 @@
     <!-- module image -->
     <div  class="module module-image tb_i7i5315 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/georgeKing.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/georgeKing.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -595,7 +592,7 @@
     <!-- module image -->
     <div  class="module module-image tb_hg4t595 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/majaD.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/majaD.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -605,7 +602,7 @@
     <!-- module image -->
     <div  class="module module-image tb_p9h6996 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/2326243114_97566f1b9f_o.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/2326243114_97566f1b9f_o.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -659,14 +656,14 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5002</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon May 2011</title>
-		<link>/video/salon511/</link>
+		<link>https://www.lavatransforms.org/video/salon511/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 30 May 2011 05:06:58 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=4971</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4971</guid>
 
 					<description><![CDATA[On the last Sunday of the month starting in March 2010, LAVA welcomes interested individuals to gather on the third floor of the historic Cliftonâ€™s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-4971" data-postid="4971" class="themify_builder_content themify_builder_content-4971 themify_builder">
@@ -678,19 +675,19 @@
 		    <!-- module text -->
 <div  class="module module-text tb_7wgw408    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
+    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p><strong>Special program at the May 29 Salon:Â </strong></p>
 <p><strong>Â </strong></p>
-<p>â€¢Â Artist / musician and LAVA Visionary Rich Polysorbate 60 was born five years after the shipwreck of the <a href="/web/20111111220337/http://atlasobscura.com/place/the-dominator-shipwreck" target="_blank">S.S. Dominator</a> off Palos Verdes. The <a href="/web/20111111220337/http://www.youtube.com/watch?v=UszxSHVwjNQ&amp;feature=youtube_gdata_player" target="_blank">wreck</a> served as his tree fort and nautical womb. He would hallucinate and dream about fusing as one with it. The Dominator would feed him memories and stories related to those who died on it after it split in half and was scattered among the rocks. Rich will be on hand today to share mementos and clues in the way of a film/poetry presentation with live theremin accompaniment from Paul Wilkins (PWE/Clowns and Fetuses).</p>
-<p>â€¢ LAVA co-founder Richard Schave hosts a discussion on the history of <a href="/web/20111111220337/http://www.ult-la.org/" target="_blank">The United Lodge of Theosophy</a>, a unique Los Angeles institution. The forces that impacted founder Robert Crosbie from his arrival in 1911, and how he and his brethren shaped their spiritual and educational environment over the decades, are a fundamental narrative of the city. Theosophy, like Los Angeles, straddles two kingdoms, the finite and the infinite, imbued with fascinating contradictions: love, wealth, greed, power and release. Victoria Prinz is a member of the ULT, and she&#8217;ll take some of these themes as a starting point for this discussion on the extraordinary legacy of the ULT in Los Angeles.</p>
+<p>â€¢Â Artist / musician and LAVA Visionary Rich Polysorbate 60 was born five years after the shipwreck of the <a href="/web/20111111220337/https://atlasobscura.com/place/the-dominator-shipwreck" target="_blank">S.S. Dominator</a> off Palos Verdes. The <a href="/web/20111111220337/https://www.youtube.com/watch?v=UszxSHVwjNQ&amp;feature=youtube_gdata_player" target="_blank">wreck</a> served as his tree fort and nautical womb. He would hallucinate and dream about fusing as one with it. The Dominator would feed him memories and stories related to those who died on it after it split in half and was scattered among the rocks. Rich will be on hand today to share mementos and clues in the way of a film/poetry presentation with live theremin accompaniment from Paul Wilkins (PWE/Clowns and Fetuses).</p>
+<p>â€¢ LAVA co-founder Richard Schave hosts a discussion on the history of <a href="/web/20111111220337/https://www.ult-la.org/" target="_blank">The United Lodge of Theosophy</a>, a unique Los Angeles institution. The forces that impacted founder Robert Crosbie from his arrival in 1911, and how he and his brethren shaped their spiritual and educational environment over the decades, are a fundamental narrative of the city. Theosophy, like Los Angeles, straddles two kingdoms, the finite and the infinite, imbued with fascinating contradictions: love, wealth, greed, power and release. Victoria Prinz is a member of the ULT, and she&#8217;ll take some of these themes as a starting point for this discussion on the extraordinary legacy of the ULT in Los Angeles.</p>
 <p style="margin: 0px 0px 1.5em; font-weight: inherit; font-style: inherit; font-size: 12px; font-family: inherit; vertical-align: baseline; padding: 0px;"><strong>Post-Salon happenings: </strong><strong><br />
 </strong></p>
-<p>â€¢ Following the Salon, a limited number of people will join LAVA co-founder Richard Schave and architectural historian Nathan Marsak for a free <em><a href="/web/20111111220337/http://www.amazon.com/dp/B002I0J5UQ?tag=bubblegumbook&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=B002I0J5UQ&amp;adid=1DQ98RF6JEBHXM8F31XZ&amp;" target="_blank">L.A. Noire</a></em>-themed walking tour, part of the series The FlÃ¢neur &amp; The City. This event is now sold out (info <a href="/web/20111111220337/http://lavatransforms.org/flaneur-lanoire" target="_blank">here)</a>, but all may attend Nathan&#8217;s pre-walk presentation upstairs at Clifton&#8217;s on <strong>Downtown Los Angeles Then/Now</strong> as represented in the game play of the new video game <em><a href="/web/20111111220337/http://www.amazon.com/dp/B002I0J5UQ?tag=bubblegumbook&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=B002I0J5UQ&amp;adid=1DQ98RF6JEBHXM8F31XZ&amp;" target="_blank">L.A. Noire</a>. </em>Nathan&#8217;s talk will begin around 2pm, as the Salon concludes.<em><br />
+<p>â€¢ Following the Salon, a limited number of people will join LAVA co-founder Richard Schave and architectural historian Nathan Marsak for a free <em><a href="/web/20111111220337/https://www.amazon.com/dp/B002I0J5UQ?tag=bubblegumbook&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=B002I0J5UQ&amp;adid=1DQ98RF6JEBHXM8F31XZ&amp;" target="_blank">L.A. Noire</a></em>-themed walking tour, part of the series The FlÃ¢neur &amp; The City. This event is now sold out (info <a href="/web/20111111220337/https://lavatransforms.org/flaneur-lanoire" target="_blank">here)</a>, but all may attend Nathan&#8217;s pre-walk presentation upstairs at Clifton&#8217;s on <strong>Downtown Los Angeles Then/Now</strong> as represented in the game play of the new video game <em><a href="/web/20111111220337/https://www.amazon.com/dp/B002I0J5UQ?tag=bubblegumbook&amp;camp=14573&amp;creative=327641&amp;linkCode=as1&amp;creativeASIN=B002I0J5UQ&amp;adid=1DQ98RF6JEBHXM8F31XZ&amp;" target="_blank">L.A. Noire</a>. </em>Nathan&#8217;s talk will begin around 2pm, as the Salon concludes.<em><br />
 </em></p>
 <p><a href="https://youtu.be/NtHApfPImlM"><span class="caps">LAVA</span> Sunday Salon extras: Nathan Marsak on L.A. Noire</a></p>
-<p>Clifton&#8217;s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Clifton&#8217;s is online atÂ <a href="/web/20111111220337/http://www.cliftonscafeteria.com/" target="_blank">http://www.cliftonscafeteria.com/</a><strong>Â </strong></p>
+<p>Clifton&#8217;s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Clifton&#8217;s is online atÂ <a href="/web/20111111220337/https://www.cliftonscafeteria.com/" target="_blank">https://www.cliftonscafeteria.com/</a><strong>Â </strong></p>
     </div>
 </div>
 <!-- /module text -->
@@ -701,7 +698,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_9jrl983 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/5732029605_9a4b8d9c6f_b.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/5732029605_9a4b8d9c6f_b.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -711,7 +708,7 @@
     <!-- module image -->
     <div  class="module module-image tb_l8sj560 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/hqdefault.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/hqdefault.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -721,7 +718,7 @@
     <!-- module image -->
     <div  class="module module-image tb_etk3057 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img8.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img8.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -731,7 +728,7 @@
     <!-- module image -->
     <div  class="module module-image tb_d3l7066 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/04-dominator.jpeg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/04-dominator.jpeg" alt="" width="400" height="" />            
             
         
             </div>
@@ -785,17 +782,17 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4971</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon April 2011</title>
-		<link>/video/salon411/</link>
+		<link>https://www.lavatransforms.org/video/salon411/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 25 Apr 2011 04:49:52 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=4967</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4967</guid>
 
 					<description><![CDATA[On the last Sunday of the month starting in March 2010, LAVA welcomes interested individuals to gather on the third floor of the historic Cliftonâ€™s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="758" src="/wp-content/uploads/2015/10/IMG_20151001_114002.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/10/IMG_20151001_114002.jpg 1024w, /wp-content/uploads/2015/10/IMG_20151001_114002-300x222.jpg 300w, /wp-content/uploads/2015/10/IMG_20151001_114002-1024x758-400x296.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4967" data-postid="4967" class="themify_builder_content themify_builder_content-4967 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1024" height="758" src="https://www.lavatransforms.org/wp-content/uploads/2015/10/IMG_20151001_114002.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/10/IMG_20151001_114002.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2015/10/IMG_20151001_114002-300x222.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/10/IMG_20151001_114002-1024x758-400x296.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4967" data-postid="4967" class="themify_builder_content themify_builder_content-4967 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_4967_row module_row_4967-0 tb_77s0006">
 	    	    <div class="row_inner col_align_top" >
@@ -804,13 +801,13 @@
 		    <!-- module text -->
 <div  class="module module-text tb_roip263    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
+    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p>On the last Sunday of each month, LAVA welcomes interested individuals to gather on the third floor of the historic Clifton&#8217;s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
 <p><strong>Special program at the April 24 Salon:&nbsp;</strong></p>
-<p>â€¢ In keeping with the Easter Sunday theme, LAVA Visionary&nbsp;<span style="font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; line-height: 19px; font-size: xx-small;"><a style="font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; vertical-align: baseline; color: #ff4500; outline-style: none; outline-width: initial; outline-color: initial; text-decoration: none; padding: 0px; margin: 0px; border: 0px initial initial;" href="/web/20120103160829/http://www.theukulady.com/" target="_blank">The Ukulady</a></span>&nbsp;and her band the Evil Sandwiches will sing quirky songs on ukulele, banjo and omnichord while Visionaries and honored guests craft Egg-centric &amp; Bunnyriffic crafts, including magnets, pins, pipe-cleaner jewelry, egg dioramas and more!</span></p>
-<p>â€¢&nbsp;</span>LAVA Visionary&nbsp;</span><a href="/web/20120103160829/http://www.picklehead.com/ian.html" target="_blank">Ian Whitcomb</a> will lead us on a ramble through his checkered past: how, while still a student at Trinity College Dublin, he came to Los Angeles in 1965&#8211;as a Justin Beiber-style teen idol with his lubricious hit, &#8220;You Turn Me On.&#8221; How he fell in love with the glamor&#8211;surf, girls, bodies in general, onion rings, and what not&#8211;and how, over the years, although the glamor has faded, he is even more entranced with L.A as a city of hidden treasures and odd folk, who are now his friends. He made a BBC film about the GB colony, he has been a radio host since the early 1980s ( KROQ, KCRW, KPCC) and now talks about his life here on his XM (Channel 152,Extreme Radio) and Luxuriamusic.com radio shows and also in his monthly &#8220;Letters From Lotusland&#8221; posted online. While online travel to <a href="/web/20120103160829/http://www.youtube.com/user/ianwhitcomb" target="_blank">YouTube</a> and see Ian in his rock &nbsp;star splendor and go through the years with him as he transforms from rocker to ragtimer and finally to ukester&#8211;you can even watch the BBC documentary mentioned above&#8211;it&#8217;s heavy with sex and nudity) He will illustrate his ramble with extracts from his latest book, <a href="/web/20120103160829/http://astore.amazon.com/lavatransforms-20/detail/057803610X" target="_blank">&#8220;Letters From Lotusland&#8211;An Englishman In Exile&#8221;</a> (especially from the episode where his dog Rollo is taken for a ride by a Hollywood scam audition outfit ), and, with his ukulele he will sing his song , &#8220;Come And Make Your Heaven In L.A.&#8221; &nbsp;(as featured in the horrible slasher feature, &#8220;Bloody Movie&#8221; and on You Tube). Ian, by the way, was instrumental in the &nbsp;revival of the ukulele&#8211; back in the 1960s and early 70s on Dick Clark&#8217;s &#8220;Where The Action Is&#8221; and Johnny Carson&#8217;s &#8220;Tonight Show&#8221; and, of course, though his hit single <a href="/web/20120103160829/http://www.youtube.com/watch?v=X8HDsWJilq8" target="_blank">&#8220;Where Did Robinson Crusoe Go With Friday On Saturday Night?&#8221;</a></span></p>
+<p>â€¢ In keeping with the Easter Sunday theme, LAVA Visionary&nbsp;<span style="font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; line-height: 19px; font-size: xx-small;"><a style="font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; vertical-align: baseline; color: #ff4500; outline-style: none; outline-width: initial; outline-color: initial; text-decoration: none; padding: 0px; margin: 0px; border: 0px initial initial;" href="/web/20120103160829/https://www.theukulady.com/" target="_blank">The Ukulady</a></span>&nbsp;and her band the Evil Sandwiches will sing quirky songs on ukulele, banjo and omnichord while Visionaries and honored guests craft Egg-centric &amp; Bunnyriffic crafts, including magnets, pins, pipe-cleaner jewelry, egg dioramas and more!</span></p>
+<p>â€¢&nbsp;</span>LAVA Visionary&nbsp;</span><a href="/web/20120103160829/https://www.picklehead.com/ian.html" target="_blank">Ian Whitcomb</a> will lead us on a ramble through his checkered past: how, while still a student at Trinity College Dublin, he came to Los Angeles in 1965&#8211;as a Justin Beiber-style teen idol with his lubricious hit, &#8220;You Turn Me On.&#8221; How he fell in love with the glamor&#8211;surf, girls, bodies in general, onion rings, and what not&#8211;and how, over the years, although the glamor has faded, he is even more entranced with L.A as a city of hidden treasures and odd folk, who are now his friends. He made a BBC film about the GB colony, he has been a radio host since the early 1980s ( KROQ, KCRW, KPCC) and now talks about his life here on his XM (Channel 152,Extreme Radio) and Luxuriamusic.com radio shows and also in his monthly &#8220;Letters From Lotusland&#8221; posted online. While online travel to <a href="/web/20120103160829/https://www.youtube.com/user/ianwhitcomb" target="_blank">YouTube</a> and see Ian in his rock &nbsp;star splendor and go through the years with him as he transforms from rocker to ragtimer and finally to ukester&#8211;you can even watch the BBC documentary mentioned above&#8211;it&#8217;s heavy with sex and nudity) He will illustrate his ramble with extracts from his latest book, <a href="/web/20120103160829/https://astore.amazon.com/lavatransforms-20/detail/057803610X" target="_blank">&#8220;Letters From Lotusland&#8211;An Englishman In Exile&#8221;</a> (especially from the episode where his dog Rollo is taken for a ride by a Hollywood scam audition outfit ), and, with his ukulele he will sing his song , &#8220;Come And Make Your Heaven In L.A.&#8221; &nbsp;(as featured in the horrible slasher feature, &#8220;Bloody Movie&#8221; and on You Tube). Ian, by the way, was instrumental in the &nbsp;revival of the ukulele&#8211; back in the 1960s and early 70s on Dick Clark&#8217;s &#8220;Where The Action Is&#8221; and Johnny Carson&#8217;s &#8220;Tonight Show&#8221; and, of course, though his hit single <a href="/web/20120103160829/https://www.youtube.com/watch?v=X8HDsWJilq8" target="_blank">&#8220;Where Did Robinson Crusoe Go With Friday On Saturday Night?&#8221;</a></span></p>
 <p><a href="https://youtu.be/94lPdqRcXVs">Ian&#8217;s Presentation</a> on Youtube.</p>
-<p>Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s is online at <a href="http://www.cliftonscafeteria.com/">http://www.cliftonscafeteria.com/</a></p>
+<p>Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s is online at <a href="https://www.cliftonscafeteria.com/">https://www.cliftonscafeteria.com/</a></p>
     </div>
 </div>
 <!-- /module text -->
@@ -821,7 +818,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_x30d777 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/10-05new11.gif" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/10-05new11.gif" alt="" width="400" height="0" />            
             
         
             </div>
@@ -831,7 +828,7 @@
     <!-- module image -->
     <div  class="module module-image tb_zg2g898 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/presskit-UkuladyHiRes4.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/presskit-UkuladyHiRes4.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -841,7 +838,7 @@
     <!-- module image -->
     <div  class="module module-image tb_gy2w019 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img72.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img72.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -851,7 +848,7 @@
     <!-- module image -->
     <div  class="module module-image tb_mde7829 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/featherInCapBottegaLouise1.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/featherInCapBottegaLouise1.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -905,14 +902,14 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4967</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon March 2011</title>
-		<link>/video/salon311/</link>
+		<link>https://www.lavatransforms.org/video/salon311/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sun, 27 Mar 2011 23:04:23 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=4963</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4963</guid>
 
 					<description><![CDATA[On the last Sunday of the month starting in March 2010, LAVA welcomes interested individuals to gather on the third floor of the historic Cliftonâ€™s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-4963" data-postid="4963" class="themify_builder_content themify_builder_content-4963 themify_builder">
@@ -924,18 +921,18 @@
 		    <!-- module text -->
 <div  class="module module-text tb_3fej226    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
-<p><a href="http://www.lavatransforms.org/2011/03/29/lavas-march-2011-sunday-salon-video/">Break down of video</a> for this salon by presenter.</p>
-<p>â€¢ <span class="caps">LAVA</span> Visionary Jon Alloway talks about and previews his new documentary <a href="http://www.intothezonemovie.com/">Into the Zone &#8211; The Story of the Cacophony Society</a>, as recently seen at <span class="caps">MOMA</span> as part of the Juxtapoz &#8220;All the Wrong Art&#8221; show. This hilarious and exciting Dada-documentary follows the evolution of the prankish group from its origins in the San Francisco Suicide Club through the creation of the Burning Man Festival, the irreverent Los Angeles Cacophony Society and beyond. This is the history of a significant American underground cultural movement, featuring astonishing footage never before seen by normal people. <a href="http://la.cacophony.org/">The Cacophony Society</a> is a national network of creative provocateurs serving as prototype for Chuck Palahniukâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s &#8220;Fight Club.&#8221;  Throughout the 1990s, the Society&#8217;s notorious Los Angeles lodge orchestrated hundreds of darkly absurdist culture-jamming spectacles ranging from the detonation of a pyro-charged 80-foot replica of Disneyâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Itâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a Small World ride to a Christmas face-off between a two-hundred-strong mob of Santas and a riot squad. The credo of the Cacophony Society is  &#8220;You May Already be a Member!&#8221; </p>
-<p>â€¢ <span class="caps">LAVA</span> Visionary &#8220;Reverend&#8221; Al Ridenour, the former &#8220;Grand Instigator&#8221; of the Los Angeles Lodge of the Cacophony Society, will be sharing insights into his years coordinating Cacophonist activities. Al will also be talking about his current project, <a href="http://www.artofbleeding.com/blog/">The Art of Bleeding</a>, a performance collective that gathers together a number of former LA Cacophonists for absurdist medically-themed stage shows and events. The Art of Bleeding produces ego-destabilizing programs on safety and medical education for both live and video presentation. Often staged from an actual ambulance, their performances utilize a perturbing mix of cartoonish costumes, puppets, vintage educational films, animation, and thinly veiled medical fetishism to create a sort of â€œparamedical funhouseâ€ in which the groping ego may ultimately experience <span class="caps">TRUE</span> <span class="caps">SAFETY</span> <span class="caps">CONSCIOUSNESS</span>.  </p>
-<p>â€¢From his music-biz research archives, <span class="caps">LAVA</span> Visionary <a href="http://www.genesculatti.com/por.asp">Gene Sculatti</a> presents <span class="caps">TALES</span> <span class="caps">FROM</span> <span class="caps">THE</span> <span class="caps">FLIPSIDE</span>, a recounting of some of the more colorful and outrageous scams, tricks and stunts used by promotion men to get their records played. Hear some of what it took to land some of your favorite artists on the charts. Featured: the Peter, Paul &amp; Mary riots, the consequences of being the fake Duke of Earl, and the saga of the singing cop Saverio Saridis.<br />Clifton&#8217;s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Clifton&#8217;s is online at <a href="http://www.cliftonscafeteria.com/">http://www.cliftonscafeteria.com/</a> </p>
+    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
+<p><a href="https://www.lavatransforms.org/2011/03/29/lavas-march-2011-sunday-salon-video/">Break down of video</a> for this salon by presenter.</p>
+<p>â€¢ <span class="caps">LAVA</span> Visionary Jon Alloway talks about and previews his new documentary <a href="https://www.intothezonemovie.com/">Into the Zone &#8211; The Story of the Cacophony Society</a>, as recently seen at <span class="caps">MOMA</span> as part of the Juxtapoz &#8220;All the Wrong Art&#8221; show. This hilarious and exciting Dada-documentary follows the evolution of the prankish group from its origins in the San Francisco Suicide Club through the creation of the Burning Man Festival, the irreverent Los Angeles Cacophony Society and beyond. This is the history of a significant American underground cultural movement, featuring astonishing footage never before seen by normal people. <a href="https://la.cacophony.org/">The Cacophony Society</a> is a national network of creative provocateurs serving as prototype for Chuck Palahniukâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s &#8220;Fight Club.&#8221;  Throughout the 1990s, the Society&#8217;s notorious Los Angeles lodge orchestrated hundreds of darkly absurdist culture-jamming spectacles ranging from the detonation of a pyro-charged 80-foot replica of Disneyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a Small World ride to a Christmas face-off between a two-hundred-strong mob of Santas and a riot squad. The credo of the Cacophony Society is  &#8220;You May Already be a Member!&#8221; </p>
+<p>â€¢ <span class="caps">LAVA</span> Visionary &#8220;Reverend&#8221; Al Ridenour, the former &#8220;Grand Instigator&#8221; of the Los Angeles Lodge of the Cacophony Society, will be sharing insights into his years coordinating Cacophonist activities. Al will also be talking about his current project, <a href="https://www.artofbleeding.com/blog/">The Art of Bleeding</a>, a performance collective that gathers together a number of former LA Cacophonists for absurdist medically-themed stage shows and events. The Art of Bleeding produces ego-destabilizing programs on safety and medical education for both live and video presentation. Often staged from an actual ambulance, their performances utilize a perturbing mix of cartoonish costumes, puppets, vintage educational films, animation, and thinly veiled medical fetishism to create a sort of â€œparamedical funhouseâ€ in which the groping ego may ultimately experience <span class="caps">TRUE</span> <span class="caps">SAFETY</span> <span class="caps">CONSCIOUSNESS</span>.  </p>
+<p>â€¢From his music-biz research archives, <span class="caps">LAVA</span> Visionary <a href="https://www.genesculatti.com/por.asp">Gene Sculatti</a> presents <span class="caps">TALES</span> <span class="caps">FROM</span> <span class="caps">THE</span> <span class="caps">FLIPSIDE</span>, a recounting of some of the more colorful and outrageous scams, tricks and stunts used by promotion men to get their records played. Hear some of what it took to land some of your favorite artists on the charts. Featured: the Peter, Paul &amp; Mary riots, the consequences of being the fake Duke of Earl, and the saga of the singing cop Saverio Saridis.<br />Clifton&#8217;s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Clifton&#8217;s is online at <a href="https://www.cliftonscafeteria.com/">https://www.cliftonscafeteria.com/</a> </p>
     </div>
 </div>
 <!-- /module text -->
     <!-- module image -->
     <div  class="module module-image tb_4hb4399 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/2325423553_e58f74ede0_o.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/2325423553_e58f74ede0_o.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -949,7 +946,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_r52p355 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/bunny-at-cliftons.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/bunny-at-cliftons.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -959,7 +956,7 @@
     <!-- module image -->
     <div  class="module module-image tb_15uv640 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img32.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img32.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -969,7 +966,7 @@
     <!-- module image -->
     <div  class="module module-image tb_tk7o500 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img14.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img14.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -979,7 +976,7 @@
     <!-- module image -->
     <div  class="module module-image tb_4y73600 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/art_of_bleeding.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/art_of_bleeding.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -1033,14 +1030,14 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4963</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon February 2011</title>
-		<link>/video/salon211/</link>
+		<link>https://www.lavatransforms.org/video/salon211/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sun, 27 Feb 2011 23:29:55 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=4960</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4960</guid>
 
 					<description><![CDATA[On the last Sunday of the month starting in March 2010, LAVA welcomes interested individuals to gather on the third floor of the historic Cliftonâ€™s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-4960" data-postid="4960" class="themify_builder_content themify_builder_content-4960 themify_builder">
@@ -1052,11 +1049,11 @@
 		    <!-- module text -->
 <div  class="module module-text tb_46pa120    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
-<p>â€¢ <span class="caps">LAVA</span> Visionary John Dullaghan, director of <a href="http://www.imdb.com/title/tt0342150/">Bukowski: Born Into This</a>, leads a discussion about Charles Bukowski&#8217;s youthful experiences in Downtown Los Angeles, from rooming house living on Bunker Hill to early employment at the Biltmore and Los Angeles Times, teenage excursions to the burlesque houses of Main Street, curious forays into the world of broken men along Skid Row&#8217;s Nickel, and to the Central Library, where he found <a href="https://en.wikipedia.org/wiki/Ask_the_Dust">Ask The Dust</a> by <a href="https://en.wikipedia.org/wiki/John_Fante">John Fante</a> and a model for the writer he knew he could become.  </p>
-<p>Following the Salon, a limited number of people will join John and <span class="caps">LAVA</span> co-founder Richard Schave for a free <a href="http://www.lavatransforms.org/2011/02/01/sold-out-the-flaneur-the-city-charles-bukowskis-downtown/">Charles Bukowski-themed walking tour</a>, part of the series <a href="http://www.lavatransforms.org/flaneur-city-landing/">The FlÃ¢neur &amp; The City</a>. For reservations or info, click here. (Sorry, the Bukowski walking tour is now sold out, but you can still reserve a spot on Richard Schave&#8217;s Bukowski bus tour, next scheduled for April 10.)</p>
-<p>â€¢ An acoustic set from <span class="caps">LAVA</span> Visionary <a href="http://www.theukulady.com/">The Ukulady</a> and her Evil Sandwiches, a bass, banjo and omnichord ensemble playing Music To Eat Pie By. </p>
-<p>Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square.</p>
+    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
+<p>â€¢ <span class="caps">LAVA</span> Visionary John Dullaghan, director of <a href="https://www.imdb.com/title/tt0342150/">Bukowski: Born Into This</a>, leads a discussion about Charles Bukowski&#8217;s youthful experiences in Downtown Los Angeles, from rooming house living on Bunker Hill to early employment at the Biltmore and Los Angeles Times, teenage excursions to the burlesque houses of Main Street, curious forays into the world of broken men along Skid Row&#8217;s Nickel, and to the Central Library, where he found <a href="https://en.wikipedia.org/wiki/Ask_the_Dust">Ask The Dust</a> by <a href="https://en.wikipedia.org/wiki/John_Fante">John Fante</a> and a model for the writer he knew he could become.  </p>
+<p>Following the Salon, a limited number of people will join John and <span class="caps">LAVA</span> co-founder Richard Schave for a free <a href="https://www.lavatransforms.org/2011/02/01/sold-out-the-flaneur-the-city-charles-bukowskis-downtown/">Charles Bukowski-themed walking tour</a>, part of the series <a href="https://www.lavatransforms.org/flaneur-city-landing/">The FlÃ¢neur &amp; The City</a>. For reservations or info, click here. (Sorry, the Bukowski walking tour is now sold out, but you can still reserve a spot on Richard Schave&#8217;s Bukowski bus tour, next scheduled for April 10.)</p>
+<p>â€¢ An acoustic set from <span class="caps">LAVA</span> Visionary <a href="https://www.theukulady.com/">The Ukulady</a> and her Evil Sandwiches, a bass, banjo and omnichord ensemble playing Music To Eat Pie By. </p>
+<p>Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -1067,7 +1064,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_q0rp282 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/img25.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img25.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -1077,7 +1074,7 @@
     <!-- module image -->
     <div  class="module module-image tb_m9w8688 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2015/10/2014-05-25-15.41.031.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2015/10/2014-05-25-15.41.031.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -1087,7 +1084,7 @@
     <!-- module image -->
     <div  class="module module-image tb_6fi1200 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2015/10/21554335520_568e6a0f2c_o.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2015/10/21554335520_568e6a0f2c_o.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -1141,17 +1138,17 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4960</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA Sunday Salon January 2011</title>
-		<link>/video/salon112/</link>
+		<link>https://www.lavatransforms.org/video/salon112/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sun, 30 Jan 2011 23:23:46 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=4959</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4959</guid>
 
 					<description><![CDATA[On the last Sunday of the month starting in March 2010, LAVA welcomes interested individuals to gather on the third floor of the historic Cliftonâ€™s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="683" src="/wp-content/uploads/2016/02/img121.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2016/02/img121.jpg 1024w, /wp-content/uploads/2016/02/img121-300x200.jpg 300w, /wp-content/uploads/2016/02/img121-1024x683-400x267.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4959" data-postid="4959" class="themify_builder_content themify_builder_content-4959 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1024" height="683" src="https://www.lavatransforms.org/wp-content/uploads/2016/02/img121.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2016/02/img121.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2016/02/img121-300x200.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2016/02/img121-1024x683-400x267.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4959" data-postid="4959" class="themify_builder_content themify_builder_content-4959 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_4959_row module_row_4959-0 tb_3qd4008">
 	    	    <div class="row_inner col_align_top" >
@@ -1160,18 +1157,18 @@
 		    <!-- module text -->
 <div  class="module module-text tb_3ag2070    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
-<p>â€¢ Back by popular demand, <span class="caps">LAVA</span> Visionary Gene Sculatti, outsider artist and pop culture critic (<a href="http://www.catalog-of-cool.com/index.html">The Catalog of Cool</a>) offers a once-in-a-lifetime opportunity for Salon attendees to &#8220;develop&#8221; the open spaces on his newest fantasy cityscape scroll, Majestic Boulevard.  Come live the Jet Age California dream when you stake out a virtual half-acre along Majestic Boulevard and plan the commercial development of your dreams. Maybe it&#8217;s tiki-themed bowling alley&#8230; or a no-tell motel named after your secret crush&#8230; or the lone Victorian farmhouse left behind when progress came to town. Interested &#8220;developers&#8221; are invited to come view the scroll in progress and talk about the possibilities with the artist. Stake your claim, and then follow your development&#8217;s progress on the <span class="caps">LAVA</span> blog between January and June, when Gene will return to the <span class="caps">LAVA</span> Salon to unveil the expanded scroll to the lucky &#8220;property owners.&#8221; </p>
+    <p>On the last Sunday of the month starting in March 2010, <span class="caps">LAVA</span> welcomes interested individuals to gather on the third floor of the historic Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria in Downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the shortbread.</p>
+<p>â€¢ Back by popular demand, <span class="caps">LAVA</span> Visionary Gene Sculatti, outsider artist and pop culture critic (<a href="https://www.catalog-of-cool.com/index.html">The Catalog of Cool</a>) offers a once-in-a-lifetime opportunity for Salon attendees to &#8220;develop&#8221; the open spaces on his newest fantasy cityscape scroll, Majestic Boulevard.  Come live the Jet Age California dream when you stake out a virtual half-acre along Majestic Boulevard and plan the commercial development of your dreams. Maybe it&#8217;s tiki-themed bowling alley&#8230; or a no-tell motel named after your secret crush&#8230; or the lone Victorian farmhouse left behind when progress came to town. Interested &#8220;developers&#8221; are invited to come view the scroll in progress and talk about the possibilities with the artist. Stake your claim, and then follow your development&#8217;s progress on the <span class="caps">LAVA</span> blog between January and June, when Gene will return to the <span class="caps">LAVA</span> Salon to unveil the expanded scroll to the lucky &#8220;property owners.&#8221; </p>
 <p><span class="caps">ABOUT</span> <span class="caps">GENE</span> <span class="caps">SCULATTI</span>&#8216;S <span class="caps">SCROLLS</span>: Since the age of 9, Sculatti, 63, has created imaginary horizontal cities packed with fascinating details that reflect his evolving obsessions: googie signage, soaring bridges, skyscrapers, suburbs, amusement parks and much more. Join us for a rare opportunity to get close to these beautiful and strange artworks, and to hear the artist discuss his inspirations, working methods, and how the scrolls have stayed with him for more than four decades. To learn more about Gene&#8217;s cityscapes, see photos from the March 2010 Sunday Salon exhibit of Gene&#8217;s scrolls here, or read Gene&#8217;s musings here. See a flier for today&#8217;s presentation here.</p>
-<p>â€¢ Also back by popular demand, <span class="caps">LAVA</span> Visionary <a href="http://www.joeartistwriter.com/">Joe Oesterle</a>, author of the just-released Weird Hollywood and the classic Weird California. Joe will be sharing wacky stories from his incredibly odd book tour, featuring a cameo from local cable access legend Skip E. Lowe. He also presents one of the characters from Weird Hollywood, the incomparable Count Smokula, making his <span class="caps">LAVA</span> debut with accordion-driven song and a Q&amp;A. The multi-talented Joe Oesterle is a former Senior Editor of National Lampoon, a visual artist, musician and curator of the strange and marvelous. Joe will be signing copies of his new book, and <a href="http://www.countsmokula.com/">Count Smokula</a> &#8212; who is also our newest Visionary &#8212; will have CDs for sale.</p>
-<p>Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s is online at <a href="http://www.cliftonscafeteria.com/">http://www.cliftonscafeteria.com/</a></p>
+<p>â€¢ Also back by popular demand, <span class="caps">LAVA</span> Visionary <a href="https://www.joeartistwriter.com/">Joe Oesterle</a>, author of the just-released Weird Hollywood and the classic Weird California. Joe will be sharing wacky stories from his incredibly odd book tour, featuring a cameo from local cable access legend Skip E. Lowe. He also presents one of the characters from Weird Hollywood, the incomparable Count Smokula, making his <span class="caps">LAVA</span> debut with accordion-driven song and a Q&amp;A. The multi-talented Joe Oesterle is a former Senior Editor of National Lampoon, a visual artist, musician and curator of the strange and marvelous. Joe will be signing copies of his new book, and <a href="https://www.countsmokula.com/">Count Smokula</a> &#8212; who is also our newest Visionary &#8212; will have CDs for sale.</p>
+<p>Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria is at 648 South Broadway, near the corner of 7th Street. There are numerous paid parking lots nearby, and the closest Metro station is Pershing Square. Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s is online at <a href="https://www.cliftonscafeteria.com/">https://www.cliftonscafeteria.com/</a></p>
     </div>
 </div>
 <!-- /module text -->
     <!-- module image -->
     <div  class="module module-image tb_tkt0700 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/02/featherInCapBottegaLouise.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/02/featherInCapBottegaLouise.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -1235,6 +1232,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4959</post-id>	</item>
+			</item>
 	</channel>
 </rss>

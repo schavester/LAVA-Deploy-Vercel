@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Holly Witham &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/author/holly-witham/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/author/holly-witham/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>Evenings With the Boys In the Backroom</title>
-		<link>/2013/04/15/evenings-with-the-boys-in-the-backroom/</link>
-					<comments>/2013/04/15/evenings-with-the-boys-in-the-backroom/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/04/15/evenings-with-the-boys-in-the-backroom/</link>
+					<comments>https://www.lavatransforms.org/2013/04/15/evenings-with-the-boys-in-the-backroom/#respond</comments>
 		
 		<dc:creator><![CDATA[Holly Witham]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -34,9 +31,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[REVEALING PLAY CAPTURES TRUE STORES ABOUT HOLLYWOODâ€™S &#8220;BACKROOM BOYS&#8221; &#8220;â€¦ Itâ€™s a brilliant play. It&#8217;s so good that Iâ€™m even tempted to steal from it myself.&#8221; â€“ William Saroyan&#8217;s play character A collection of wonderful stories and memories is the heart of a fascinating play called &#8220;Evenings with The Boys in the Backroom&#8221; by Peter [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>REVEALING PLAY CAPTURES TRUE STORES ABOUT HOLLYWOODâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />S &#8220;BACKROOM BOYS&#8221;</p>
-<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">&#8220;â€¦ Itâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a brilliant play. It&#8217;s so good that Iâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m even tempted to steal from it myself.&#8221; â€“ William Saroyan&#8217;s play character</span></p>
-<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">A collection of wonderful stories and memories is the heart of a fascinating play called &#8220;Evenings with The Boys in the Backroom&#8221; by Peter Adum and Joyce Fante. Itâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Los Angeles version of Gertrude Steinâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1920s &#8220;Left Bank Salon&#8221; in Paris where she hosted luminaries like Ernest Hemingway, F. Scott Fitzgerald, Sinclair Lewis, Pablo Picasso and Henri Matisse. The play, as a staged reading, showcases L.A.&#8217;s own 1930s salon of gifted writers set in Stanley Rose&#8217;s Book Store, one door east of the Musso &amp; Frank Grill and across from the Brown Derby in Hollywood. The world premiere production will be presented as a benefit for the Friends of the Altadena Public Library in association with The Moveable Theatre Company, which uses volunteer professional actors. The performance is Sunday, May 5, 2013 at 3:00 PM in the Altadena Public Library community room in Altadena, California. (For tickets: 626-798-0833 or www.altadenalibrary.org)</span></p>
+										<content:encoded><![CDATA[<p>REVEALING PLAY CAPTURES TRUE STORES ABOUT HOLLYWOODâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />S &#8220;BACKROOM BOYS&#8221;</p>
+<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">&#8220;â€¦ Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a brilliant play. It&#8217;s so good that Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m even tempted to steal from it myself.&#8221; â€“ William Saroyan&#8217;s play character</span></p>
+<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">A collection of wonderful stories and memories is the heart of a fascinating play called &#8220;Evenings with The Boys in the Backroom&#8221; by Peter Adum and Joyce Fante. Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Los Angeles version of Gertrude Steinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1920s &#8220;Left Bank Salon&#8221; in Paris where she hosted luminaries like Ernest Hemingway, F. Scott Fitzgerald, Sinclair Lewis, Pablo Picasso and Henri Matisse. The play, as a staged reading, showcases L.A.&#8217;s own 1930s salon of gifted writers set in Stanley Rose&#8217;s Book Store, one door east of the Musso &amp; Frank Grill and across from the Brown Derby in Hollywood. The world premiere production will be presented as a benefit for the Friends of the Altadena Public Library in association with The Moveable Theatre Company, which uses volunteer professional actors. The performance is Sunday, May 5, 2013 at 3:00 PM in the Altadena Public Library community room in Altadena, California. (For tickets: 626-798-0833 or www.altadenalibrary.org)</span></p>
 <p><span style="font-size: 12.222222328186035px; line-height: 1.5;">&nbsp;</span><span style="font-size: 12.222222328186035px; line-height: 1.5;">&#8220;From the start, this play has interested and enchanted me,&#8221; said Holly Witham, founder and production director of The Moveable Theatre Company. &#8220;Call me a 1930s buff, or a fan of the Golden Age of Hollywood or a hopeless bibliophile; I am guilty of all these things and from all, can point with enthusiasm to this fascinating story of how some of the best writers of an era socialized, played, fought, gossiped, supported and challenged each other, amid the sometimes cruel, heart-breaking and tough world of Hollywood,&#8221; Witham said.</span></p>
 <p><span style="font-size: 12.222222328186035px; line-height: 1.5;"></span><span style="font-size: 12.222222328186035px; line-height: 1.5;">Set in 1938, this original work written a number of years ago, chronicles the friendships between Hollywood book store owner Stanley Rose and some of his most famous customers: John Fante, William Saroyan, Nathanael West and Carey McWilliams. &nbsp;To help write the play, John Fante&#8217;s widow, Joyce, now deceased, shared her knowledge of the intimate details of conversations that occurred in Stanley Rose&#8217;s back room behind the book shop. This is where Rose&#8217;s successful friends talked, drank, played cards and discussed ideas which would inspire their most famous works. The scene was like a &#8220;Who&#8217;s Who&#8221; of the Los Angeles literary scene during Hollywood&#8217;s Golden Age.</span></p>
 <p><span style="font-size: 12.222222328186035px; line-height: 1.5;"></span><span style="font-size: 12.222222328186035px; line-height: 1.5;">For example, William Saroyan wrote the Pulitzer Prize wining play, &#8220;The Time of Your Life.&#8221; John Fante, a novelist, wrote &#8220;Ask the Dust&#8221; among others and Nathanael West wrote bitter, satirical novels like &#8220;Day of the Locust.&#8221; Carey McWilliams, an attorney and &#8220;muckraker,&#8221; wrote works including &#8220;Factories in the Fields&#8221; and one of the finest histories of Southern California.</span></p>
@@ -47,15 +44,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/04/15/evenings-with-the-boys-in-the-backroom/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/04/15/evenings-with-the-boys-in-the-backroom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">985</post-id>	</item>
+			</item>
 		<item>
 		<title>The Moveable Theatre Company presents A.R. Gurney&#8217;s &#8220;Later Life&#8221;</title>
-		<link>/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/</link>
-					<comments>/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/</link>
+					<comments>https://www.lavatransforms.org/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/#respond</comments>
 		
 		<dc:creator><![CDATA[Holly Witham]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -63,21 +60,21 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Moveable Theatre Company presents a staged reading of A.R. Gurney&#8217;s Later Life on Sunday, October 21st at the Altadena Main Library in Altadena.&#160; Performances will be at 2:00 pm ($10) and at 5:30 pm ($20).&#160; The second show will include a wine and cheese reception and a meet and greet with the cast.&#160; The [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The Moveable Theatre Company presents a staged reading of A.R. Gurney&#8217;s <em>Later Life</em> on Sunday, October 21st at the Altadena Main Library in Altadena.&nbsp; Performances will be at 2:00 pm ($10) and at 5:30 pm ($20).&nbsp; The second show will include a wine and cheese reception and a meet and greet with the cast.&nbsp; The library is located at 600 E. Mariposa Street, Altadena, CA&nbsp; 91001.&nbsp; For reservations, please call (626) 398-1265, or visit the library&#8217;s website at: <a href="http://www.altadenalibrary.org/">www.altadenalibrary.org</a></p>
+										<content:encoded><![CDATA[<p>The Moveable Theatre Company presents a staged reading of A.R. Gurney&#8217;s <em>Later Life</em> on Sunday, October 21st at the Altadena Main Library in Altadena.&nbsp; Performances will be at 2:00 pm ($10) and at 5:30 pm ($20).&nbsp; The second show will include a wine and cheese reception and a meet and greet with the cast.&nbsp; The library is located at 600 E. Mariposa Street, Altadena, CA&nbsp; 91001.&nbsp; For reservations, please call (626) 398-1265, or visit the library&#8217;s website at: <a href="https://www.altadenalibrary.org/">www.altadenalibrary.org</a></p>
 <div id="themify_builder_content-830" data-postid="830" class="themify_builder_content themify_builder_content-830 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">830</post-id>	</item>
+			</item>
 		<item>
 		<title>The Moveable Theatre Company presents A.R. Gurney&#8217;s &#8220;Later Life&#8221;</title>
-		<link>/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/</link>
-					<comments>/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/</link>
+					<comments>https://www.lavatransforms.org/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/#respond</comments>
 		
 		<dc:creator><![CDATA[Holly Witham]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -85,37 +82,37 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Moveable Theatre Company presents a staged reading of A.R. Gurney&#8217;s Later Life on Sunday, October 21st at the Altadena Main Library in Altadena.&#160; Performances will be at 2:00 pm ($10) and at 5:30 pm ($20).&#160; The second show will include a wine and cheese reception and a meet and greet with the cast.&#160; The [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The Moveable Theatre Company presents a staged reading of A.R. Gurney&#8217;s <em>Later Life</em> on Sunday, October 21st at the Altadena Main Library in Altadena.&nbsp; Performances will be at 2:00 pm ($10) and at 5:30 pm ($20).&nbsp; The second show will include a wine and cheese reception and a meet and greet with the cast.&nbsp; The library is located at 600 E. Mariposa Street, Altadena, CA&nbsp; 91001.&nbsp; For reservations, please call (626) 398-1265, or visit the library&#8217;s website at: <a href="http://www.altadenalibrary.org/">www.altadenalibrary.org</a></p>
+										<content:encoded><![CDATA[<p>The Moveable Theatre Company presents a staged reading of A.R. Gurney&#8217;s <em>Later Life</em> on Sunday, October 21st at the Altadena Main Library in Altadena.&nbsp; Performances will be at 2:00 pm ($10) and at 5:30 pm ($20).&nbsp; The second show will include a wine and cheese reception and a meet and greet with the cast.&nbsp; The library is located at 600 E. Mariposa Street, Altadena, CA&nbsp; 91001.&nbsp; For reservations, please call (626) 398-1265, or visit the library&#8217;s website at: <a href="https://www.altadenalibrary.org/">www.altadenalibrary.org</a></p>
 <div id="themify_builder_content-829" data-postid="829" class="themify_builder_content themify_builder_content-829 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/10/01/the-moveable-theatre-company-presents-a-r-gurneys-later-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">829</post-id>	</item>
+			</item>
 		<item>
 		<title>Holly Witham Founder/Production Director The Moveable Theatre Company</title>
-		<link>/2010/06/07/holly-witham-founderproduction-director-the-moveable-theatre-company/</link>
-					<comments>/2010/06/07/holly-witham-founderproduction-director-the-moveable-theatre-company/#respond</comments>
+		<link>https://www.lavatransforms.org/2010/06/07/holly-witham-founderproduction-director-the-moveable-theatre-company/</link>
+					<comments>https://www.lavatransforms.org/2010/06/07/holly-witham-founderproduction-director-the-moveable-theatre-company/#respond</comments>
 		
 		<dc:creator><![CDATA[Holly Witham]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:53 +0000</pubDate>
 				<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Co-Founder and Production Director of The Moveable Theatre Company, Holly most recently directed two One-Acts from Two, Times Three: An Evening from the 1920s. Prior to that, she directed G.B. Shawâ€™s Don Juan In Hell for Theatre Americana. On stage, she has appeared in productions of A Streetcar Named Desire, Best Wishes, On Golden [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: &amp;amp;amp; mso-ansi-language: EN;"><span style="color: #000000;">The Co-Founder and Production Director of The Moveable Theatre Company, Holly most recently directed two One-Acts from <em><span style="font-family: &amp;amp;amp;">Two, Times Three: An Evening from the 1920s. </span></em><em><span style="font-style: normal; font-family: &amp;amp;amp; mso-bidi-font-style: italic;">Prior to</span></em><em><span style="font-family: &amp;amp;amp;"> </span></em><em><span style="font-style: normal; font-family: &amp;amp;amp; mso-bidi-font-style: italic;">that, she directed</span></em><em><span style="font-family: &amp;amp;amp;"> </span></em>G.B. Shawâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em style="mso-bidi-font-style: normal;">Don Juan In</em> <em style="mso-bidi-font-style: normal;">Hell</em> for Theatre Americana. <em><span style="font-style: normal; font-family: &amp;amp;amp; mso-bidi-font-style: italic;">On</span></em><em style="mso-bidi-font-style: normal;"> </em>stage, she has appeared in productions of <em><span style="font-family: &amp;amp;amp;">A Streetcar Named Desire, Best Wishes, On Golden Pond, The</span></em> <em><span style="font-family: &amp;amp;amp;">Bad Seed, Independence</span></em>,&nbsp;<em><span style="font-family: &amp;amp;amp;">Morningâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s At Seven</span></em> and <em><span style="font-family: &amp;amp;amp;">Shakespeare vs.</span></em> <em><span style="font-family: &amp;amp;amp;">Shaw,</span></em> among others.&nbsp; She has done costumes, props, sound, stage managing and assistant directing with a variety of local theatre groups. She studied acting with Director Norman Cohen at Room for Theatre in Studio City and is currently Secretary/Treasurer of Pasadena Shakespeare Company.</span></span></p>
+										<content:encoded><![CDATA[<p><span style="font-size: 11pt; font-family: &amp;amp;amp; mso-ansi-language: EN;"><span style="color: #000000;">The Co-Founder and Production Director of The Moveable Theatre Company, Holly most recently directed two One-Acts from <em><span style="font-family: &amp;amp;amp;">Two, Times Three: An Evening from the 1920s. </span></em><em><span style="font-style: normal; font-family: &amp;amp;amp; mso-bidi-font-style: italic;">Prior to</span></em><em><span style="font-family: &amp;amp;amp;"> </span></em><em><span style="font-style: normal; font-family: &amp;amp;amp; mso-bidi-font-style: italic;">that, she directed</span></em><em><span style="font-family: &amp;amp;amp;"> </span></em>G.B. Shawâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em style="mso-bidi-font-style: normal;">Don Juan In</em> <em style="mso-bidi-font-style: normal;">Hell</em> for Theatre Americana. <em><span style="font-style: normal; font-family: &amp;amp;amp; mso-bidi-font-style: italic;">On</span></em><em style="mso-bidi-font-style: normal;"> </em>stage, she has appeared in productions of <em><span style="font-family: &amp;amp;amp;">A Streetcar Named Desire, Best Wishes, On Golden Pond, The</span></em> <em><span style="font-family: &amp;amp;amp;">Bad Seed, Independence</span></em>,&nbsp;<em><span style="font-family: &amp;amp;amp;">Morningâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s At Seven</span></em> and <em><span style="font-family: &amp;amp;amp;">Shakespeare vs.</span></em> <em><span style="font-family: &amp;amp;amp;">Shaw,</span></em> among others.&nbsp; She has done costumes, props, sound, stage managing and assistant directing with a variety of local theatre groups. She studied acting with Director Norman Cohen at Room for Theatre in Studio City and is currently Secretary/Treasurer of Pasadena Shakespeare Company.</span></span></p>
 <div id="themify_builder_content-242" data-postid="242" class="themify_builder_content themify_builder_content-242 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2010/06/07/holly-witham-founderproduction-director-the-moveable-theatre-company/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2010/06/07/holly-witham-founderproduction-director-the-moveable-theatre-company/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">242</post-id>	</item>
+			</item>
 	</channel>
 </rss>

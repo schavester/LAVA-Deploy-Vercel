@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>This Month&#8217;s Salon &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/video-category/this-months-salon/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/video-category/this-months-salon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 04:25:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>LAVA Salon March 2015</title>
-		<link>/video/salon315/</link>
+		<link>https://www.lavatransforms.org/video/salon315/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sun, 29 Mar 2015 17:29:50 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=video&#038;p=5191</guid>
+				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5191</guid>
 
 					<description><![CDATA[Architectural Historian Nathan Marsak, the LAVA Visionary of the Year for 2015,Â presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque. The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5191" data-postid="5191" class="themify_builder_content themify_builder_content-5191 themify_builder">
@@ -40,7 +37,7 @@
 		    <!-- module text -->
 <div  class="module module-text tb_tzxb474    ">
             <div  class="tb_text_wrap">
-    <p>Architectural Historian <a href="http://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="http://www.lavatransforms.org/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,Â presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p><p>The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, which one may still visit in any number of extant adobes; from there, following some historic boom times, we Angelenos and visitors alike are regaled by the wondrous Beaux-Arts high-rises of downtown. If pure Victorian architecture is considered, one likely turns attention to the Eastlake and Queen Anne examples along Carroll Avenue, or to the used-car lot of gingerbread, Heritage Square.</p><p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p><p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p><p>Â </p>    </div>
+    <p>Architectural Historian <a href="https://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="https://www.lavatransforms.org/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,Â presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p><p>The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, which one may still visit in any number of extant adobes; from there, following some historic boom times, we Angelenos and visitors alike are regaled by the wondrous Beaux-Arts high-rises of downtown. If pure Victorian architecture is considered, one likely turns attention to the Eastlake and Queen Anne examples along Carroll Avenue, or to the used-car lot of gingerbread, Heritage Square.</p><p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p><p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p><p>Â </p>    </div>
 </div>
 <!-- /module text -->
 	        </div>
@@ -50,7 +47,7 @@
 		        <!-- module image -->
     <div  class="module module-image tb_u9me028 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-4.jpg" alt="" width="400" height="0" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-4.jpg" alt="" width="400" height="0" />            
             
         
             </div>
@@ -60,7 +57,7 @@
     <!-- module image -->
     <div  class="module module-image tb_l9gt080 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-3.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-3.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -70,7 +67,7 @@
     <!-- module image -->
     <div  class="module module-image tb_7flr004 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-2.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-2.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -80,7 +77,7 @@
     <!-- module image -->
     <div  class="module module-image tb_ea3s777 rounded drop-shadow bordered image-overlay  ">
 	                <div class="image-wrap">
-                            <img src="http://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-5.jpg" alt="" width="400" height="" />            
+                            <img src="https://www.lavatransforms.org/wp-content/uploads/2016/03/march2015-5.jpg" alt="" width="400" height="" />            
             
         
             </div>
@@ -134,6 +131,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5191</post-id>	</item>
+			</item>
 	</channel>
 </rss>

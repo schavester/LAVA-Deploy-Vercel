@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>frontpage &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/category/frontpage/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/category/frontpage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:56:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>LAVA Broadway on My Mind walking tour #5: Poem Noir  (November 2013)</title>
-		<link>/2014/01/22/broadwayonmymind5/</link>
-					<comments>/2014/01/22/broadwayonmymind5/#respond</comments>
+		<link>https://www.lavatransforms.org/2014/01/22/broadwayonmymind5/</link>
+					<comments>https://www.lavatransforms.org/2014/01/22/broadwayonmymind5/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -38,24 +35,24 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[In July 2013, LAVA &#8211; The Los Angeles Visionaries Association launched a series of free walking tours along Broadway meant to raise consciousness about the Broadway Theater and Commercial District, which is listed on the National Register of Historic Places, and the pending implementation of Strategy One, Phase One of the City of Los Angeles&#8217; [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="799" height="1024" src="/wp-content/uploads/2015/09/Bradbury.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/Bradbury.jpg 799w, /wp-content/uploads/2015/09/Bradbury-234x300.jpg 234w, /wp-content/uploads/2015/09/Bradbury-799x1024-702x899.jpg 702w, /wp-content/uploads/2015/09/Bradbury-799x1024-312x400.jpg 312w, /wp-content/uploads/2015/09/Bradbury-799x1024-409x524.jpg 409w" sizes="(max-width: 799px) 100vw, 799px" /></p><p>In July 2013, LAVA &#8211; The Los Angeles Visionaries Association launched a     series of free walking tours along Broadway meant to raise consciousness     about the Broadway Theater and Commercial District, which is listed on the     National Register of Historic Places, and the pending implementation of     Strategy One, Phase One of the City of Los Angeles&#8217; Broadway Streetscape     Master Plan. Each walking tour follows and departs from the free LAVA     Sunday Salon.</p>
-<p>This month&#8217;s special <a href="http://www.lapoetryfestival.org/#noir"     target="_blank">Poem Noir</a> tour, hosted by Richard     Schave (</span><a href="http://www.esotouric.com/" target=     "_blank">Esotouric</a>/LAVA), made     its base at Third Street and Broadway. The tour migrated between Grand     Central Market, Angels Flight and the Bradbury Building, with topics     including the marketâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s opening in 1917, a remarkable WWI-era festival in     the Boston Dry Goods Store, how the Bradbury Building was saved from     burning, the history of Angels Flight, the murders of Stephen Nash, the     rise and fall of Bunker Hill and the neighborhoodâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s starring role in the     film noir genre, to developer Ira Yellinâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s pioneering work of the     1980s.</p>
-<p>Historical&nbsp;contributions from&nbsp;<a href=     "http://www.thekeptgirl.com/" target="_blank">Kim Cooper</a>&nbsp;and     <a href="http://www.youtube.com/watch?v=EloQciq6SbI" target="_blank">Gordon     Pattison</a>&nbsp;were interspersed with Poem Noir performances     by&nbsp;<a href="http://en.wikipedia.org/wiki/Carl_Weintraub" target=     "_blank">Carl Weintraub</a>,&nbsp;<a href=     "http://www.brendanconstantine.com/html/home.html" target="_blank">Brendan     Constantine</a>&nbsp;and&nbsp;<a href=     "http://www.npr.org/2013/09/15/222820591/writing-noir-poetry-with-l-a-as-a-backdrop"     target="_blank">Suzanne Lummis</a>. Special treats:&nbsp;a sneak preview of     Gordon&#8217;s fictional memoir of his father&#8217;s boyhood encounter with John Fante     on old Bunker Hill and a poem written on the spot to honor Minnie Epp, the     woman who saved the Bradbury Building from a fiery death.&nbsp;</p>
-<p>&nbsp;<span>Read about this tour&nbsp;</span><a href=     "/flaneur-broadway-on-my-mind-5" target=     "_blank">here</a><span>, and watch video of the walk <a href=     "http://www.youtube.com/watch?v=yWVUYynI-yI&amp;list=UUe0yWH3FsDPGRg3EyDNeRsw&amp;feature=sharecontrol"     target="_blank">here</a>.</span></p>
+										<content:encoded><![CDATA[<p><img width="799" height="1024" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/Bradbury.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/Bradbury.jpg 799w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Bradbury-234x300.jpg 234w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Bradbury-799x1024-702x899.jpg 702w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Bradbury-799x1024-312x400.jpg 312w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Bradbury-799x1024-409x524.jpg 409w" sizes="(max-width: 799px) 100vw, 799px" /></p><p>In July 2013, LAVA &#8211; The Los Angeles Visionaries Association launched a     series of free walking tours along Broadway meant to raise consciousness     about the Broadway Theater and Commercial District, which is listed on the     National Register of Historic Places, and the pending implementation of     Strategy One, Phase One of the City of Los Angeles&#8217; Broadway Streetscape     Master Plan. Each walking tour follows and departs from the free LAVA     Sunday Salon.</p>
+<p>This month&#8217;s special <a href="https://www.lapoetryfestival.org/#noir"     target="_blank">Poem Noir</a> tour, hosted by Richard     Schave (</span><a href="https://www.esotouric.com/" target=     "_blank">Esotouric</a>/LAVA), made     its base at Third Street and Broadway. The tour migrated between Grand     Central Market, Angels Flight and the Bradbury Building, with topics     including the marketâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s opening in 1917, a remarkable WWI-era festival in     the Boston Dry Goods Store, how the Bradbury Building was saved from     burning, the history of Angels Flight, the murders of Stephen Nash, the     rise and fall of Bunker Hill and the neighborhoodâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s starring role in the     film noir genre, to developer Ira Yellinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s pioneering work of the     1980s.</p>
+<p>Historical&nbsp;contributions from&nbsp;<a href=     "https://www.thekeptgirl.com/" target="_blank">Kim Cooper</a>&nbsp;and     <a href="https://www.youtube.com/watch?v=EloQciq6SbI" target="_blank">Gordon     Pattison</a>&nbsp;were interspersed with Poem Noir performances     by&nbsp;<a href="https://en.wikipedia.org/wiki/Carl_Weintraub" target=     "_blank">Carl Weintraub</a>,&nbsp;<a href=     "https://www.brendanconstantine.com/html/home.html" target="_blank">Brendan     Constantine</a>&nbsp;and&nbsp;<a href=     "https://www.npr.org/2013/09/15/222820591/writing-noir-poetry-with-l-a-as-a-backdrop"     target="_blank">Suzanne Lummis</a>. Special treats:&nbsp;a sneak preview of     Gordon&#8217;s fictional memoir of his father&#8217;s boyhood encounter with John Fante     on old Bunker Hill and a poem written on the spot to honor Minnie Epp, the     woman who saved the Bradbury Building from a fiery death.&nbsp;</p>
+<p>&nbsp;<span>Read about this tour&nbsp;</span><a href=     "https://www.lavatransforms.org/flaneur-broadway-on-my-mind-5" target=     "_blank">here</a><span>, and watch video of the walk <a href=     "https://www.youtube.com/watch?v=yWVUYynI-yI&amp;list=UUe0yWH3FsDPGRg3EyDNeRsw&amp;feature=sharecontrol"     target="_blank">here</a>.</span></p>
 <div id="themify_builder_content-1195" data-postid="1195" class="themify_builder_content themify_builder_content-1195 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2014/01/22/broadwayonmymind5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2014/01/22/broadwayonmymind5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1195</post-id>	</item>
+			</item>
 		<item>
 		<title>Marc Chevalier presents &#8220;&#8216;The Corner:&#8217; Nexus of Hollywood&#8217;s Long Jazz Age&#8221; at the LAVA Sunday Salon, June 2013</title>
-		<link>/2013/07/22/salon-chevalier-june2013/</link>
-					<comments>/2013/07/22/salon-chevalier-june2013/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/07/22/salon-chevalier-june2013/</link>
+					<comments>https://www.lavatransforms.org/2013/07/22/salon-chevalier-june2013/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -67,23 +64,23 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[On the last Sunday of each month , LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. At the June 2013 Salon, Marc Chevalier presented on the remarkable structure which held Schwab&#8217;s Pharmacy and played [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="600" height="450" src="/wp-content/uploads/2015/09/me.chevalier.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/me.chevalier.jpg 600w, /wp-content/uploads/2015/09/me.chevalier-300x225.jpg 300w, /wp-content/uploads/2015/09/me.chevalier-409x307.jpg 409w, /wp-content/uploads/2015/09/me.chevalier-400x300.jpg 400w, /wp-content/uploads/2015/09/me.chevalier-847x635.jpg 847w, /wp-content/uploads/2015/09/me.chevalier-500x375.jpg 500w, /wp-content/uploads/2015/09/me.chevalier-343x257.jpg 343w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>On the last Sunday of each month , LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another.</span></p>
-<p>At the June 2013 Salon, Marc Chevalier presented on the remarkable structure which held Schwab&#8217;s Pharmacy and played host to all of Hollywood&#8217;s biggest characters, &#8220;The Corner.&#8221; For more about the June Salon, click <a href="/salon613" target="_blank">here</a>. </p>
-<p><iframe width="560" height="315" src="//www.youtube.com/embed/rMh2mapdMBs" frameborder="0" allowfullscreen></iframe></p>
+										<content:encoded><![CDATA[<p><img width="600" height="450" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier.jpg 600w, https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier-300x225.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier-409x307.jpg 409w, https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier-400x300.jpg 400w, https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier-847x635.jpg 847w, https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier-500x375.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/09/me.chevalier-343x257.jpg 343w" sizes="(max-width: 600px) 100vw, 600px" /></p><p>On the last Sunday of each month , LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another.</span></p>
+<p>At the June 2013 Salon, Marc Chevalier presented on the remarkable structure which held Schwab&#8217;s Pharmacy and played host to all of Hollywood&#8217;s biggest characters, &#8220;The Corner.&#8221; For more about the June Salon, click <a href="https://www.lavatransforms.org/salon613" target="_blank">here</a>. </p>
+<p><iframe loading="lazy" width="560" height="315" src="//www.youtube.com/embed/rMh2mapdMBs" frameborder="0" allowfullscreen></iframe></p>
 <div id="themify_builder_content-1054" data-postid="1054" class="themify_builder_content themify_builder_content-1054 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/07/22/salon-chevalier-june2013/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/07/22/salon-chevalier-june2013/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1054</post-id>	</item>
+			</item>
 		<item>
 		<title>J. Scott Smith presents &#8220;29 Palms&#8221; at the LAVA Sunday Salon, May 2013</title>
-		<link>/2013/06/13/salonvideo1may2013/</link>
-					<comments>/2013/06/13/salonvideo1may2013/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/06/13/salonvideo1may2013/</link>
+					<comments>https://www.lavatransforms.org/2013/06/13/salonvideo1may2013/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -93,25 +90,25 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[On the last Sunday of each month , LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. At the May 2013 Salon, photographer J. Scott Smith gave a talk on his &#8220;29 Palms&#8221; project, sharing [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="368" height="612" src="/wp-content/uploads/2015/09/29palms.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/29palms.jpg 368w, /wp-content/uploads/2015/09/29palms-180x300.jpg 180w, /wp-content/uploads/2015/09/29palms-400x665.jpg 400w, /wp-content/uploads/2015/09/29palms-500x831.jpg 500w, /wp-content/uploads/2015/09/29palms-343x570.jpg 343w" sizes="(max-width: 368px) 100vw, 368px" /></p><p>On the last Sunday of each month , LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another.</p>
-<p>At the May 2013 Salon, photographer J. Scott Smith gave a talk on his &#8220;29 Palms&#8221; project, sharing images from the series and describing his creative process and adventures in the palm tree underground. For more about the May Salon, click <a href="/salon513" target="_blank">here</a>.</p>
+										<content:encoded><![CDATA[<p><img width="368" height="612" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/29palms.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/29palms.jpg 368w, https://www.lavatransforms.org/wp-content/uploads/2015/09/29palms-180x300.jpg 180w, https://www.lavatransforms.org/wp-content/uploads/2015/09/29palms-400x665.jpg 400w, https://www.lavatransforms.org/wp-content/uploads/2015/09/29palms-500x831.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/09/29palms-343x570.jpg 343w" sizes="(max-width: 368px) 100vw, 368px" /></p><p>On the last Sunday of each month , LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another.</p>
+<p>At the May 2013 Salon, photographer J. Scott Smith gave a talk on his &#8220;29 Palms&#8221; project, sharing images from the series and describing his creative process and adventures in the palm tree underground. For more about the May Salon, click <a href="https://www.lavatransforms.org/salon513" target="_blank">here</a>.</p>
 <p>&nbsp;</p>
 <p></p>
-<p><iframe width="560" height="315" src="http://www.youtube.com/embed/STr6aU0vCoE" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/STr6aU0vCoE" frameborder="0" allowfullscreen></iframe></p>
 <div id="themify_builder_content-1030" data-postid="1030" class="themify_builder_content themify_builder_content-1030 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/06/13/salonvideo1may2013/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/06/13/salonvideo1may2013/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1030</post-id>	</item>
+			</item>
 		<item>
 		<title>The Ukulady&#8217;s pioneer cemetery set at Savannah Memorial Park</title>
-		<link>/2013/06/02/ukuladypioneer/</link>
-					<comments>/2013/06/02/ukuladypioneer/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/06/02/ukuladypioneer/</link>
+					<comments>https://www.lavatransforms.org/2013/06/02/ukuladypioneer/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -122,17 +119,17 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[On Memorial Day 2013, The Ukuladybrought her pioneer songs to Savannah Memorial Park, the oldest Protestant cemetery in Southern California. It sounded a little something like this&#8230;]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="575" src="/wp-content/uploads/2015/09/ukeladySavannah.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/ukeladySavannah.jpg 1024w, /wp-content/uploads/2015/09/ukeladySavannah-300x168.jpg 300w, /wp-content/uploads/2015/09/ukeladySavannah-1024x575-702x394.jpg 702w, /wp-content/uploads/2015/09/ukeladySavannah-1024x575-409x229.jpg 409w, /wp-content/uploads/2015/09/ukeladySavannah-1024x575-500x280.jpg 500w, /wp-content/uploads/2015/09/ukeladySavannah-1024x575-343x192.jpg 343w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><p><span style="font-size: 12px; line-height: 1.5;">On Memorial Day 2013, </span><a style="font-size: 12px; line-height: 1.5;" href="http://www.theukulady.com/" target="_blank">The Ukulady</a>brought her pioneer songs to <a style="font-size: 12px; line-height: 1.5;" href="/savannah2013" target="_blank">Savannah Memorial Park</a>, the oldest Protestant cemetery in Southern California. It sounded a little something like this&#8230;</p>
-<p><iframe width="560" height="315" src="http://www.youtube.com/embed/KtAcqC3fsqs" frameborder="0" allowfullscreen></iframe></p>
+										<content:encoded><![CDATA[<p><img width="1024" height="575" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah-300x168.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah-1024x575-702x394.jpg 702w, https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah-1024x575-409x229.jpg 409w, https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah-1024x575-500x280.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/09/ukeladySavannah-1024x575-343x192.jpg 343w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><p><span style="font-size: 12px; line-height: 1.5;">On Memorial Day 2013, </span><a style="font-size: 12px; line-height: 1.5;" href="https://www.theukulady.com/" target="_blank">The Ukulady</a>brought her pioneer songs to <a style="font-size: 12px; line-height: 1.5;" href="https://www.lavatransforms.org/savannah2013" target="_blank">Savannah Memorial Park</a>, the oldest Protestant cemetery in Southern California. It sounded a little something like this&#8230;</p>
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/KtAcqC3fsqs" frameborder="0" allowfullscreen></iframe></p>
 <div id="themify_builder_content-1022" data-postid="1022" class="themify_builder_content themify_builder_content-1022 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/06/02/ukuladypioneer/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/06/02/ukuladypioneer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1022</post-id>	</item>
+			</item>
 	</channel>
 </rss>

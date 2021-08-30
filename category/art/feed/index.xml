@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Art &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/category/art/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/category/art/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>â€œThrough the Eyes of a Bus Riderâ€&#8211;a photography installation by Eddie Solis</title>
-		<link>/2015/08/31/through-the-eyes-of-a-bus-rider-a-photography-installation-by-eddie-solis/</link>
-					<comments>/2015/08/31/through-the-eyes-of-a-bus-rider-a-photography-installation-by-eddie-solis/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/08/31/through-the-eyes-of-a-bus-rider-a-photography-installation-by-eddie-solis/</link>
+					<comments>https://www.lavatransforms.org/2015/08/31/through-the-eyes-of-a-bus-rider-a-photography-installation-by-eddie-solis/#respond</comments>
 		
 		<dc:creator><![CDATA[Amy Inouye]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -36,23 +33,23 @@
 
 					<description><![CDATA[&#160; Eddie Solisâ€™s photography show, â€œThrough the Eyes of a Bus Rider,â€ is comprised of dozens of black-and-white photographs that document his travels on the Los Angeles Metro infrastructure. The selected works were curated from thousands taken throughout Los Angeles and Orange counties over the past decade. Solis is well aware that many Southern California [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>&nbsp;</p>
-<p>Eddie Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s photography show, â€œThrough the Eyes of a Bus Rider,â€ is comprised of dozens of black-and-white photographs that document his travels on the Los Angeles Metro infrastructure. The selected works were curated from thousands taken throughout Los Angeles and Orange counties over the past decade. Solis is well aware that many Southern California residents are not familiar with what a car-free lifestyle entails, so his photography show is curated line-by-line to create geographical cohesion with the galleryâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Northeast L.A. location.</p>
-<p><span style="line-height: 1.5em;">Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s experiences as a Los Angeles resident fuel his two-man hardcore duo, Itâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Casual, and his well-known podcast </span><em style="line-height: 1.5em;">Los Angeles Nista</em><span style="line-height: 1.5em;">. Media are not Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sole means of affecting social change to benefit the environmentâ€”â€œThe way I live is my strongest, most effective form of activism,â€ Solis claims, â€œI want to inspire as many people as possible to adopt this lifestyle, not just for the good of the environment, but as a way for us to regain the sense of community that was lost when Los Angeles county became fragmented by our freeway infrastructure. We need to overcome the isolation our dependence on the automobile has promoted.â€ Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s environmental and social messages coalesce in his current endeavor, an installation of his photography.</span></p>
+<p>Eddie Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s photography show, â€œThrough the Eyes of a Bus Rider,â€ is comprised of dozens of black-and-white photographs that document his travels on the Los Angeles Metro infrastructure. The selected works were curated from thousands taken throughout Los Angeles and Orange counties over the past decade. Solis is well aware that many Southern California residents are not familiar with what a car-free lifestyle entails, so his photography show is curated line-by-line to create geographical cohesion with the galleryâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Northeast L.A. location.</p>
+<p><span style="line-height: 1.5em;">Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s experiences as a Los Angeles resident fuel his two-man hardcore duo, Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Casual, and his well-known podcast </span><em style="line-height: 1.5em;">Los Angeles Nista</em><span style="line-height: 1.5em;">. Media are not Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s sole means of affecting social change to benefit the environmentâ€”â€œThe way I live is my strongest, most effective form of activism,â€ Solis claims, â€œI want to inspire as many people as possible to adopt this lifestyle, not just for the good of the environment, but as a way for us to regain the sense of community that was lost when Los Angeles county became fragmented by our freeway infrastructure. We need to overcome the isolation our dependence on the automobile has promoted.â€ Solisâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s environmental and social messages coalesce in his current endeavor, an installation of his photography.</span></p>
 <p>After the opening reception, the show is on view to Sept. 30, by appointment.</p>
 <div id="themify_builder_content-1475" data-postid="1475" class="themify_builder_content themify_builder_content-1475 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/08/31/through-the-eyes-of-a-bus-rider-a-photography-installation-by-eddie-solis/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/08/31/through-the-eyes-of-a-bus-rider-a-photography-installation-by-eddie-solis/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1475</post-id>	</item>
+			</item>
 		<item>
 		<title>Opulent Mobility 2015 Call for Submissions</title>
-		<link>/2015/05/17/opulent-mobility-2015-call-for-submissions/</link>
-					<comments>/2015/05/17/opulent-mobility-2015-call-for-submissions/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/05/17/opulent-mobility-2015-call-for-submissions/</link>
+					<comments>https://www.lavatransforms.org/2015/05/17/opulent-mobility-2015-call-for-submissions/#respond</comments>
 		
 		<dc:creator><![CDATA[A. Laura Brody]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -66,22 +63,22 @@
 <p>Wheelchairs, walkers, prosthetic limbs, crutches and other assistive technology devices are part of our lives. But in the grand scheme of design innovations they&#8217;ve been left in the dust. There are hundreds of thousands of designs for chairs, eyeglasses and technology of so many other kinds. Now is your chance to help change the conversation about the assistive technology of the future.</p>
 <p>Please submit your art, designs and inventions dealing with mobility, disability and accessibility.</p>
 <p>Deadline for submission is June 30th, 2015 at 5 PM PST. The exhibit runs from September 10-19th, 2015 at California State University, Northridge&#8217;s West Gallery. Opulent Mobility&#8217;s opening reception will be September 12, 2015 from 4-8 PM.</p>
-<p>Submit online at <a title="Opulent Mobility call for submissions " href="http://www.dreamsbymachine.com/opulent-mobility-a-call-for-art-and-ideas/" target="_blank">http://www.dreamsbymachine.com/opulent-mobility-a-call-for-art-and-ideas/</a>.</p>
+<p>Submit online at <a title="Opulent Mobility call for submissions " href="https://www.dreamsbymachine.com/opulent-mobility-a-call-for-art-and-ideas/" target="_blank">https://www.dreamsbymachine.com/opulent-mobility-a-call-for-art-and-ideas/</a>.</p>
 <p>We&#8217;re excited to see your ideas!</p>
 <div id="themify_builder_content-1445" data-postid="1445" class="themify_builder_content themify_builder_content-1445 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/05/17/opulent-mobility-2015-call-for-submissions/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/05/17/opulent-mobility-2015-call-for-submissions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1445</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA&#8217;s 43rd Sunday Salon</title>
-		<link>/2015/04/06/lavas-43rd-sunday-salon/</link>
-					<comments>/2015/04/06/lavas-43rd-sunday-salon/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/</link>
+					<comments>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -100,28 +97,28 @@
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4:30pm</strong>.</p>
 <h3>The Photography of Kristin Bedford: Race, History &amp; the Divine</h3>
 <p>Los Angeles-based photographer Kristin Bedford will be presenting her series of photographs about the legacy of the African-American religious leader Father Divine. The body of work delves into issues of race, American religious history, and the mystery of enduring faith.</p>
-<p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p>
+<p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p>
 <p>The followers, who call themselves â€œThe International Peace Mission Movement,â€ are living a way of life and performing rituals created over eighty years ago by their God. With the lack of new followers, their movement is likely in its final chapter. Bedford had the chance to experience and photograph their traditions before they fade away.</p>
-<p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p>
+<p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p>
 <h4>Biography</h4>
 <p>Kristin Bedford is a Los Angeles-based photographer who focuses on long-term visual studies of where we live â€“ the streets we walk down, the places we worship in, the homes we create, and the spaces between them all. Her subjects have included religious movements, street culture in numerous urban centers, and the modern day legacy of historic African-American communities.</p>
-<p><a href="http://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p>
-<p><a href="http://lens.blogs.nytimes.com/2014/12/29/philadelphia-city-of-father-divine/" target="_blank">NY Times <span class="caps">LENS</span> Review</a></p>
-<p><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="http://gdurl.com/zlSj" alt="" width="80%" /></p>
+<p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p>
+<p><a href="https://lens.blogs.nytimes.com/2014/12/29/philadelphia-city-of-father-divine/" target="_blank">NY Times <span class="caps">LENS</span> Review</a></p>
+<p><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="https://gdurl.com/zlSj" alt="" width="80%" /></p>
 <div id="themify_builder_content-1436" data-postid="1436" class="themify_builder_content themify_builder_content-1436 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/04/06/lavas-43rd-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1436</post-id>	</item>
+			</item>
 		<item>
 		<title>SONGS FROM SKID ROW &#124; a fundraising event</title>
-		<link>/2015/03/18/songs-from-skid-row-a-fundraising-event/</link>
-					<comments>/2015/03/18/songs-from-skid-row-a-fundraising-event/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/03/18/songs-from-skid-row-a-fundraising-event/</link>
+					<comments>https://www.lavatransforms.org/2015/03/18/songs-from-skid-row-a-fundraising-event/#respond</comments>
 		
 		<dc:creator><![CDATA[Alina Skrzeszewska]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -134,10 +131,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[THESE DAYS, MORE THANNE and GAME GIRLS are hosting an event connecting the new and old Downtown Los Angeles. Weâ€™ll be celebrating the launch of the Game Girls&#160;Indiegogo Campaign, where we seek your support to complete a unique documentary about the female experience in skid row. We have already raised $7,800 â€“ which is amazing [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span class="caps">THESE</span> <span class="caps">DAYS</span>, <span class="caps">MORE</span> <span class="caps">THANNE</span> and <span class="caps">GAME</span> <span class="caps">GIRLS</span> are hosting an event connecting the new and old Downtown Los Angeles. Weâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be celebrating the launch of the <a href="https://www.indiegogo.com/projects/game-girls" target="_blank"><span class="caps">Game Girls&nbsp;</span>Indiegogo Campaign</a>, where we seek your support to complete a unique documentary about the female experience in skid row. We have already raised $7,800 â€“ which is amazing â€“ but we need your help to meet our goal of $20,000. Together, WE <span class="caps">CAN</span> DO <span class="caps">THIS</span>!</p>
+										<content:encoded><![CDATA[<p><span class="caps">THESE</span> <span class="caps">DAYS</span>, <span class="caps">MORE</span> <span class="caps">THANNE</span> and <span class="caps">GAME</span> <span class="caps">GIRLS</span> are hosting an event connecting the new and old Downtown Los Angeles. Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be celebrating the launch of the <a href="https://www.indiegogo.com/projects/game-girls" target="_blank"><span class="caps">Game Girls&nbsp;</span>Indiegogo Campaign</a>, where we seek your support to complete a unique documentary about the female experience in skid row. We have already raised $7,800 â€“ which is amazing â€“ but we need your help to meet our goal of $20,000. Together, WE <span class="caps">CAN</span> DO <span class="caps">THIS</span>!</p>
 <p><em>Game Girls</em> is â€œA poetic take on Skid Rowâ€¦ <em>Game Girls</em> re-imagines what the documentary film genre can be.â€ -Shana Nys Dambrot for <span class="caps">KCET</span> Artbound.</p>
 <p>We want to share some of what our team has learned and discovered along our journey making <em>Game Girls!</em> And trust us, you <span class="caps">NEED</span> TO <span class="caps">SEE</span> <span class="caps">THIS</span>.</p>
-<p>See Downtown Los Angeles through director Alina Skrzeszewskaâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s eyes. She has been making films in Skid Row for nearly a decade. Weâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be screening her award winning documentary&nbsp;<em><a href="http://www.songsfromthenickel.com/" target="_blank">Songs From The Nickel</a></em> in Indian Alley from 7:00 â€“ 8:30PM. The film is comprised of 8 vignettes that will take you into the small flophouse rooms of an era since passed, into the old King Eddy Saloon, to underground tunnels of LA and street corners that have since drastically changedâ€¦ Pop in and out, grab a drink and meander from the screening in Indian Alley to <span class="caps">THESE</span> <span class="caps">DAYS</span> store &amp; gallery to view the late Carl Ramseyâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s beautiful portrait series <em><a href="http://goo.gl/IXpvPU" target="_blank">Women of Skid Row</a></em> and other urban landscapes. Visit More Thanneâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s special vintage sale, where 15% of the profit will be donated directly to <em>Game Girls.</em> More Thanne will also feature exclusive, unreleased clips from <em>Game Girls!</em> Listen to a live set of eclectic â€œsoul ethniqueâ€ tunes by Gaio, straight from Marseille, France! And get inspired by a soulful, healing musical presentation by Downtownâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s very own Charles Porter. Snacks and Drinks generously provided by our wonderful neighbors at Blossom and The Must.</p>
+<p>See Downtown Los Angeles through director Alina Skrzeszewskaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s eyes. She has been making films in Skid Row for nearly a decade. Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be screening her award winning documentary&nbsp;<em><a href="https://www.songsfromthenickel.com/" target="_blank">Songs From The Nickel</a></em> in Indian Alley from 7:00 â€“ 8:30PM. The film is comprised of 8 vignettes that will take you into the small flophouse rooms of an era since passed, into the old King Eddy Saloon, to underground tunnels of LA and street corners that have since drastically changedâ€¦ Pop in and out, grab a drink and meander from the screening in Indian Alley to <span class="caps">THESE</span> <span class="caps">DAYS</span> store &amp; gallery to view the late Carl Ramseyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s beautiful portrait series <em><a href="https://goo.gl/IXpvPU" target="_blank">Women of Skid Row</a></em> and other urban landscapes. Visit More Thanneâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s special vintage sale, where 15% of the profit will be donated directly to <em>Game Girls.</em> More Thanne will also feature exclusive, unreleased clips from <em>Game Girls!</em> Listen to a live set of eclectic â€œsoul ethniqueâ€ tunes by Gaio, straight from Marseille, France! And get inspired by a soulful, healing musical presentation by Downtownâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s very own Charles Porter. Snacks and Drinks generously provided by our wonderful neighbors at Blossom and The Must.</p>
 <p>Your donations will help fund the completion of <em>Game Girls.</em> Please donate what you can â€“ we suggest a $20 or more contribution â€“ every dollar counts. Our goal through this campaign is not only to raise money to move the film forward, but also to build awareness. We can do this together!</p>
 <p>If you cannot make it to the event, please consider donating directly to the&nbsp;<a href="https://www.indiegogo.com/projects/game-girls" target="_blank"><span class="caps">GAME</span> <span class="caps">GIRLS</span> Indiegogo Campaign</a>.</p>
 <div id="themify_builder_content-1427" data-postid="1427" class="themify_builder_content themify_builder_content-1427 themify_builder">
@@ -145,15 +142,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/03/18/songs-from-skid-row-a-fundraising-event/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/03/18/songs-from-skid-row-a-fundraising-event/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1427</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA&#8217;s 42nd Sunday Salon</title>
-		<link>/2015/02/18/lavas-42nd-sunday-salon/</link>
-					<comments>/2015/02/18/lavas-42nd-sunday-salon/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/02/18/lavas-42nd-sunday-salon/</link>
+					<comments>https://www.lavatransforms.org/2015/02/18/lavas-42nd-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -169,25 +166,25 @@
 
 					<description><![CDATA[Please note that, due to limited room capacity, attendees must register to attend the LAVA Sunday Salon. To sign up for this free event: First register as a user on this site, or login to your existing account and then return to this page. Refresh the page and the signup field will appear just to [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4pm</strong>.</p>
-<p>Join poet and memoirist Joan Jobe Smith for an afternoon of poetry &amp; storytelling at the <span class="caps">LAVA</span> Sunday Salon. The newly published <em><a href="http://astore.amazon.com/bubble1-20/detail/1502898284" target="_blank">Tales of An Ancient Go-Go Girl</a></em> by long-time Long Beach, California resident Joan Jobe Smith, is a picaresque True Tale, a 50-year Glotessey spanning the 1965 Los Angeles Watts Riots, near death at the hands of a homicidal ex-husband, the counter-culture go-go swinging let-it-all-hang-out 1960s-â€˜70s, single Motherhood and Feminism. Rarely does a natural poet and historian such as Joan Jobe Smith endure such ordeals and challenges and survive to tell the tale. It is a Tale written with go-going panache and patois, and heart, courage and humor to make our lives richer and wiser. The event will be a series of short Q&amp;As with LAVA&#8217;s Richard Schave on milestones from the memoir, punctuated by Joan reading poetry selections which span her career.</p>
-<p>Excerpts from 5-Star Reviews of <em><a href="http://astore.amazon.com/bubble1-20/detail/1502898284" target="_blank">Tales of An Ancient Go-Go Girl</a></em>:</p>
-<p>â€œCharles Bukowski said the inimitable Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s writing â€˜has the reality of force properly put down on paper; she cuts herself loose into the stratosphere.â€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Joanâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s heart is so damned big. Sheâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not only cut herself loose into the stratosphere, she takes anyone who wants to go with her along for the ride. And now we have this raw-edged, honest, beauty of a bookâ€¦â€ â€”L. Jakiela, Creative Writing Professor, University of Pittsburgh</p>
-<p>â€œVividly conjures up the dark shadows and wisecracks of a Film Noir, set in 1960s-â€˜70s L.A., with a cast of glamourous yet vulnerable dancers, slimy bosses, wharf rats (both rodents, ex-husband and customers) with walk-ons by celebrities (Dick Dale, Ike and Tina Turner) amongst the burgeoning pop music and drug counter-culture of the era. Energized by Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s poetic eye and exuberant syntax, these true Tales will enthrall readers, revealing its author as a brilliant chronicler of her Noir-ish life and times.â€œâ€”Jules Smith, Londonâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em>Times Literary Supplement</em></p>
-<p>â€œI just finished reading Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em><span class="caps">Tales of An Ancient Go-Go Girl</span>.</em> She has such a descriptive, poetic talent for words as she weaves her true life tales of love, jealousy, near murder and trials. Bukowski advised her to write about her go-go girl years. I admire her ability to bring scenes from the &#8217;60s and &#8217;70s so vividly to life.â€&#8211;Linda King</p>
+<p>Join poet and memoirist Joan Jobe Smith for an afternoon of poetry &amp; storytelling at the <span class="caps">LAVA</span> Sunday Salon. The newly published <em><a href="https://astore.amazon.com/bubble1-20/detail/1502898284" target="_blank">Tales of An Ancient Go-Go Girl</a></em> by long-time Long Beach, California resident Joan Jobe Smith, is a picaresque True Tale, a 50-year Glotessey spanning the 1965 Los Angeles Watts Riots, near death at the hands of a homicidal ex-husband, the counter-culture go-go swinging let-it-all-hang-out 1960s-â€˜70s, single Motherhood and Feminism. Rarely does a natural poet and historian such as Joan Jobe Smith endure such ordeals and challenges and survive to tell the tale. It is a Tale written with go-going panache and patois, and heart, courage and humor to make our lives richer and wiser. The event will be a series of short Q&amp;As with LAVA&#8217;s Richard Schave on milestones from the memoir, punctuated by Joan reading poetry selections which span her career.</p>
+<p>Excerpts from 5-Star Reviews of <em><a href="https://astore.amazon.com/bubble1-20/detail/1502898284" target="_blank">Tales of An Ancient Go-Go Girl</a></em>:</p>
+<p>â€œCharles Bukowski said the inimitable Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s writing â€˜has the reality of force properly put down on paper; she cuts herself loose into the stratosphere.â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Joanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s heart is so damned big. Sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not only cut herself loose into the stratosphere, she takes anyone who wants to go with her along for the ride. And now we have this raw-edged, honest, beauty of a bookâ€¦â€ â€”L. Jakiela, Creative Writing Professor, University of Pittsburgh</p>
+<p>â€œVividly conjures up the dark shadows and wisecracks of a Film Noir, set in 1960s-â€˜70s L.A., with a cast of glamourous yet vulnerable dancers, slimy bosses, wharf rats (both rodents, ex-husband and customers) with walk-ons by celebrities (Dick Dale, Ike and Tina Turner) amongst the burgeoning pop music and drug counter-culture of the era. Energized by Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s poetic eye and exuberant syntax, these true Tales will enthrall readers, revealing its author as a brilliant chronicler of her Noir-ish life and times.â€œâ€”Jules Smith, Londonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em>Times Literary Supplement</em></p>
+<p>â€œI just finished reading Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em><span class="caps">Tales of An Ancient Go-Go Girl</span>.</em> She has such a descriptive, poetic talent for words as she weaves her true life tales of love, jealousy, near murder and trials. Bukowski advised her to write about her go-go girl years. I admire her ability to bring scenes from the &#8217;60s and &#8217;70s so vividly to life.â€&#8211;Linda King</p>
 <div id="themify_builder_content-1419" data-postid="1419" class="themify_builder_content themify_builder_content-1419 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/02/18/lavas-42nd-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/02/18/lavas-42nd-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1419</post-id>	</item>
+			</item>
 		<item>
 		<title>From Pop to the Pit: Neil Zlowzower Presents Music Photos 1978-1989</title>
-		<link>/2015/02/01/from-pop-to-the-pit-neil-zlowzower-presents-music-photos-1978-1989/</link>
-					<comments>/2015/02/01/from-pop-to-the-pit-neil-zlowzower-presents-music-photos-1978-1989/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-neil-zlowzower-presents-music-photos-1978-1989/</link>
+					<comments>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-neil-zlowzower-presents-music-photos-1978-1989/#respond</comments>
 		
 		<dc:creator><![CDATA[Amy Inouye]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -204,7 +201,7 @@
 <div class="field field-name-body field-type-text-with-summary field-label-hidden">
 <div class="field-items">
 <div class="field-item even">
-<p>Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> music scene with rarely seen images of the bands that helped define the era.</p>
+<p>Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> music scene with rarely seen images of the bands that helped define the era.</p>
 <p>On Display in the History &amp; Genealogy Department from January 8 to June 28, 2015</p>
 <p>In conjunction with this exhibit, the Los Angeles Public Library and Photo Friends are excited to present a special lecture series featuring notable local music photographers.</p>
 <p>On Saturday June 13, 2015, Neil Zlowzower, in conversation with music archivist Jeff Schwartz, will present images from his archive. Mark Taper Auditorium, 2 pm.</p>
@@ -220,15 +217,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/02/01/from-pop-to-the-pit-neil-zlowzower-presents-music-photos-1978-1989/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-neil-zlowzower-presents-music-photos-1978-1989/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1409</post-id>	</item>
+			</item>
 		<item>
 		<title>From Pop to the Pit: Ed Colver Presents Music Photos 1978-1989</title>
-		<link>/2015/02/01/from-pop-to-the-pit-ed-colver-presents-music-photos-1978-1989/</link>
-					<comments>/2015/02/01/from-pop-to-the-pit-ed-colver-presents-music-photos-1978-1989/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-ed-colver-presents-music-photos-1978-1989/</link>
+					<comments>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-ed-colver-presents-music-photos-1978-1989/#respond</comments>
 		
 		<dc:creator><![CDATA[Amy Inouye]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -239,24 +236,24 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€™ music scene with [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> music scene with rarely seen images of the bands that helped define the era.</p>
+										<content:encoded><![CDATA[<p>Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> music scene with rarely seen images of the bands that helped define the era.</p>
 <p>On Display in the History &amp; Genealogy Department from January 8 to June 28, 2015</p>
-<p>In conjunction with this exhibit, the Los Angeles Public Library and Photo Friends are excited to present a special lecture series featuring notable local music photographers. On Saturday April 18, 2015, Ed Colver will present images from his archive. Mark Taper Auditorium, 2 pm. This will be a free but ticketed event; information will be posted in late March to http://photofriendslapl.blogspot.com/</p>
+<p>In conjunction with this exhibit, the Los Angeles Public Library and Photo Friends are excited to present a special lecture series featuring notable local music photographers. On Saturday April 18, 2015, Ed Colver will present images from his archive. Mark Taper Auditorium, 2 pm. This will be a free but ticketed event; information will be posted in late March to https://photofriendslapl.blogspot.com/</p>
 <p>Seating is on a first come, first serve basis with doors opening approximately 1/2 hour before the start of the program. Presented by Photo Friends LAPL.</p>
 <div id="themify_builder_content-1408" data-postid="1408" class="themify_builder_content themify_builder_content-1408 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/02/01/from-pop-to-the-pit-ed-colver-presents-music-photos-1978-1989/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-ed-colver-presents-music-photos-1978-1989/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1408</post-id>	</item>
+			</item>
 		<item>
 		<title>From Pop to the Pit: Gary Leonard Presents Music Photos 1978-1989</title>
-		<link>/2015/02/01/from-pop-to-the-pit-gary-leonard-presents-music-photos-1978-1989/</link>
-					<comments>/2015/02/01/from-pop-to-the-pit-gary-leonard-presents-music-photos-1978-1989/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-gary-leonard-presents-music-photos-1978-1989/</link>
+					<comments>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-gary-leonard-presents-music-photos-1978-1989/#respond</comments>
 		
 		<dc:creator><![CDATA[Amy Inouye]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -268,24 +265,24 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€™ music scene with [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> music scene with rarely seen images of the bands that helped define the era.</p>
+										<content:encoded><![CDATA[<p>Culled from the Herald-Examiner photo archive and the Gary Leonard Collection, Los Angeles Public Library Photo Collection presents a glimpse into a decade in the musical life of a city that produced scores of hit singles, strikingly diverse genres, and tremendous excitement. Join us in reliving an extraordinary time in Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> music scene with rarely seen images of the bands that helped define the era.</p>
 <p>On Display in the History &amp; Genealogy Department from January 8 to June 28, 2015</p>
-<p>In conjunction with this photo exhibit, the Los Angeles Public Library and Photo Friends are excited to present a special lecture series featuring notable local music photographers. Gary Leonard will present images from his book, <a href="http://astore.amazon.com/bubble1-20/detail/0312169124" target="_blank">Make the Music Go Bang</a>, and talk about his connection to the LA music scene, which will include â€œthen and nowâ€ portraits of LA musicians.</p>
+<p>In conjunction with this photo exhibit, the Los Angeles Public Library and Photo Friends are excited to present a special lecture series featuring notable local music photographers. Gary Leonard will present images from his book, <a href="https://astore.amazon.com/bubble1-20/detail/0312169124" target="_blank">Make the Music Go Bang</a>, and talk about his connection to the LA music scene, which will include â€œthen and nowâ€ portraits of LA musicians.</p>
 <p>Saturday, March 14, 2015 at 2 pm in the Mark Taper Auditorium, Central Library. Seating is on a first come first serve basis, with doors opening approx. 1/2 hr. before the program.</p>
 <div id="themify_builder_content-1407" data-postid="1407" class="themify_builder_content themify_builder_content-1407 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/02/01/from-pop-to-the-pit-gary-leonard-presents-music-photos-1978-1989/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/02/01/from-pop-to-the-pit-gary-leonard-presents-music-photos-1978-1989/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1407</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA&#8217;s 41st Sunday Salon</title>
-		<link>/2015/01/29/lavas-41st-sunday-salon/</link>
-					<comments>/2015/01/29/lavas-41st-sunday-salon/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/</link>
+					<comments>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -300,24 +297,24 @@
 
 					<description><![CDATA[Please note that, due to limited room capacity, attendees must register to attend the LAVA Sunday Salon. To sign up for this free event: First register as a user on this site, or login to your existing account and then return to this page. Refresh the page and the signup field will appear just to [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4pm</strong>.</p>
-<p>Architectural Historian <a href="http://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,&nbsp;presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p>
+<p>Architectural Historian <a href="https://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="https://www.lavatransforms.org/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,&nbsp;presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p>
 <p>The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, which one may still visit in any number of extant adobes; from there, following some historic boom times, we Angelenos and visitors alike are regaled by the wondrous Beaux-Arts high-rises of downtown. If pure Victorian architecture is considered, one likely turns attention to the Eastlake and Queen Anne examples along Carroll Avenue, or to the used-car lot of gingerbread, Heritage Square.</p>
-<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
-<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
+<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
+<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
 <div id="themify_builder_content-1405" data-postid="1405" class="themify_builder_content themify_builder_content-1405 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/01/29/lavas-41st-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1405</post-id>	</item>
+			</item>
 		<item>
 		<title>LAVA&#8217;s 40th Sunday Salon (Reservations Now Full)</title>
-		<link>/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/</link>
-					<comments>/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/</link>
+					<comments>https://www.lavatransforms.org/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -334,7 +331,7 @@
 										<content:encoded><![CDATA[<p><strong>UPDATE: Please note that reservations for this event are now closed, as we have reached capacity.&nbsp;</strong><strong>If you would like to try to attend but have not yet reserved, please note that we will begin admitting ticketed guests at 1:30pm on 2/22. At 2pm, any ticketed guest who has not arrived will forfeit their reservation, and we will then admit non-ticketed guests on a first come, first served basis until the room reaches capacity. You may come to the venue and put your name (just your name, no +1s) on the waiting list starting at 1:30pm.&nbsp;</strong></p>
 <p><strong style="line-height: 1.5em;">* * *</strong></p>
 <p>Please note that, due to limited&nbsp;room capacity, attendees must register to attend the LAVA Sunday Salon.&nbsp;No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. Also, note that the Sunday Salon has a new time slot: 2-4pm.&nbsp;</p>
-<p>Join LAVA Visionary and&nbsp;art historian <a href="http://empiredelamort.com/" target="_blank">Dr. Paul Koudounaris</a>, author of &#8220;<a href="http://astore.amazon.com/bubble1-20/detail/0500251959" target="_blank">Heavenly Bodies: Cult Treasures and Spectacular Saints from the Catacombs</a>&#8221; and &#8220;<a href="http://astore.amazon.com/bubble1-20/detail/0500251789" target="_blank">The Empire of Death: A Cultural History of Ossuaries and Charnel Houses</a>&#8221; for a very special presentation&nbsp;inaugurating the relaunch of the monthly <span class="caps">LAVA</span> Sunday Salon at <a href="http://librarybarla.com/" target="_blank">Library Bar</a>.</p>
+<p>Join LAVA Visionary and&nbsp;art historian <a href="https://empiredelamort.com/" target="_blank">Dr. Paul Koudounaris</a>, author of &#8220;<a href="https://astore.amazon.com/bubble1-20/detail/0500251959" target="_blank">Heavenly Bodies: Cult Treasures and Spectacular Saints from the Catacombs</a>&#8221; and &#8220;<a href="https://astore.amazon.com/bubble1-20/detail/0500251789" target="_blank">The Empire of Death: A Cultural History of Ossuaries and Charnel Houses</a>&#8221; for a very special presentation&nbsp;inaugurating the relaunch of the monthly <span class="caps">LAVA</span> Sunday Salon at <a href="https://librarybarla.com/" target="_blank">Library Bar</a>.</p>
 <p><strong>Demonically-Possessed Cats with Dr. Paul Koudounaris</strong></p>
 <p>Does your cat do things like:</p>
 <p>spit fire?</p>
@@ -342,17 +339,17 @@
 <p>levitate?</p>
 <p>shape shift?</p>
 <p>wantonly kill people for no apparent reason?</p>
-<p>This behavior may be more than simple bad kitty syndromeâ€”your cat may be possessed by a demon. But donâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t worry, youâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not alone. In fact, there is an entire history of demonically-possessed cats. Felines were once considered by theologians to be easy prey for demons, who could enter their bodies and wreck incredible havoc on mankind. And did you knowâ€¦ demonically-possessed cats are still believed to be with us today?! Dr. Paul Koudounaris has immersed himself in the study of demonic cats, in order to to give a talk on this sadly neglected topic. Cat lovers will like this lecture, and cat haters will like it even more. Neither side will ever look at a domestic cat the same way again.</p>
+<p>This behavior may be more than simple bad kitty syndromeâ€”your cat may be possessed by a demon. But donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t worry, youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not alone. In fact, there is an entire history of demonically-possessed cats. Felines were once considered by theologians to be easy prey for demons, who could enter their bodies and wreck incredible havoc on mankind. And did you knowâ€¦ demonically-possessed cats are still believed to be with us today?! Dr. Paul Koudounaris has immersed himself in the study of demonic cats, in order to to give a talk on this sadly neglected topic. Cat lovers will like this lecture, and cat haters will like it even more. Neither side will ever look at a domestic cat the same way again.</p>
 <p>Please note this lecture has been given by Dr. Koudounaris in abbreviated forms about town, but this <em>only</em> time he will present the full lecture in Los Angeles.</p>
 <div id="themify_builder_content-1393" data-postid="1393" class="themify_builder_content themify_builder_content-1393 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1393</post-id>	</item>
+			</item>
 	</channel>
 </rss>

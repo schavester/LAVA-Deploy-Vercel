@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>Media &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/category/media/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/category/media/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>Watts Riots @ 50: &#8220;More Than A Riot: The Joyce Ann Gaines Story&#8221; film screening</title>
-		<link>/2015/07/28/watts-riots-50-more-than-a-riot-the-joyce-ann-gaines-story-film-screening/</link>
-					<comments>/2015/07/28/watts-riots-50-more-than-a-riot-the-joyce-ann-gaines-story-film-screening/#respond</comments>
+		<link>https://www.lavatransforms.org/2015/07/28/watts-riots-50-more-than-a-riot-the-joyce-ann-gaines-story-film-screening/</link>
+					<comments>https://www.lavatransforms.org/2015/07/28/watts-riots-50-more-than-a-riot-the-joyce-ann-gaines-story-film-screening/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -46,15 +43,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/07/28/watts-riots-50-more-than-a-riot-the-joyce-ann-gaines-story-film-screening/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2015/07/28/watts-riots-50-more-than-a-riot-the-joyce-ann-gaines-story-film-screening/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1465</post-id>	</item>
+			</item>
 		<item>
 		<title>Mayme Clayton Library and Museum Presents Wine &#038; Cheese Fundraiser Open House with movies</title>
-		<link>/2013/09/25/mayme-clayton-library-and-museum-presents-wine-cheese-fundraiser-open-house-with-movies/</link>
-					<comments>/2013/09/25/mayme-clayton-library-and-museum-presents-wine-cheese-fundraiser-open-house-with-movies/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/09/25/mayme-clayton-library-and-museum-presents-wine-cheese-fundraiser-open-house-with-movies/</link>
+					<comments>https://www.lavatransforms.org/2013/09/25/mayme-clayton-library-and-museum-presents-wine-cheese-fundraiser-open-house-with-movies/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -80,15 +77,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/09/25/mayme-clayton-library-and-museum-presents-wine-cheese-fundraiser-open-house-with-movies/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/09/25/mayme-clayton-library-and-museum-presents-wine-cheese-fundraiser-open-house-with-movies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1111</post-id>	</item>
+			</item>
 		<item>
 		<title>Public + Art: Three Ducks in a Row</title>
-		<link>/2013/07/16/public-art-three-ducks-in-a-row/</link>
-					<comments>/2013/07/16/public-art-three-ducks-in-a-row/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/07/16/public-art-three-ducks-in-a-row/</link>
+					<comments>https://www.lavatransforms.org/2013/07/16/public-art-three-ducks-in-a-row/#respond</comments>
 		
 		<dc:creator><![CDATA[Heidi Duckler]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -105,7 +102,7 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 
 					<description><![CDATA[Combining civic art, musical performance, and dance, Heidi Duckler Dance Theatre&#8217;s Public + Art: Three Ducks in a Row will animate the East Los Angeles Civic Center with three arts events in one free, family-friendly evening. The evening will kick off with a one-of-a-kind public art tour featuring artists whose work is currently displayed at [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p class="p1">Combining civic art, musical performance, and dance, Heidi Duckler Dance Theatre&#8217;s <em>Public + Art: Three Ducks in a Row </em>will animate the East Los Angeles Civic Center with three arts events in one free, family-friendly evening.</p>
-<p class="p1">The evening will kick off with a one-of-a-kind public art tour featuring artists whose work is currently displayed at the Civic Center, allowing participants to develop a more engaged and nuanced understanding of the civic art across the site&#8217;s lush park landscape. Immediately following the tour, award-winning rock, jazz, and experimental musicians Don Preston and Andrea Centazzo will enliven the Centerâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s amphitheater stage with live music, as a performance by Heidi Duckler Dance Theatre dancers complement the musiciansâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> unique, layered sounds. &nbsp;</p>
+<p class="p1">The evening will kick off with a one-of-a-kind public art tour featuring artists whose work is currently displayed at the Civic Center, allowing participants to develop a more engaged and nuanced understanding of the civic art across the site&#8217;s lush park landscape. Immediately following the tour, award-winning rock, jazz, and experimental musicians Don Preston and Andrea Centazzo will enliven the Centerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s amphitheater stage with live music, as a performance by Heidi Duckler Dance Theatre dancers complement the musiciansâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> unique, layered sounds. &nbsp;</p>
 <p class="p1"><em>Public + Art: Three Ducks in a Row</em> will conclude with a Curbside Conversation panel, providing a space for dialogue between artists and community members and cultivating enhanced consciousness of, and appreciation, for art in the public realm.&nbsp;</p>
 <p class="p1">The public art tour departs from the East Los Angeles Library lobby at 7pm, and the following performances and Curbside Conversation will take place at 8pm at the Civic Center&#8217;s amphitheater stage. For more information and to RSVP for the event, visit www.heididuckler.org.&nbsp;</p>
 <div id="themify_builder_content-1051" data-postid="1051" class="themify_builder_content themify_builder_content-1051 themify_builder">
@@ -113,15 +110,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/07/16/public-art-three-ducks-in-a-row/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/07/16/public-art-three-ducks-in-a-row/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1051</post-id>	</item>
+			</item>
 		<item>
 		<title>Free screening of Black Orpheus at Mayme Clayton Library and Museum</title>
-		<link>/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/</link>
-					<comments>/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/</link>
+					<comments>https://www.lavatransforms.org/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -138,15 +135,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1050</post-id>	</item>
+			</item>
 		<item>
 		<title>Stealing Time to Write: A Retreat for Women</title>
-		<link>/2013/07/12/stealing-time-to-write-a-retreat-for-women/</link>
-					<comments>/2013/07/12/stealing-time-to-write-a-retreat-for-women/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/07/12/stealing-time-to-write-a-retreat-for-women/</link>
+					<comments>https://www.lavatransforms.org/2013/07/12/stealing-time-to-write-a-retreat-for-women/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -160,10 +157,10 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 					<description><![CDATA[&#160;LAVA Visionaries April Dammann and Adrienne Crew are alumnae of Hedgebrook, a writers retreat for women located on an island in the Puget Sound of Washington State. They are both involved with Hedgbrook&#8217;s Southern California Alumnae Council, which will be hosting a one-day retreat designed to give writers the space and time to just write [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">&nbsp;LAVA Visionaries April Dammann and Adrienne Crew are alumnae of Hedgebrook, a writers retreat for women located on an island in the Puget Sound of Washington State. They are both involved with Hedgbrook&#8217;s Southern California Alumnae Council, which will be hosting a one-day retreat designed to give writers the space and time to just write in an unstructured, quiet environment on Sunday, August 4, 2013 at the old Doheny mansion near USC in Los Angeles.</p>
 <p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">See details below or review the brochure&nbsp;<a href="https://www.hedgebrook.org/eventdetails.php?id=51" target="_blank">here:</a></p>
-<p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">THE COUNTRY&nbsp; IN THE CITY&nbsp;<br />One-Day Writersâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Retreat at&nbsp; Downtown LA campus of Mount Saint Maryâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s College in Los Angeles</p>
+<p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">THE COUNTRY&nbsp; IN THE CITY&nbsp;<br />One-Day Writersâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Retreat at&nbsp; Downtown LA campus of Mount Saint Maryâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s College in Los Angeles</p>
 <p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">SUNDAY, AUGUST 4, 2013<br />9AM â€“ 5:30PM</p>
 <p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">Turn off your clocks, schedules, and expectations. This is a day to nurture body and soul, commune with your muse, and above all write. Women writers of all experience levels and interests are warmly welcomed.</p>
-<p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">Participants may join writing circles to inspire imagination and hone craft, write quietly in community with others, wander to the â€œfarmhouse tableâ€ for talk about writing and group feedback, or simply sit under a tree and dream. In&nbsp;the afternoon, industry professionals and Hedgebrook alumnae will be available for one-on-one mentoring. Feedback on work will always be given with the utmost respect for the writerâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s vision. Participants should note, however, that&nbsp;the Retreat is a day for rejuvenation, not for detailed manuscript review.</p>
+<p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">Participants may join writing circles to inspire imagination and hone craft, write quietly in community with others, wander to the â€œfarmhouse tableâ€ for talk about writing and group feedback, or simply sit under a tree and dream. In&nbsp;the afternoon, industry professionals and Hedgebrook alumnae will be available for one-on-one mentoring. Feedback on work will always be given with the utmost respect for the writerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s vision. Participants should note, however, that&nbsp;the Retreat is a day for rejuvenation, not for detailed manuscript review.</p>
 <p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif;">Enjoy a day inspired by Hedgebrook!</p>
 <p style="font-style: normal; font-size: 12px; font-family: 'Lucida Grande', Verdana, Arial, Helvetica, sans-serif; text-align: justify;"><a style="font-size: 12px;" href="https://www.hedgebrook.org/cmsfile/contentfiles/Country%20in%20City%20BROCHURE%202013%20FINALHedgebrook.pdf" target="_blank">Click here for details or registration info</a>.</p>
 <div id="themify_builder_content-1049" data-postid="1049" class="themify_builder_content themify_builder_content-1049 themify_builder">
@@ -171,15 +168,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/07/12/stealing-time-to-write-a-retreat-for-women/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/07/12/stealing-time-to-write-a-retreat-for-women/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1049</post-id>	</item>
+			</item>
 		<item>
 		<title>An Evening with the Nicholas Brothers</title>
-		<link>/2013/05/06/an-evening-with-the-nicholas-brothers/</link>
-					<comments>/2013/05/06/an-evening-with-the-nicholas-brothers/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/05/06/an-evening-with-the-nicholas-brothers/</link>
+					<comments>https://www.lavatransforms.org/2013/05/06/an-evening-with-the-nicholas-brothers/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -199,15 +196,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/05/06/an-evening-with-the-nicholas-brothers/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/05/06/an-evening-with-the-nicholas-brothers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1010</post-id>	</item>
+			</item>
 		<item>
 		<title>Red Hope: The Blacklisting of Hope Foye screening</title>
-		<link>/2013/05/06/red-hope-the-blacklisting-of-hope-foye-screening/</link>
-					<comments>/2013/05/06/red-hope-the-blacklisting-of-hope-foye-screening/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/05/06/red-hope-the-blacklisting-of-hope-foye-screening/</link>
+					<comments>https://www.lavatransforms.org/2013/05/06/red-hope-the-blacklisting-of-hope-foye-screening/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -226,15 +223,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/05/06/red-hope-the-blacklisting-of-hope-foye-screening/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/05/06/red-hope-the-blacklisting-of-hope-foye-screening/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1009</post-id>	</item>
+			</item>
 		<item>
 		<title>Roar Shack Reading Series Presents: Hide One Thing in Your Heart</title>
-		<link>/2013/02/21/roar-shack-reading-series-presents-hide-one-thing-in-your-heart/</link>
-					<comments>/2013/02/21/roar-shack-reading-series-presents-hide-one-thing-in-your-heart/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/02/21/roar-shack-reading-series-presents-hide-one-thing-in-your-heart/</link>
+					<comments>https://www.lavatransforms.org/2013/02/21/roar-shack-reading-series-presents-hide-one-thing-in-your-heart/#respond</comments>
 		
 		<dc:creator><![CDATA[David Rocklin]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -252,15 +249,15 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/02/21/roar-shack-reading-series-presents-hide-one-thing-in-your-heart/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/02/21/roar-shack-reading-series-presents-hide-one-thing-in-your-heart/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">949</post-id>	</item>
+			</item>
 		<item>
 		<title>Robert Benchley Society Awards Dinner</title>
-		<link>/2012/10/08/robert-benchley-society-awards-dinner/</link>
-					<comments>/2012/10/08/robert-benchley-society-awards-dinner/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/10/08/robert-benchley-society-awards-dinner/</link>
+					<comments>https://www.lavatransforms.org/2012/10/08/robert-benchley-society-awards-dinner/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -277,22 +274,22 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 					<description><![CDATA[It&#8217;s time for the 10th annual gathering of the Robert Benchley Society. This national group holds its annual Robert Benchley Awards dinner in a new city each year. This year&#8217;s gathering is in Los Angeles, home to Mr. Benchley and Mrs. Dorothy Parker from the thirties through the fifties. This year the Society will gather [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; line-height: 14px;">It&#8217;s time for the 10th annual gathering of the Robert Benchley Society. This national group holds its annual Robert Benchley Awards dinner in a new city each year. This year&#8217;s gathering is in Los Angeles, home to Mr. Benchley and Mrs. Dorothy Parker from the thirties through the fifties. This year the Society will gather for various activities the weekend of October 12th, including an Awards dinner hosted by&nbsp;</span><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; line-height: 14px;">&#8220;LAUGH IN&#8221; star,&nbsp;</span><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; line-height: 14px;">Arte &nbsp;Johnson, at a private club in Santa Monica on Saturday, October 13th.&nbsp;</span><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; line-height: 14px;">&nbsp;Evening dress or 20s-30s attire required at the Awards dinner.&nbsp;</span><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11.111111640930176px; font-style: normal; line-height: 13.981481552124023px;">Must purchase ticket in advance.&nbsp;</span></p>
 <div class="text_exposed_show" style="display: inline; color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; font-style: normal; line-height: 14px;">Details and registration are at</p>
-<p><a href="http://www.robertbenchley.org/AG2012/registration.htm" target="_blank"><span style="color: #3b5998;"><span style="cursor: pointer;">http://</span></span><span class="word_break" style="cursor: pointer; color: #3b5998; display: inline-block;">&nbsp;</span><span style="color: #3b5998;"><span style="cursor: pointer;">www.robertbenchley.org/</span></span><span class="word_break" style="cursor: pointer; color: #3b5998; display: inline-block;">&nbsp;</span><span style="color: #3b5998;"><span style="cursor: pointer;">AG2012/registration.htm</span></span><br /></a></div>
+<p><a href="https://www.robertbenchley.org/AG2012/registration.htm" target="_blank"><span style="color: #3b5998;"><span style="cursor: pointer;">https://</span></span><span class="word_break" style="cursor: pointer; color: #3b5998; display: inline-block;">&nbsp;</span><span style="color: #3b5998;"><span style="cursor: pointer;">www.robertbenchley.org/</span></span><span class="word_break" style="cursor: pointer; color: #3b5998; display: inline-block;">&nbsp;</span><span style="color: #3b5998;"><span style="cursor: pointer;">AG2012/registration.htm</span></span><br /></a></div>
 <p>&nbsp;</p>
 <div id="themify_builder_content-855" data-postid="855" class="themify_builder_content themify_builder_content-855 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/10/08/robert-benchley-society-awards-dinner/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/10/08/robert-benchley-society-awards-dinner/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">855</post-id>	</item>
+			</item>
 		<item>
 		<title>Heidi Duckler Dance Theatre Presents: Catch Your Breath</title>
-		<link>/2012/09/26/heidi-duckler-dance-theatre-presents-catch-your-breath/</link>
-					<comments>/2012/09/26/heidi-duckler-dance-theatre-presents-catch-your-breath/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/09/26/heidi-duckler-dance-theatre-presents-catch-your-breath/</link>
+					<comments>https://www.lavatransforms.org/2012/09/26/heidi-duckler-dance-theatre-presents-catch-your-breath/#respond</comments>
 		
 		<dc:creator><![CDATA[Heidi Duckler]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -303,16 +300,16 @@ Film Screening and panel discussion with the filmmakers and Ms. Gaines, led by K
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Inhaleâ€¦Exhaleâ€¦For more than a century, Los Angelesâ€™ Barlow Respiratory Hospital has guided its patients and California to â€œbreathe easier.â€ Opening on October 25th, Heidi Duckler Dance Theatreâ€™s (HDDT) Catch Your Breath will examine the intersection of art and learning through the fundamental act of breathing inspired by Barlowâ€™s 110-year heritage. Designed as an artistic journey [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Inhaleâ€¦Exhaleâ€¦For more than a century, Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Barlow Respiratory Hospital has guided its patients and California to â€œbreathe easier.â€ Opening on October 25th, Heidi Duckler Dance Theatreâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s (HDDT) Catch Your Breath will examine the intersection of art and learning through the fundamental act of breathing inspired by Barlowâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 110-year heritage.  Designed as an artistic journey through the environs of the hospital property, the performance will guide the audience through scenes motivated by the preserved and reinvigorated spaces of the Barlow facility, the history of the hospital, and specific patientsâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> stories to recovery. Inspired by the individuals whose lives have been changed as a result of their time at Barlow, HDDT will highlight the hospitalâ€<img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s past, while celebrating its future through captivating live performance.   Tickets on sale now: www.heididuckler.org</p>
+										<content:encoded><![CDATA[<p>Inhaleâ€¦Exhaleâ€¦For more than a century, Los Angelesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Barlow Respiratory Hospital has guided its patients and California to â€œbreathe easier.â€ Opening on October 25th, Heidi Duckler Dance Theatreâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s (HDDT) Catch Your Breath will examine the intersection of art and learning through the fundamental act of breathing inspired by Barlowâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 110-year heritage.  Designed as an artistic journey through the environs of the hospital property, the performance will guide the audience through scenes motivated by the preserved and reinvigorated spaces of the Barlow facility, the history of the hospital, and specific patientsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> stories to recovery. Inspired by the individuals whose lives have been changed as a result of their time at Barlow, HDDT will highlight the hospitalâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s past, while celebrating its future through captivating live performance.   Tickets on sale now: www.heididuckler.org</p>
 <div id="themify_builder_content-825" data-postid="825" class="themify_builder_content themify_builder_content-825 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/09/26/heidi-duckler-dance-theatre-presents-catch-your-breath/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/09/26/heidi-duckler-dance-theatre-presents-catch-your-breath/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">825</post-id>	</item>
+			</item>
 	</channel>
 </rss>

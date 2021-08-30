@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
 	
 	>
 <channel>
 	<title>
 	Comments on: Include A Restoration Option For The Pershing Square Design Competition	</title>
-	<atom:link href="/video/restoration-option/feed/" rel="self" type="application/rss+xml" />
-	<link>/video/restoration-option/</link>
+	<atom:link href="https://www.lavatransforms.org/video/restoration-option/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/video/restoration-option/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Fri, 14 Feb 2020 10:20:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
 		By: Russell		</title>
-		<link>/video/restoration-option/#comment-369</link>
+		<link>https://www.lavatransforms.org/video/restoration-option/#comment-369</link>
 
 		<dc:creator><![CDATA[Russell]]></dc:creator>
 		<pubDate>Sat, 31 Oct 2015 02:27:40 +0000</pubDate>
-		<guid isPermaLink="false">/?post_type=video&#038;p=4789#comment-369</guid>
+		<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4789#comment-369</guid>
 
 					<description><![CDATA[I remember the original park.  I would stay at the Biltmore with my parents and walk through the park under the shade trees to the hotel.  Later I was appalled at what had been done to the park after the garage was installed.  The same thing happened to the Civic Center Park in San Francisco when a garage was installed.  The lesson is that putting a garage under a park doesn&#039;t usually work out good for the park.]]></description>
 			<content:encoded><![CDATA[<p>I remember the original park.  I would stay at the Biltmore with my parents and walk through the park under the shade trees to the hotel.  Later I was appalled at what had been done to the park after the garage was installed.  The same thing happened to the Civic Center Park in San Francisco when a garage was installed.  The lesson is that putting a garage under a park doesn&#8217;t usually work out good for the park.</p>
@@ -37,11 +34,11 @@
 		<item>
 		<title>
 		By: Federico Bustamante		</title>
-		<link>/video/restoration-option/#comment-361</link>
+		<link>https://www.lavatransforms.org/video/restoration-option/#comment-361</link>
 
 		<dc:creator><![CDATA[Federico Bustamante]]></dc:creator>
 		<pubDate>Fri, 30 Oct 2015 17:45:22 +0000</pubDate>
-		<guid isPermaLink="false">/?post_type=video&#038;p=4789#comment-361</guid>
+		<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4789#comment-361</guid>
 
 					<description><![CDATA[John Parkinson&#039;s contributions to our magnificent city spread far and wide, including the original and majestic design for Pershig Square. Let&#039;s restore it to it&#039;s former glory!]]></description>
 			<content:encoded><![CDATA[<p>John Parkinson&#8217;s contributions to our magnificent city spread far and wide, including the original and majestic design for Pershig Square. Let&#8217;s restore it to it&#8217;s former glory!</p>

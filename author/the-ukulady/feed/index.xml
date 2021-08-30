@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:content="https://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:atom="https://www.w3.org/2005/Atom"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="https://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
 	<title>The Ukulady &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="/author/the-ukulady/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://www.lavatransforms.org/author/the-ukulady/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.lavatransforms.org/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">108535820</site>	<item>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
 		<title>Serial Time for Tiny Humans!</title>
-		<link>/2013/09/19/serial-time-for-tiny-humans/</link>
-					<comments>/2013/09/19/serial-time-for-tiny-humans/#respond</comments>
+		<link>https://www.lavatransforms.org/2013/09/19/serial-time-for-tiny-humans/</link>
+					<comments>https://www.lavatransforms.org/2013/09/19/serial-time-for-tiny-humans/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -44,15 +41,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/09/19/serial-time-for-tiny-humans/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2013/09/19/serial-time-for-tiny-humans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1103</post-id>	</item>
+			</item>
 		<item>
 		<title>Echo Park Rising for Kids &#038; Humans with The Ukulady &#038; Friendsies!</title>
-		<link>/2012/08/12/echo-park-rising-for-kids-humans-with-the-ukulady-friendsies/</link>
-					<comments>/2012/08/12/echo-park-rising-for-kids-humans-with-the-ukulady-friendsies/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/08/12/echo-park-rising-for-kids-humans-with-the-ukulady-friendsies/</link>
+					<comments>https://www.lavatransforms.org/2012/08/12/echo-park-rising-for-kids-humans-with-the-ukulady-friendsies/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -77,15 +74,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/08/12/echo-park-rising-for-kids-humans-with-the-ukulady-friendsies/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/08/12/echo-park-rising-for-kids-humans-with-the-ukulady-friendsies/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">772</post-id>	</item>
+			</item>
 		<item>
 		<title>The Ukulady &#038; Friendsies Free PartyShow for Kids and Humans</title>
-		<link>/2012/04/12/the-ukulady-friendsies-free-partyshow-for-kids-and-humans/</link>
-					<comments>/2012/04/12/the-ukulady-friendsies-free-partyshow-for-kids-and-humans/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/04/12/the-ukulady-friendsies-free-partyshow-for-kids-and-humans/</link>
+					<comments>https://www.lavatransforms.org/2012/04/12/the-ukulady-friendsies-free-partyshow-for-kids-and-humans/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -103,15 +100,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/04/12/the-ukulady-friendsies-free-partyshow-for-kids-and-humans/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/04/12/the-ukulady-friendsies-free-partyshow-for-kids-and-humans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">673</post-id>	</item>
+			</item>
 		<item>
 		<title>Kit&#8217;n&#8217;Tenders (The Ukulady &#038; Gabby La La) at Lot 1</title>
-		<link>/2012/04/12/kitntenders-the-ukulady-gabby-la-la-at-lot-1/</link>
-					<comments>/2012/04/12/kitntenders-the-ukulady-gabby-la-la-at-lot-1/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/04/12/kitntenders-the-ukulady-gabby-la-la-at-lot-1/</link>
+					<comments>https://www.lavatransforms.org/2012/04/12/kitntenders-the-ukulady-gabby-la-la-at-lot-1/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -127,15 +124,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/04/12/kitntenders-the-ukulady-gabby-la-la-at-lot-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/04/12/kitntenders-the-ukulady-gabby-la-la-at-lot-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">672</post-id>	</item>
+			</item>
 		<item>
 		<title>The Ukulady at the Mentryville Music Fest</title>
-		<link>/2012/04/12/the-ukulady-at-the-mentryville-music-fest/</link>
-					<comments>/2012/04/12/the-ukulady-at-the-mentryville-music-fest/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/04/12/the-ukulady-at-the-mentryville-music-fest/</link>
+					<comments>https://www.lavatransforms.org/2012/04/12/the-ukulady-at-the-mentryville-music-fest/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -152,15 +149,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/04/12/the-ukulady-at-the-mentryville-music-fest/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/04/12/the-ukulady-at-the-mentryville-music-fest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">671</post-id>	</item>
+			</item>
 		<item>
 		<title>The Ukulady &#038; Friendsies PartyShowFun at Lot 1! Free Show for Kids &#038; Humans!</title>
-		<link>/2012/03/20/the-ukulady-friendsies-partyshowfun-at-lot-1-free-show-for-kids-humans/</link>
-					<comments>/2012/03/20/the-ukulady-friendsies-partyshowfun-at-lot-1-free-show-for-kids-humans/#respond</comments>
+		<link>https://www.lavatransforms.org/2012/03/20/the-ukulady-friendsies-partyshowfun-at-lot-1-free-show-for-kids-humans/</link>
+					<comments>https://www.lavatransforms.org/2012/03/20/the-ukulady-friendsies-partyshowfun-at-lot-1-free-show-for-kids-humans/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -178,15 +175,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/03/20/the-ukulady-friendsies-partyshowfun-at-lot-1-free-show-for-kids-humans/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2012/03/20/the-ukulady-friendsies-partyshowfun-at-lot-1-free-show-for-kids-humans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">646</post-id>	</item>
+			</item>
 		<item>
 		<title>To The Downfall of Evil Campaign!</title>
-		<link>/2011/05/16/to-the-downfall-of-evil-campaign/</link>
-					<comments>/2011/05/16/to-the-downfall-of-evil-campaign/#respond</comments>
+		<link>https://www.lavatransforms.org/2011/05/16/to-the-downfall-of-evil-campaign/</link>
+					<comments>https://www.lavatransforms.org/2011/05/16/to-the-downfall-of-evil-campaign/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -210,15 +207,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/05/16/to-the-downfall-of-evil-campaign/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2011/05/16/to-the-downfall-of-evil-campaign/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">481</post-id>	</item>
+			</item>
 		<item>
 		<title>The Ukulady at Maybe&#8230; A Musical Variety Show Where We Ask Big Questions&#8230;</title>
-		<link>/2011/05/09/the-ukulady-at-maybe-a-musical-variety-show-where-we-ask-big-questions/</link>
-					<comments>/2011/05/09/the-ukulady-at-maybe-a-musical-variety-show-where-we-ask-big-questions/#respond</comments>
+		<link>https://www.lavatransforms.org/2011/05/09/the-ukulady-at-maybe-a-musical-variety-show-where-we-ask-big-questions/</link>
+					<comments>https://www.lavatransforms.org/2011/05/09/the-ukulady-at-maybe-a-musical-variety-show-where-we-ask-big-questions/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -236,15 +233,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/05/09/the-ukulady-at-maybe-a-musical-variety-show-where-we-ask-big-questions/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2011/05/09/the-ukulady-at-maybe-a-musical-variety-show-where-we-ask-big-questions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">475</post-id>	</item>
+			</item>
 		<item>
 		<title>The Ukulady MC&#8217;s Venice SpringFling Musicfest!</title>
-		<link>/2011/04/07/the-ukulady-mcs-venice-springfling-musicfest/</link>
-					<comments>/2011/04/07/the-ukulady-mcs-venice-springfling-musicfest/#respond</comments>
+		<link>https://www.lavatransforms.org/2011/04/07/the-ukulady-mcs-venice-springfling-musicfest/</link>
+					<comments>https://www.lavatransforms.org/2011/04/07/the-ukulady-mcs-venice-springfling-musicfest/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:54 +0000</pubDate>
@@ -265,15 +262,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/04/07/the-ukulady-mcs-venice-springfling-musicfest/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2011/04/07/the-ukulady-mcs-venice-springfling-musicfest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">447</post-id>	</item>
+			</item>
 		<item>
 		<title>Kid-Crafting with The Ukulady in the OC!</title>
-		<link>/2011/03/30/kid-crafting-with-the-ukulady-in-the-oc/</link>
-					<comments>/2011/03/30/kid-crafting-with-the-ukulady-in-the-oc/#respond</comments>
+		<link>https://www.lavatransforms.org/2011/03/30/kid-crafting-with-the-ukulady-in-the-oc/</link>
+					<comments>https://www.lavatransforms.org/2011/03/30/kid-crafting-with-the-ukulady-in-the-oc/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:54 +0000</pubDate>
@@ -289,10 +286,10 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/03/30/kid-crafting-with-the-ukulady-in-the-oc/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.lavatransforms.org/2011/03/30/kid-crafting-with-the-ukulady-in-the-oc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">437</post-id>	</item>
+			</item>
 	</channel>
 </rss>
