@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA Salon May 2015	</title>
-	<atom:link href="https://www.lavatransforms.org/video/salon515/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/salon515/</link>
+	<atom:link href="/video/salon515/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/salon515/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 05:17:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

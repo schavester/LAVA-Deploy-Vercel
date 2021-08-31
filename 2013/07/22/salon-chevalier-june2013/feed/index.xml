@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Marc Chevalier presents &#8220;&#8216;The Corner:&#8217; Nexus of Hollywood&#8217;s Long Jazz Age&#8221; at the LAVA Sunday Salon, June 2013	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/07/22/salon-chevalier-june2013/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/07/22/salon-chevalier-june2013/</link>
+	<atom:link href="/2013/07/22/salon-chevalier-june2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/07/22/salon-chevalier-june2013/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:55:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

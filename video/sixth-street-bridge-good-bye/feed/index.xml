@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Crossing the L.A. River on the Sixth Street Bridge	</title>
-	<atom:link href="https://www.lavatransforms.org/video/sixth-street-bridge-good-bye/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/sixth-street-bridge-good-bye/</link>
+	<atom:link href="/video/sixth-street-bridge-good-bye/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/sixth-street-bridge-good-bye/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 08:56:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

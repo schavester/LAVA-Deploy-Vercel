@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The LAVA Salon at Musso &#038; Frank featuring Dan Fante	</title>
-	<atom:link href="https://www.lavatransforms.org/video/musso-salon-fante-3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/musso-salon-fante-3/</link>
+	<atom:link href="/video/musso-salon-fante-3/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/musso-salon-fante-3/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Fri, 14 Feb 2020 05:00:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

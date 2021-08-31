@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA Visionary of the Year for 2015: Nathan Marsak	</title>
-	<atom:link href="https://www.lavatransforms.org/lavavisionary2015/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/lavavisionary2015/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 26 Oct 2016 17:44:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

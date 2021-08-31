@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: A Rrose in a Prose curated reading at the 2014 L.A. Zine Fest	</title>
-	<atom:link href="https://www.lavatransforms.org/2014/02/05/a-rrose-in-a-prose-curated-reading-at-the-2014-l-a-zine-fest/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2014/02/05/a-rrose-in-a-prose-curated-reading-at-the-2014-l-a-zine-fest/</link>
+	<atom:link href="/2014/02/05/a-rrose-in-a-prose-curated-reading-at-the-2014-l-a-zine-fest/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/02/05/a-rrose-in-a-prose-curated-reading-at-the-2014-l-a-zine-fest/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:53:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

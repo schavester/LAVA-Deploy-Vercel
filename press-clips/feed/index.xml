@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Press Clips	</title>
-	<atom:link href="https://www.lavatransforms.org/press-clips/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/press-clips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 02:38:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

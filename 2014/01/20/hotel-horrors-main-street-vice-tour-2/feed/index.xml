@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Hotel Horrors &#038; Main Street Vice tour	</title>
-	<atom:link href="https://www.lavatransforms.org/2014/01/20/hotel-horrors-main-street-vice-tour-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2014/01/20/hotel-horrors-main-street-vice-tour-2/</link>
+	<atom:link href="/2014/01/20/hotel-horrors-main-street-vice-tour-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/01/20/hotel-horrors-main-street-vice-tour-2/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:51:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

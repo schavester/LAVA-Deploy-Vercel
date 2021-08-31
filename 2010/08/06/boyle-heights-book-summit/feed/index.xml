@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Boyle Heights Book Summit	</title>
-	<atom:link href="https://www.lavatransforms.org/2010/08/06/boyle-heights-book-summit/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2010/08/06/boyle-heights-book-summit/</link>
+	<atom:link href="/2010/08/06/boyle-heights-book-summit/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/08/06/boyle-heights-book-summit/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:05:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

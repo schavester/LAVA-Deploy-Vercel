@@ -9,8 +9,8 @@
 
 <channel>
 	<title>William Deverell &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/author/deverell/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/author/deverell/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Fri, 08 Jan 2021 00:34:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,6 +18,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

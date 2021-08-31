@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Spirituality &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/category/spirituality/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/category/spirituality/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:49:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>LAVA&#8217;s 43rd Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/#respond</comments>
+		<link>/2015/04/06/lavas-43rd-sunday-salon/</link>
+					<comments>/2015/04/06/lavas-43rd-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -41,12 +41,12 @@
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4:30pm</strong>.</p>
 <h3>The Photography of Kristin Bedford: Race, History &amp; the Divine</h3>
 <p>Los Angeles-based photographer Kristin Bedford will be presenting her series of photographs about the legacy of the African-American religious leader Father Divine. The body of work delves into issues of race, American religious history, and the mystery of enduring faith.</p>
-<p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p>
+<p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p>
 <p>The followers, who call themselves â€œThe International Peace Mission Movement,â€ are living a way of life and performing rituals created over eighty years ago by their God. With the lack of new followers, their movement is likely in its final chapter. Bedford had the chance to experience and photograph their traditions before they fade away.</p>
-<p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p>
+<p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p>
 <h4>Biography</h4>
 <p>Kristin Bedford is a Los Angeles-based photographer who focuses on long-term visual studies of where we live â€“ the streets we walk down, the places we worship in, the homes we create, and the spaces between them all. Her subjects have included religious movements, street culture in numerous urban centers, and the modern day legacy of historic African-American communities.</p>
-<p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p>
+<p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p>
 <p><a href="https://lens.blogs.nytimes.com/2014/12/29/philadelphia-city-of-father-divine/" target="_blank">NY Times <span class="caps">LENS</span> Review</a></p>
 <p><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="https://gdurl.com/zlSj" alt="" width="80%" /></p>
 <div id="themify_builder_content-1436" data-postid="1436" class="themify_builder_content themify_builder_content-1436 themify_builder">
@@ -54,15 +54,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/04/06/lavas-43rd-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LAVA&#8217;s 41st Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/#respond</comments>
+		<link>/2015/01/29/lavas-41st-sunday-salon/</link>
+					<comments>/2015/01/29/lavas-41st-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -77,24 +77,24 @@
 
 					<description><![CDATA[Please note that, due to limited room capacity, attendees must register to attend the LAVA Sunday Salon. To sign up for this free event: First register as a user on this site, or login to your existing account and then return to this page. Refresh the page and the signup field will appear just to [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4pm</strong>.</p>
-<p>Architectural Historian <a href="https://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="https://www.lavatransforms.org/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,&nbsp;presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p>
+<p>Architectural Historian <a href="https://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,&nbsp;presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p>
 <p>The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, which one may still visit in any number of extant adobes; from there, following some historic boom times, we Angelenos and visitors alike are regaled by the wondrous Beaux-Arts high-rises of downtown. If pure Victorian architecture is considered, one likely turns attention to the Eastlake and Queen Anne examples along Carroll Avenue, or to the used-car lot of gingerbread, Heritage Square.</p>
-<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
-<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
+<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
+<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
 <div id="themify_builder_content-1405" data-postid="1405" class="themify_builder_content themify_builder_content-1405 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/01/29/lavas-41st-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LAVA&#8217;s 40th Sunday Salon (Reservations Now Full)</title>
-		<link>https://www.lavatransforms.org/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/</link>
-					<comments>https://www.lavatransforms.org/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/#respond</comments>
+		<link>/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/</link>
+					<comments>/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -119,22 +119,22 @@
 <p>levitate?</p>
 <p>shape shift?</p>
 <p>wantonly kill people for no apparent reason?</p>
-<p>This behavior may be more than simple bad kitty syndromeâ€”your cat may be possessed by a demon. But donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t worry, youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not alone. In fact, there is an entire history of demonically-possessed cats. Felines were once considered by theologians to be easy prey for demons, who could enter their bodies and wreck incredible havoc on mankind. And did you knowâ€¦ demonically-possessed cats are still believed to be with us today?! Dr. Paul Koudounaris has immersed himself in the study of demonic cats, in order to to give a talk on this sadly neglected topic. Cat lovers will like this lecture, and cat haters will like it even more. Neither side will ever look at a domestic cat the same way again.</p>
+<p>This behavior may be more than simple bad kitty syndromeâ€”your cat may be possessed by a demon. But donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t worry, youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re not alone. In fact, there is an entire history of demonically-possessed cats. Felines were once considered by theologians to be easy prey for demons, who could enter their bodies and wreck incredible havoc on mankind. And did you knowâ€¦ demonically-possessed cats are still believed to be with us today?! Dr. Paul Koudounaris has immersed himself in the study of demonic cats, in order to to give a talk on this sadly neglected topic. Cat lovers will like this lecture, and cat haters will like it even more. Neither side will ever look at a domestic cat the same way again.</p>
 <p>Please note this lecture has been given by Dr. Koudounaris in abbreviated forms about town, but this <em>only</em> time he will present the full lecture in Los Angeles.</p>
 <div id="themify_builder_content-1393" data-postid="1393" class="themify_builder_content themify_builder_content-1393 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/01/03/lavas-40th-sunday-salon-reservations-now-full/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Richard&#8217;s Birthday Bus Tour of Public Mausolea of Los Angeles &#038; Orange Counties</title>
-		<link>https://www.lavatransforms.org/2014/10/06/richards-birthday-bus-tour-of-public-mausolea-of-los-angeles-orange-counties/</link>
-					<comments>https://www.lavatransforms.org/2014/10/06/richards-birthday-bus-tour-of-public-mausolea-of-los-angeles-orange-counties/#respond</comments>
+		<link>/2014/10/06/richards-birthday-bus-tour-of-public-mausolea-of-los-angeles-orange-counties/</link>
+					<comments>/2014/10/06/richards-birthday-bus-tour-of-public-mausolea-of-los-angeles-orange-counties/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -146,13 +146,13 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[A Special Event Esotouric bus adventure: Richardâ€™s one-time only Birthday Bus Tour of Public Mausolea of Los Angeles &#38; Orange Counties hosted by Nathan Marsak. For Richardâ€™s once-a-year birthday bus adventure, we invite you to climb aboard for a 7-hour excursion exploring some of the greatest buildings in the Southland that youâ€™ve never seenâ€”unless you [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>A Special Event Esotouric bus adventure: Richardâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s one-time only Birthday Bus Tour of Public Mausolea of Los Angeles &amp; Orange Counties hosted by Nathan Marsak.</p>
-<p>For Richardâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s once-a-year birthday bus adventure, we invite you to climb aboard for a 7-hour excursion exploring some of the greatest buildings in the Southland that youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve never seenâ€”unless you go to a lot of funerals.</p>
+										<content:encoded><![CDATA[<p>A Special Event Esotouric bus adventure: Richardâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s one-time only Birthday Bus Tour of Public Mausolea of Los Angeles &amp; Orange Counties hosted by Nathan Marsak.</p>
+<p>For Richardâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s once-a-year birthday bus adventure, we invite you to climb aboard for a 7-hour excursion exploring some of the greatest buildings in the Southland that youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve never seenâ€”unless you go to a lot of funerals.</p>
 <p>Lunch is included in the ticket price.</p>
-<p>The tour is hosted by Nathan Marsak, Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s wittiest historian of mortuary architecture. At each of the mausolea that we visit, Nathan will share the histories and structural secrets of these magnificent structures, revealing their compelling narratives through vintage photographs and insights into the architect, engineer and civic groups that funded each project.</p>
-<p>During our on-the-bus portions of the tour, Nathan will argue a slightly more esoteric point: showing how the development of both these public mausolea and of Modernism in Los Angeles were concurrent and connected. They shared many of the same goals and tapped into the same revolutionary material: concrete, with its plasticity adapted to vernacular styles based on indigenous forms and innovative local building methods, and which also served the need for a durable and hygienic space. By tourâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s end, Nathan will reveal these seemingly traditional structures as standing firmly within the West Coast Modernist canon.</p>
+<p>The tour is hosted by Nathan Marsak, Americaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s wittiest historian of mortuary architecture. At each of the mausolea that we visit, Nathan will share the histories and structural secrets of these magnificent structures, revealing their compelling narratives through vintage photographs and insights into the architect, engineer and civic groups that funded each project.</p>
+<p>During our on-the-bus portions of the tour, Nathan will argue a slightly more esoteric point: showing how the development of both these public mausolea and of Modernism in Los Angeles were concurrent and connected. They shared many of the same goals and tapped into the same revolutionary material: concrete, with its plasticity adapted to vernacular styles based on indigenous forms and innovative local building methods, and which also served the need for a durable and hygienic space. By tourâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s end, Nathan will reveal these seemingly traditional structures as standing firmly within the West Coast Modernist canon.</p>
 <p>Public Mausolea to be visited:</p>
-<p>Forest Lawn (formerly Sunnyside Memorial Park) (Long Beach, 1922, Cecil Bryant, architect). This Spanish Renaissance gem is a showcase of ceramic tile design by the local CALCO Pottery headed by Rufus Keeler, later of Malibu Pottery. It contains unusually fine examples of pictorial stained glass, and its dome with its suspended Foucaultâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Pendulum is a breathtaking architectural space.</p>
+<p>Forest Lawn (formerly Sunnyside Memorial Park) (Long Beach, 1922, Cecil Bryant, architect). This Spanish Renaissance gem is a showcase of ceramic tile design by the local CALCO Pottery headed by Rufus Keeler, later of Malibu Pottery. It contains unusually fine examples of pictorial stained glass, and its dome with its suspended Foucaultâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Pendulum is a breathtaking architectural space.</p>
 <p>Community Mausoleum (Anaheim, 1914, Charles E. Shattuck, architect). Constructed by the Pacific Mausoleum Company of Los Angeles. The interior tile and white Columbia marble is by Musto Sons-Keenan, and the cast iron &amp; bronze grillwork by Pacific Ornamental. The proportions of the building are perfect Classic Greek Doric: narrowing shafts, triglyphs over the architrave, extending pediment. The ventilation, sanitation, and drainage are all patented designs of Charles E. Shattuck.</p>
 <p>Fairhaven (Santa Ana, 1916, Charles E. Shattuck, architect). An Egyptian-Beaux Arts masterpiece conceived of by the visionary cemetery developer Oliver Linden Halsell, it is constructed of granite with thirty-two different kinds of marble and stone used on the interior floors and walls.</p>
 <p>Calvary Mausoleum (East Los Angeles, 1936, Ross Montgomery, architect). The facade is Art Deco-Moorish-Hollywood, complete with processional columns capped with triumphant angels. The interior is inspired by Tuscan church interiors of the Quattrocento, rich with marble and stenciled faux wood. The mausoleum was financed in large part by Estelle Doheny, and is the final resting place for both she and her oilman husband Edward. For many decades, the bishops of Los Angeles reposed here, too, before being moved to the new downtown Cathedral in 2002.</p>
@@ -161,15 +161,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/10/06/richards-birthday-bus-tour-of-public-mausolea-of-los-angeles-orange-counties/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/10/06/richards-birthday-bus-tour-of-public-mausolea-of-los-angeles-orange-counties/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bruckman Rare Book Friends Talk: Kim Cooper and Richard Schave on &#8220;The Kept Girl&#8221;</title>
-		<link>https://www.lavatransforms.org/2014/09/25/bruckman-rare-book-friends-talk-kim-cooper-and-richard-schave-on-the-kept-girl/</link>
-					<comments>https://www.lavatransforms.org/2014/09/25/bruckman-rare-book-friends-talk-kim-cooper-and-richard-schave-on-the-kept-girl/#respond</comments>
+		<link>/2014/09/25/bruckman-rare-book-friends-talk-kim-cooper-and-richard-schave-on-the-kept-girl/</link>
+					<comments>/2014/09/25/bruckman-rare-book-friends-talk-kim-cooper-and-richard-schave-on-the-kept-girl/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -183,7 +183,7 @@
 
 					<description><![CDATA[Bruckman Rare Book Friends present Kim Cooper discussing and signing copies of her latest book, The Kept Girl, a 1920s mystery starring the young Raymond Chandler, his devoted secretary and the real-life Philip Marlowe all on the trail of a murderous cult of angel worshippers. Accompanying Kim is her husband Richard Schave, her partner in [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Bruckman Rare Book Friends present Kim Cooper discussing and signing copies of her latest book, <em><a href="https://www.thekeptgirl.com/" target="_blank">The Kept Girl,</a></em> a 1920s mystery starring the young Raymond Chandler, his devoted secretary and the real-life Philip Marlowe all on the trail of a murderous cult of angel worshippers.</p>
-<p>Accompanying Kim is her husband Richard Schave, her partner in <a href="https://www.esotouric.com/" target="_blank">Esotouric bus adventures</a> and <a href="https://www.lavatransforms.org/" target="_blank">LAVA &#8211; the Los Angeles Visionaries Association</a>, and the designer of this 1940s-inspired paperback, the debut publication of their L.A.-focused press, Esotouric Ink.</p>
+<p>Accompanying Kim is her husband Richard Schave, her partner in <a href="https://www.esotouric.com/" target="_blank">Esotouric bus adventures</a> and <a href="/" target="_blank">LAVA &#8211; the Los Angeles Visionaries Association</a>, and the designer of this 1940s-inspired paperback, the debut publication of their L.A.-focused press, Esotouric Ink.</p>
 <p>Kim&#8217;s illustrated talk will draw on her years of research into the lost lore of Los Angeles, with a focus on the bizarre Great Eleven cult, which began just above the library on Bunker Hill and ensnared dozens of credulous Angelenos in their mystical rites before one disgruntled ex-believer brought the whole enterprise tumbling down. You&#8217;ll hear about Raymond Chandler&#8217;s pre-literary life as a downtown oil company executive, the idealistic L.A. policeman who is a likely model for Philip Marlowe, the real woman who inspired the character of Chandler&#8217;s secretary Muriel, and the terrible secrets revealed by the fraud investigation in the Great Eleven&#8217;s activities.</p>
 <p>Richard will share insights into how he used cutting edge computing tools to evoke the look and feel of a mid-century book, and Kim will talk about the deluxe Art Deco wraps created for the Subscribers, whose pre-publication support covered a big chunk of the print cost. &nbsp;<span style="font-size: 12px; line-height: 1.5;">Copies of the paperback and deluxe Art Deco Subscribers&#8217; edition will be available for purchase after the talk. &nbsp;</span></p>
 <p><span style="font-size: 12px; line-height: 1.5;">Read LAPL Librarian Robert Anderson&#8217;s review of </span><em>The Kept Girl&nbsp;</em><a style="font-size: 12px; line-height: 1.5;" href="https://www.lapl.org/collections-resources/lapl-reads/review/kept-girl" target="_blank">here</a><span style="font-size: 12px; line-height: 1.5;">. Read Kim Cooper&#8217;s love letter to Central Library </span><a style="font-size: 12px; line-height: 1.5;" href="https://www.thekeptgirl.com/2014/07/the-kept-girl-is-featured-review-in.html" target="_blank">here</a><span style="font-size: 12px; line-height: 1.5;">.&nbsp;</span></p>
@@ -193,15 +193,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/09/25/bruckman-rare-book-friends-talk-kim-cooper-and-richard-schave-on-the-kept-girl/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/09/25/bruckman-rare-book-friends-talk-kim-cooper-and-richard-schave-on-the-kept-girl/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bhagavad Gita Study Class</title>
-		<link>https://www.lavatransforms.org/2014/09/16/bhagavad-gita-study-class/</link>
-					<comments>https://www.lavatransforms.org/2014/09/16/bhagavad-gita-study-class/#respond</comments>
+		<link>/2014/09/16/bhagavad-gita-study-class/</link>
+					<comments>/2014/09/16/bhagavad-gita-study-class/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -219,15 +219,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/09/16/bhagavad-gita-study-class/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/09/16/bhagavad-gita-study-class/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lecture: Bones, death, and other fun stuff with Paul Koudounaris at the Brand Library</title>
-		<link>https://www.lavatransforms.org/2014/09/16/lecture-bones-death-and-other-fun-stuff-with-paul-koudounaris-at-the-brand-library/</link>
-					<comments>https://www.lavatransforms.org/2014/09/16/lecture-bones-death-and-other-fun-stuff-with-paul-koudounaris-at-the-brand-library/#respond</comments>
+		<link>/2014/09/16/lecture-bones-death-and-other-fun-stuff-with-paul-koudounaris-at-the-brand-library/</link>
+					<comments>/2014/09/16/lecture-bones-death-and-other-fun-stuff-with-paul-koudounaris-at-the-brand-library/#respond</comments>
 		
 		<dc:creator><![CDATA[Paul Koudounaris]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -247,15 +247,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/09/16/lecture-bones-death-and-other-fun-stuff-with-paul-koudounaris-at-the-brand-library/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/09/16/lecture-bones-death-and-other-fun-stuff-with-paul-koudounaris-at-the-brand-library/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>(Postponed) LAVA&#8217;s 41st Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2014/08/30/postponed-lavas-41st-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2014/08/30/postponed-lavas-41st-sunday-salon/#respond</comments>
+		<link>/2014/08/30/postponed-lavas-41st-sunday-salon/</link>
+					<comments>/2014/08/30/postponed-lavas-41st-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -281,25 +281,25 @@
 <p style="text-align: justify; text-justify: newspaper;">&nbsp;</p>
 <p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">Join&nbsp;<span class="caps">LAVA</span>&nbsp;for our revived free monthly Sunday Salon series. We return to South Broadway, to the mezzanine of&nbsp;<a href="https://www.facebook.com/LesNocesDuFigaro" target="_blank">Les Noces du Figaro</a>, which was recently opened by the family behind&nbsp;<a href="https://www.figarobistrot.com/">Figaro Bistro</a>&nbsp;in Los Feliz. This handsome space was formerly&nbsp;<a href="https://sites.google.com/site/historylosangeles/schaber-s-cafeteria" target="_blank">Schaber&#8217;s Cafeteria</a>&nbsp;(Charles F. Plummer, 1928), and the mezzanine features wonderful views of the&nbsp;<a href="https://cinematreasures.org/theaters/5" target="_blank">Los Angeles Theatre</a>.</span></p>
 <p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">On the last Sunday of each month, LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a structured Salon featuring formal presentations and opportunities to meet and connect with one another.  If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the eclairs.</span></p>
-<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">Read about the original <a href="https://www.lavatransforms.org/cliftonsalons" target="_blank">Sunday Salon at Clifton&#8217;s Cafeteria</a>.</span></p>
+<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">Read about the original <a href="/cliftonsalons" target="_blank">Sunday Salon at Clifton&#8217;s Cafeteria</a>.</span></p>
 <p style="text-align: justify; text-justify: newspaper;"><strong><span style="text-decoration: line-through;">Presentation One: Jean Harlow Part 2</span></strong></p>
-<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">The name resonates. Blonde Bombshell. Platinum Blonde. The labels applied by press agents during Jean Harlow&#8217;s seven-year career still carry a charge seventy years later. Harlow created the mold: the first blonde sex symbol who captured the attention of a nation, then touched their hearts with her genuine warmth and candor. At a time when Harlow&#8217;s star shone its brightest, Los Angeles and the movies gave birth to a district that exists as much in the mind as on the map. Hollywood historian Darrell Rooney is co-author of <em><a href="https://astore.amazon.com/bubble1-20/detail/1883318963" target="_blank">Harlow In Hollywood</a>. </em><em>H</em>e returns to the LAVA Sunday Salon to pick up where he left off at his <a href="https://www.lavatransforms.org/salon-rooney-january2014" target="_blank">January 2014 presentation</a>, with Jean Harlow&#8217;s story following the mysterious death of her husband Paul Bern.</span></p>
+<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">The name resonates. Blonde Bombshell. Platinum Blonde. The labels applied by press agents during Jean Harlow&#8217;s seven-year career still carry a charge seventy years later. Harlow created the mold: the first blonde sex symbol who captured the attention of a nation, then touched their hearts with her genuine warmth and candor. At a time when Harlow&#8217;s star shone its brightest, Los Angeles and the movies gave birth to a district that exists as much in the mind as on the map. Hollywood historian Darrell Rooney is co-author of <em><a href="https://astore.amazon.com/bubble1-20/detail/1883318963" target="_blank">Harlow In Hollywood</a>. </em><em>H</em>e returns to the LAVA Sunday Salon to pick up where he left off at his <a href="/salon-rooney-january2014" target="_blank">January 2014 presentation</a>, with Jean Harlow&#8217;s story following the mysterious death of her husband Paul Bern.</span></p>
 <p style="text-align: justify; text-justify: newspaper;"><strong><span style="text-decoration: line-through;">Presentation Two: Preserving the Legacy of Wurdman &amp; Beckett&#8217;s Animal Hospital in West Hollywood</span></strong></p>
-<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">West Hollywood residents and area historians Kate Eggert and Krisy Gosney of <a href="https://deadhistoryproject.com/" target="_blank">Dead History Project</a> fell into historic preservation activism when two 110-year-old bungalows on their street were threatened with demolition. Everyone said they wouldnâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t win&#8230; until they did.&nbsp;<span style="font-size: 12px; line-height: 1.5;">Recently, they went to a West Hollywood Historic Preservation Commission meeting on a whim. The Commission discussed a </span>1938 Wurdeman &amp; Becket streamline moderne<span style="font-size: 12px; line-height: 1.5;">&nbsp;animal hospital and a 1959 Barry Berkus mid-century modern office building, both slated for demolition and the site for redevelopment. They were told these buildings were a lost cause. But as a little research revealed the significance of the site, they knew they would fight. Their grassroots&nbsp;<a href="https://www.facebook.com/savetheSMBstreamlinemoderne" target="_blank">preservation campaign</a> has garnered significant media attention and the support of the Los Angeles Conservancy, Art Deco Society, the family of architect Welton Becket and hundreds of passionate citizens. Responding to the rising community outcry, the developer has begun suggesting ways in which the Wurdeman &amp; Beckett structure can be integrated into a modern building.&nbsp;</span><span style="font-size: 12px; line-height: 1.5;">This LAVA presentation is about the process through which Kate and Krisy are tackling the biggest preservation fight of their careers, the highs and lows, and the delicate dance of politics, ego, money and information that impacts any community when developers seek to build on an historic site.</span></span></p>
+<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">West Hollywood residents and area historians Kate Eggert and Krisy Gosney of <a href="https://deadhistoryproject.com/" target="_blank">Dead History Project</a> fell into historic preservation activism when two 110-year-old bungalows on their street were threatened with demolition. Everyone said they wouldnâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t win&#8230; until they did.&nbsp;<span style="font-size: 12px; line-height: 1.5;">Recently, they went to a West Hollywood Historic Preservation Commission meeting on a whim. The Commission discussed a </span>1938 Wurdeman &amp; Becket streamline moderne<span style="font-size: 12px; line-height: 1.5;">&nbsp;animal hospital and a 1959 Barry Berkus mid-century modern office building, both slated for demolition and the site for redevelopment. They were told these buildings were a lost cause. But as a little research revealed the significance of the site, they knew they would fight. Their grassroots&nbsp;<a href="https://www.facebook.com/savetheSMBstreamlinemoderne" target="_blank">preservation campaign</a> has garnered significant media attention and the support of the Los Angeles Conservancy, Art Deco Society, the family of architect Welton Becket and hundreds of passionate citizens. Responding to the rising community outcry, the developer has begun suggesting ways in which the Wurdeman &amp; Beckett structure can be integrated into a modern building.&nbsp;</span><span style="font-size: 12px; line-height: 1.5;">This LAVA presentation is about the process through which Kate and Krisy are tackling the biggest preservation fight of their careers, the highs and lows, and the delicate dance of politics, ego, money and information that impacts any community when developers seek to build on an historic site.</span></span></p>
 <div id="themify_builder_content-1346" data-postid="1346" class="themify_builder_content themify_builder_content-1346 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/08/30/postponed-lavas-41st-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/08/30/postponed-lavas-41st-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>(Postponed) LAVA&#8217;s 40th Sunday Salon &#8211; LAVA Visionary of the Year Lecture</title>
-		<link>https://www.lavatransforms.org/2014/08/07/postponed-lavas-40th-sunday-salon-lava-visionary-of-the-year-lecture/</link>
-					<comments>https://www.lavatransforms.org/2014/08/07/postponed-lavas-40th-sunday-salon-lava-visionary-of-the-year-lecture/#respond</comments>
+		<link>/2014/08/07/postponed-lavas-40th-sunday-salon-lava-visionary-of-the-year-lecture/</link>
+					<comments>/2014/08/07/postponed-lavas-40th-sunday-salon-lava-visionary-of-the-year-lecture/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -324,25 +324,25 @@
 <p style="text-align: justify; text-justify: newspaper;">&nbsp;</p>
 <p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">Join&nbsp;<span class="caps">LAVA</span>&nbsp;for our revived free monthly Sunday Salon series. We return to South Broadway, to the mezzanine of&nbsp;<a href="https://www.facebook.com/LesNocesDuFigaro" target="_blank">Les Noces du Figaro</a>, which was recently opened by the family behind&nbsp;<a href="https://www.figarobistrot.com/">Figaro Bistro</a>&nbsp;in Los Feliz. This handsome space was formerly&nbsp;<a href="https://sites.google.com/site/historylosangeles/schaber-s-cafeteria" target="_blank">Schaber&#8217;s Cafeteria</a>&nbsp;(Charles F. Plummer, 1928), and the mezzanine features wonderful views of the&nbsp;<a href="https://cinematreasures.org/theaters/5" target="_blank">Los Angeles Theatre</a>.</span></p>
 <p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">On the last Sunday of each month, LAVA welcomes interested individuals to gather in downtown Los Angeles (noon-2pm), for a structured Salon featuring formal presentations and opportunities to meet and connect with one another.  If you&#8217;re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community. We also recommend the eclairs.</span></p>
-<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">Read about the original Sunday Salon at Clifton&#8217;s Cafeteria&nbsp;<a href="https://www.lavatransforms.org/cliftonsalons" target="_blank">here</a>.</span></p>
+<p style="text-align: justify; text-justify: newspaper;"><span style="text-decoration: line-through;">Read about the original Sunday Salon at Clifton&#8217;s Cafeteria&nbsp;<a href="/cliftonsalons" target="_blank">here</a>.</span></p>
 <p style="text-align: justify; text-justify: newspaper;"><strong><span style="text-decoration: line-through;">LAVA Visionary of the Year Lecture:&nbsp;Forgotten Artists: The Master Tailors of Hollywood&#8217;s Golden Age</span></strong></p>
-<p><span style="text-decoration: line-through;">Who made Clark Gable look the part of a superstar?  Who dressed Humphrey Bogart, the Ice Follies, and an entire generation of Filipino migrant workers?   Who led Liberace from traditional white tie and tails towards outfits shimmering with Swarovksi crystals?  The long-forgotten master tailors of Hollywoodâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s golden age, thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s who! While Tinseltownâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s great dress designers â€” Adrian, Irene â€” remain well-known, the tailors whose genius rendered Fred Astaire and William Powell impossibly suave have faded into obscurityâ€¦ until now.  Join Los Angeles retail historian, and <span class="caps">LAVA</span> Visionary of the Year, <a href="https://www.lavatransforms.org/lavavisionary2014" target="blank">Marc Chevalier</a>, as he reveals the marvelous, surprising stories of Hollywoodâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s top three tailors, whose extraordinary careers rose and fell with the movie industry.</span></p>
+<p><span style="text-decoration: line-through;">Who made Clark Gable look the part of a superstar?  Who dressed Humphrey Bogart, the Ice Follies, and an entire generation of Filipino migrant workers?   Who led Liberace from traditional white tie and tails towards outfits shimmering with Swarovksi crystals?  The long-forgotten master tailors of Hollywoodâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s golden age, thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s who! While Tinseltownâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s great dress designers â€” Adrian, Irene â€” remain well-known, the tailors whose genius rendered Fred Astaire and William Powell impossibly suave have faded into obscurityâ€¦ until now.  Join Los Angeles retail historian, and <span class="caps">LAVA</span> Visionary of the Year, <a href="/lavavisionary2014" target="blank">Marc Chevalier</a>, as he reveals the marvelous, surprising stories of Hollywoodâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s top three tailors, whose extraordinary careers rose and fell with the movie industry.</span></p>
 <p><span style="text-decoration: line-through;">Marc&#8217;s presentation will be divided into two sections, each about 45 minutes in length, with a 15 minute break in between.</span></p>
-<p><span style="text-decoration: line-through;"><span style="font-size: 12px; text-align: justify; line-height: 1.5;">The Salon will be followed by a free walking tour, <a href="https://www.lavatransforms.org/flaneur-broadway-on-my-mind-13" target="_blank">The Flaneur &amp; The City: Broadway on My Mind walking tour #13</a>. Please visit the tour series </span><a style="font-size: 12px; text-align: justify; line-height: 1.5;" href="https://www.lavatransforms.org/flaneur-broadway-on-my-mind-landing" target="_blank">Landing Page</a><span style="font-size: 12px; text-align: justify; line-height: 1.5;"> for videos and descriptions of past tours and the goals of the series.</span></span></p>
+<p><span style="text-decoration: line-through;"><span style="font-size: 12px; text-align: justify; line-height: 1.5;">The Salon will be followed by a free walking tour, <a href="/flaneur-broadway-on-my-mind-13" target="_blank">The Flaneur &amp; The City: Broadway on My Mind walking tour #13</a>. Please visit the tour series </span><a style="font-size: 12px; text-align: justify; line-height: 1.5;" href="/flaneur-broadway-on-my-mind-landing" target="_blank">Landing Page</a><span style="font-size: 12px; text-align: justify; line-height: 1.5;"> for videos and descriptions of past tours and the goals of the series.</span></span></p>
 <div id="themify_builder_content-1329" data-postid="1329" class="themify_builder_content themify_builder_content-1329 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/08/07/postponed-lavas-40th-sunday-salon-lava-visionary-of-the-year-lecture/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/08/07/postponed-lavas-40th-sunday-salon-lava-visionary-of-the-year-lecture/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pasadena Confidential crime bus tour</title>
-		<link>https://www.lavatransforms.org/2014/07/28/pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://www.lavatransforms.org/2014/07/28/pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>/2014/07/28/pasadena-confidential-crime-bus-tour/</link>
+					<comments>/2014/07/28/pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -361,7 +361,7 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/07/28/pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/07/28/pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

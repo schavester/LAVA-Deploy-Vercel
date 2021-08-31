@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LAVA Sunday Salon &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/video-category/lava-sunday-salon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/video-category/lava-sunday-salon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 08:25:30 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,21 +18,21 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>LAVA Sunday Salon March 2017</title>
-		<link>https://www.lavatransforms.org/video/salon317/</link>
+		<link>/video/salon317/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Fri, 07 Apr 2017 00:37:27 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=6169</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=6169</guid>
 
 					<description><![CDATA[ABOUT THE MARCHÂ 2017 SALON &#38; WALKING TOUR: Making Sense of Parker Center This edition of the LAVA Sunday Salon and Broadway on My Wind walking tour looks at the Police Facilities Building (Welton Becket &#38; Associates and J. E. Stanton, 1955). Better known as Parker Center or The Glass House, this downtown landmark is facing [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h3>ABOUT THE MARCHÂ 2017 SALON &amp; WALKING TOUR:</h3>
 <h3>Making Sense of Parker Center</h3>
 <p>This edition of the LAVA Sunday Salon and Broadway on My Wind walking tour looks at the Police Facilities Building (Welton Becket &amp; Associates and J. E. Stanton, 1955). Better known as Parker Center or The Glass House, this downtown landmark is facing an uncertain future as the city seeks to demolish and the Cultural Heritage Commission, Los Angeles Conservancy and preservationists urge adaptive reuse.</p>
-<p>Join Esotouric&#8217;s Richard Schave, architect &amp; historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and 2015 LAVA Visionary of the Year <a href="https://www.lavatransforms.org/lavavisionary2015/" target="_blank">Nathan Marsak</a> for a slide show presentation followed by a site visit about the building&#8217;s history within LAPD and the Little Tokyo neighborhood, its place in Welton Becket&#8217;s architectural legacy and its role in the Los Angeles school of mid-century Modernism. We&#8217;ll also look at the threat to its survival and efforts to preserve the building and its integrated sculpture, mosaics and landscaping.</p>
-<p><strong>ABOUT THE SALON</strong>: On the last Sunday of the month starting at 2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking tour expands on the Salon theme. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.<div id="themify_builder_content-6169" data-postid="6169" class="themify_builder_content themify_builder_content-6169 themify_builder">
+<p>Join Esotouric&#8217;s Richard Schave, architect &amp; historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and 2015 LAVA Visionary of the Year <a href="/lavavisionary2015/" target="_blank">Nathan Marsak</a> for a slide show presentation followed by a site visit about the building&#8217;s history within LAPD and the Little Tokyo neighborhood, its place in Welton Becket&#8217;s architectural legacy and its role in the Los Angeles school of mid-century Modernism. We&#8217;ll also look at the threat to its survival and efforts to preserve the building and its integrated sculpture, mosaics and landscaping.</p>
+<p><strong>ABOUT THE SALON</strong>: On the last Sunday of the month starting at 2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking tour expands on the Salon theme. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.<div id="themify_builder_content-6169" data-postid="6169" class="themify_builder_content themify_builder_content-6169 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_6169_row module_row_6169-0 tb_1nsp500">
 	    	    <div class="row_inner col_align_top" >
@@ -43,7 +43,7 @@
 	                
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201717.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201717-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201717.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201717-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -51,7 +51,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20176.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb20176.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb20176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -59,7 +59,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201713.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201713.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -67,7 +67,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20174.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20174-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb20174.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb20174-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -75,7 +75,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20172-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20172-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb20172-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb20172-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -83,7 +83,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20174-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20174-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb20174-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb20174-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -91,7 +91,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20177.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb20177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb20177.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb20177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -99,7 +99,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201710.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201710.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -107,7 +107,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201721.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201721-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201721.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201721-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -115,7 +115,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201737.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201737-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201737.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201737-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -123,7 +123,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201741.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201741.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -131,7 +131,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201756.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201756-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201756.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201756-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -139,7 +139,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201757.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201757-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201757.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201757-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -147,7 +147,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201761.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201761-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201761.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201761-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -155,7 +155,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201766.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201766-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201766.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201766-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -163,7 +163,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201768.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201768-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201768.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201768-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -171,7 +171,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201771.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201771-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201771.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201771-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -179,7 +179,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201779.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201779-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201779.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201779-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -187,7 +187,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201783.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201783-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201783.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201783-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -195,7 +195,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201786.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201786-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201786.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201786-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -203,7 +203,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201789.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201789-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201789.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201789-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -211,7 +211,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201793.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201793-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201793.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201793-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -219,7 +219,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201796.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201796-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201796.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201796-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -227,7 +227,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201797.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201797-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201797.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201797-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -235,7 +235,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201799.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb201799-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb201799.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb201799-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -243,7 +243,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017108.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017108-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017108.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017108-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -251,7 +251,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017115.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017115-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017115.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017115-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -259,7 +259,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017120.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017120-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017120.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017120-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -267,7 +267,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017121.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017121-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017121.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017121-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -275,7 +275,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017126.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017126-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017126.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017126-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -283,7 +283,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017127.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017127-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017127.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017127-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -291,7 +291,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017131.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017131-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017131.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017131-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -299,7 +299,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017138.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017138-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017138.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017138-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -307,7 +307,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017140.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017140-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017140.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017140-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -315,7 +315,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017142.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017142-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017142.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017142-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -323,7 +323,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017143.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017143-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017143.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017143-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -331,7 +331,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017148.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017148-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017148.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017148-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -339,7 +339,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017150.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017150-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017150.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017150-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -347,7 +347,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017153.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017153-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017153.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017153-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -355,7 +355,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017156.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017156-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017156.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017156-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -363,7 +363,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017158.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017158-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017158.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017158-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -371,7 +371,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017160.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017160-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017160.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017160-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -379,7 +379,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017162.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017162-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017162.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017162-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -387,7 +387,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017164.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonMeb2017164-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonMeb2017164.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonMeb2017164-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -446,23 +446,23 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon February 2017</title>
-		<link>https://www.lavatransforms.org/video/salon217/</link>
+		<link>/video/salon217/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2017 23:53:15 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=6099</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=6099</guid>
 
 					<description><![CDATA[ABOUT THE FEBRUARY 2017 SALON &#38; WALKING TOUR: The LAVA Sunday Salon is delighted to welcome back the esteemed poet and educator Suzanne Lummis as she curates a second series of Poem Noir readings. Starting in the basement of Grand Central Market, Suzanne will describe the defining characteristics of this poetry, whose dark themes, atmosphere, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h3>ABOUT THE FEBRUARY 2017 SALON &amp; WALKING TOUR:</h3>
-<p>The LAVA Sunday Salon is delighted to welcome back the esteemed poet and educator <a href="https://suzannelummis.com/index.php/about-lummis/" target="_blank">Suzanne Lummis</a> as she curates a <a href="https://www.lavatransforms.org/2014/01/22/broadwayonmymind5/" target="_blank">second series</a> of <a href="https://www.npr.org/2013/09/15/222820591/writing-noir-poetry-with-l-a-as-a-backdrop" target="_blank">Poem Noir readings</a>.</p>
+<p>The LAVA Sunday Salon is delighted to welcome back the esteemed poet and educator <a href="https://suzannelummis.com/index.php/about-lummis/" target="_blank">Suzanne Lummis</a> as she curates a <a href="/2014/01/22/broadwayonmymind5/" target="_blank">second series</a> of <a href="https://www.npr.org/2013/09/15/222820591/writing-noir-poetry-with-l-a-as-a-backdrop" target="_blank">Poem Noir readings</a>.</p>
 <p>Starting in the basement of Grand Central Market, Suzanne will describe the defining characteristics of this poetry, whose dark themes, atmosphere, and voice of cool detachment are inspired by the low budget black-and-white crime movies of the 1940s and 1950s. Then we&#8217;ll move across the street to the Bradbury Building for the Poem Noir readings, presented by a star-studded lineup of poets.</p>
-<p>ABOUT THE SALON: On the last Sunday of the month starting at 2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking tour expands on the Salon theme. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>ABOUT THE SALON: On the last Sunday of the month starting at 2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking tour expands on the Salon theme. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
 <h3>Presenters</h3>
 <p><strong>Tony Forsmark</strong>, a Nevada, Iowa native, graduated from Iowa State University with a major in Performing Arts and is a longtime member of the master class at the Beverly Hills Playhouse. The veteran actor has appeared in multiple theatrical, commercial and television roles, including recent roles in such shows as Criminal Minds, Documentary Now, Speechless and American Crime. Forsmark is repped by Rex Talent Management (Manager) and RPM Talent (Agent).</p>
-<p><strong>Strawn Bovee</strong> is known for work in Theater, Film, TV, Video, Galleries, Commercials and Interactive Games. Selected works: THEATER: Richard III, Macbeth, Cherry Orchard, The Seagull, Iphigenia at Aulis, The Heiress, Sister Cities, Daddyo Dies Well, Vagina Monologues, The Balcony, Antigone, The Possibilites, The Shawl, Tartuffe. PERFORMANCE ART: Double Play, I like to Sit, Astral Tea Party, Woman at The Well, The Dance Crazy Kid. FILM &amp; TV: Gilmore Girls, The Guardian, Judging Amy, General Hospital, The Others, Just My Luck, All the Ships at Sea, Brewsterâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Millions, Fourteen (in production).</p>
+<p><strong>Strawn Bovee</strong> is known for work in Theater, Film, TV, Video, Galleries, Commercials and Interactive Games. Selected works: THEATER: Richard III, Macbeth, Cherry Orchard, The Seagull, Iphigenia at Aulis, The Heiress, Sister Cities, Daddyo Dies Well, Vagina Monologues, The Balcony, Antigone, The Possibilites, The Shawl, Tartuffe. PERFORMANCE ART: Double Play, I like to Sit, Astral Tea Party, Woman at The Well, The Dance Crazy Kid. FILM &amp; TV: Gilmore Girls, The Guardian, Judging Amy, General Hospital, The Others, Just My Luck, All the Ships at Sea, Brewsterâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Millions, Fourteen (in production).</p>
 <p><strong>Fanny Daubigny</strong> is a French-born, Los Angelesâ€“based writer. She teaches at CSUF and is the author of numerous articles on Marcel Proust. She is currently working on a translation of Suzanne Lummis&#8217; poems.</p>
 <p><strong>Suzanne Lummis</strong>, one of the region&#8217;s best-known poets, wrote a defining essay on the &#8220;poem noir,&#8221; published in New Mexico&#8217;s Malpais Review: &#8220;The Poem Noir, Too Dark to Be Depressed.&#8221; As director of The Los Angeles Poetry Festival she produced the 2011 citywide series, Night and the City: L.A. Noir in Poetry, Fiction and Film. Her poems have appeared in many publications including The New Ohio Review, The Antioch Review, Ploughshares, American Journal of Poetry, and The New Yorker. Poems with a specifically noir mood and theme were included in&#8221;Noir Riot,&#8221; an anthology of poetry and detective stories, and in the Vers Noir section of the Knoph &#8220;Everyman&#8217;s anthology,&#8221; Killer Verse: Poems of Murder and Mayhem. She has a strong performance background and appeared in numerous plays around Los Angeles in the 80s and 90s. In Los Angeles Magazine, theater critic Dick Lochte, himself a writer of detective novels, called her a &#8220;new wave Gracie Allen.&#8221;</p>
-<p>RESERVATIONS: The LAVA Sunday Salon and walking tour are free, but reservations are required. There are no â€œplus ones,â€ so tell your friends to sign up individually. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend. To reserve your spot for this free event, click on the â€œBuy Ticketsâ€ button above.</p>
+<p>RESERVATIONS: The LAVA Sunday Salon and walking tour are free, but reservations are required. There are no â€œplus ones,â€ so tell your friends to sign up individually. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend. To reserve your spot for this free event, click on the â€œBuy Ticketsâ€ button above.</p>
 <p>&nbsp;<div id="themify_builder_content-6099" data-postid="6099" class="themify_builder_content themify_builder_content-6099 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_6099_row module_row_6099-0 tb_mxqw006">
@@ -472,10 +472,10 @@
 		    <!-- module text -->
 <div  class="module module-text tb_tist509    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
-<p>For a special <span class="caps">LAVA</span> Sunday Salon that includes a walking tour, you are invited to join architect and historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and Esotouricâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> for a program dedicated to the nearby and endangered Times Mirror Square (1973).</p>
+    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>For a special <span class="caps">LAVA</span> Sunday Salon that includes a walking tour, you are invited to join architect and historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and Esotouricâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> for a program dedicated to the nearby and endangered Times Mirror Square (1973).</p>
 <p>This is the third event in the Pereira In Peril seriesâ€”earlier talks were on the <a href="https://www.lavatransforms.org/event/pereira-mwd/" target="_blank">Metropolitan Water District</a> (1963) and <a href="https://www.lavatransforms.org/event/pereira-lacma/" target="_blank"><span class="caps">LACMA</span> campus</a> (1965) â€” and will focus on the redevelopment threat facing the recently sold Times Mirror Square and its effect on the legacy of mid-century architect and city planner William L. Pereira, whose corporate and civic work helped define Los Angeles.</p>
-<p>The first half of the event will be a <span class="caps">LAVA</span> Sunday Salon discussion in the basement of Grand Central Market. Then the group will walk two blocks north to Times Mirror Square, where we will continue to refine the discussion of Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s legacy and significance while viewing the 1973 black glass corporate headquarters. This widely misunderstood structure at the northwest corner of the historic Los Angeles Times compound reveals fascinating layers of change in the cityâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architectural style, the Chandler familyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship with their newspaper and Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s evolution as an architect. With its future uncertain, there has never been a better time to get to know Times Mirror Square.</p>
+<p>The first half of the event will be a <span class="caps">LAVA</span> Sunday Salon discussion in the basement of Grand Central Market. Then the group will walk two blocks north to Times Mirror Square, where we will continue to refine the discussion of Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s legacy and significance while viewing the 1973 black glass corporate headquarters. This widely misunderstood structure at the northwest corner of the historic Los Angeles Times compound reveals fascinating layers of change in the cityâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architectural style, the Chandler familyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship with their newspaper and Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s evolution as an architect. With its future uncertain, there has never been a better time to get to know Times Mirror Square.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -484,7 +484,7 @@
 	                
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201716.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201716-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201716.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201716-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -492,7 +492,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201715.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201715-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201715.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201715-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -500,7 +500,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201714.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201714-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201714-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201714-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201714-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201714.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201714.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201714-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb201714-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb201714-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb201714-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb201714.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -508,7 +508,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201713.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201713.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -516,7 +516,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201712.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201712.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -524,7 +524,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201711.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201711.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -532,7 +532,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201710.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201710-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201710-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201710-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb201710.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb201710.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb201710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb201710-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb201710-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb201710-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb201710.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -540,7 +540,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20179.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20179-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20179.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20179-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -548,7 +548,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20178.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20178-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20178-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20178-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20178-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20178.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20178.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20178-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20178-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20178-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20178-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20178.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -556,7 +556,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20177.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20177-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20177-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20177-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20177.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20177.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20177-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20177-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20177-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20177.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -564,7 +564,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-1-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-1-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-1-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20176-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20176-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20176-1-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20176-1-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20176-1-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20176-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -572,7 +572,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-1-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-1-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-1-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20175-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20175-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20175-1-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20175-1-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20175-1-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20175-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -580,7 +580,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20174-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20174-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20174-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20174-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -588,7 +588,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-1-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-1-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-1-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20173-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20173-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20173-1-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20173-1-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20173-1-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20173-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -596,7 +596,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20172-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20172-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20172-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20172-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -604,7 +604,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20171-1.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20171-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20171-1-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20171-1-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20171-1-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20171-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20171-1.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20171-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20171-1-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20171-1-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20171-1-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20171-1.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -612,7 +612,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20176.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20176.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20176-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20176-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20176-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20176.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -620,7 +620,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20175.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20175.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20175-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20175-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20175-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20175-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20175.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -628,7 +628,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20174.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20174-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20174.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20174-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -636,7 +636,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-150x150.jpg 150w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-300x300.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173-768x768.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20173.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20173.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20173-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="/wp-content/uploads/2017/04/SalonFeb20173-150x150.jpg 150w, /wp-content/uploads/2017/04/SalonFeb20173-300x300.jpg 300w, /wp-content/uploads/2017/04/SalonFeb20173-768x768.jpg 768w, /wp-content/uploads/2017/04/SalonFeb20173.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -644,7 +644,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20172.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonFeb20172-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonFeb20172.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonFeb20172-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -703,24 +703,24 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon January 2017</title>
-		<link>https://www.lavatransforms.org/video/salon117/</link>
+		<link>/video/salon117/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Thu, 06 Apr 2017 23:39:01 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=6048</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=6048</guid>
 
 					<description><![CDATA[Nathan Marsak On â€œLost Romanesque Los Angelesâ€ On the last Sunday of the month during the hours of 2-5pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h3>Nathan Marsak On â€œLost Romanesque Los Angelesâ€</h3>
-<p>On the last Sunday of the month during the hours of 2-5pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking tour expands on the Salon theme. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
-<p>The LAVA Sunday Salon and walking tour are free, but reservations are required. There are no â€œplus ones,â€ so tell your friends to sign up individually. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
+<p>On the last Sunday of the month during the hours of 2-5pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for the Sunday Salon, featuring a presentation by a LAVA Visionary and opportunities to meet and connect with one another. Immediately after the Salon, a walking tour expands on the Salon theme. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>The LAVA Sunday Salon and walking tour are free, but reservations are required. There are no â€œplus ones,â€ so tell your friends to sign up individually. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
 <p>To reserve your spot for this free event, click on the &#8220;Buy Tickets&#8221; button above.</p>
 <p><em>ABOUT THE SALON &amp; WALKING TOUR</em>:</p>
-<p>We have combined the Sunday Salon &amp; Broadway on My Mind walking tour into a single event. The talk begins at 2pm and lasts about 45 minutes. Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll break for about 15 minutes for people who have no checked in to do so, then leave for the walk around 3pm. The walk will last about 90 minutes.</p>
+<p>We have combined the Sunday Salon &amp; Broadway on My Mind walking tour into a single event. The talk begins at 2pm and lasts about 45 minutes. Weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll break for about 15 minutes for people who have no checked in to do so, then leave for the walk around 3pm. The walk will last about 90 minutes.</p>
 <h4>Nathan Marsak On â€œLost Romanesque Los Angelesâ€</h4>
-<p>Architectural historian <a href="https://www.onbunkerhill.org/nathanmarsak/" target="_blank">Nathan Marsak</a>, the <a href="https://www.lavatransforms.org/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>, presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque style. Nathanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s talk will be an illustrated tour of the lost buildings of the Civic Center, followed by a walking tour of that portion of downtown.</p>
+<p>Architectural historian <a href="https://www.onbunkerhill.org/nathanmarsak/" target="_blank">Nathan Marsak</a>, the <a href="/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>, presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque style. Nathanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s talk will be an illustrated tour of the lost buildings of the Civic Center, followed by a walking tour of that portion of downtown.</p>
 <p>The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, which one may still visit in any number of extant adobes; from there, following some historic boom times, we Angelenos and visitors alike are regaled by the wondrous Beaux-Arts high-rises of downtown. If pure Victorian architecture is considered, one likely turns attention to the Eastlake and Queen Anne examples along Carroll Avenue, or to the used-car lot of gingerbread, Heritage Square.</p>
-<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
-<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating some of the most notable lost masterpieces from the Civic Center, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
+<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
+<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating some of the most notable lost masterpieces from the Civic Center, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
 <div id="themify_builder_content-6048" data-postid="6048" class="themify_builder_content themify_builder_content-6048 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_6048_row module_row_6048-0 tb_sqc3080">
@@ -730,10 +730,10 @@
 		    <!-- module text -->
 <div  class="module module-text tb_p86k680    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
-<p>For a special <span class="caps">LAVA</span> Sunday Salon that includes a walking tour, you are invited to join architect and historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and Esotouricâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> for a program dedicated to the nearby and endangered Times Mirror Square (1973).</p>
+    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>For a special <span class="caps">LAVA</span> Sunday Salon that includes a walking tour, you are invited to join architect and historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and Esotouricâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> for a program dedicated to the nearby and endangered Times Mirror Square (1973).</p>
 <p>This is the third event in the Pereira In Peril seriesâ€”earlier talks were on the <a href="https://www.lavatransforms.org/event/pereira-mwd/" target="_blank">Metropolitan Water District</a> (1963) and <a href="https://www.lavatransforms.org/event/pereira-lacma/" target="_blank"><span class="caps">LACMA</span> campus</a> (1965) â€” and will focus on the redevelopment threat facing the recently sold Times Mirror Square and its effect on the legacy of mid-century architect and city planner William L. Pereira, whose corporate and civic work helped define Los Angeles.</p>
-<p>The first half of the event will be a <span class="caps">LAVA</span> Sunday Salon discussion in the basement of Grand Central Market. Then the group will walk two blocks north to Times Mirror Square, where we will continue to refine the discussion of Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s legacy and significance while viewing the 1973 black glass corporate headquarters. This widely misunderstood structure at the northwest corner of the historic Los Angeles Times compound reveals fascinating layers of change in the cityâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architectural style, the Chandler familyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship with their newspaper and Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s evolution as an architect. With its future uncertain, there has never been a better time to get to know Times Mirror Square.</p>
+<p>The first half of the event will be a <span class="caps">LAVA</span> Sunday Salon discussion in the basement of Grand Central Market. Then the group will walk two blocks north to Times Mirror Square, where we will continue to refine the discussion of Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s legacy and significance while viewing the 1973 black glass corporate headquarters. This widely misunderstood structure at the northwest corner of the historic Los Angeles Times compound reveals fascinating layers of change in the cityâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architectural style, the Chandler familyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship with their newspaper and Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s evolution as an architect. With its future uncertain, there has never been a better time to get to know Times Mirror Square.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -742,7 +742,7 @@
 	                
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20171.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20171-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20171.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20171-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -750,7 +750,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20172.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20172-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20172.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20172-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -758,7 +758,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20173.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20173-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20173.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20173-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -766,7 +766,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20174.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20174-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20174.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20174-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -774,7 +774,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20175.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20175-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20175.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20175-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -782,7 +782,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20176.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20176.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -790,7 +790,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20177.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20177.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -798,7 +798,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20178.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20178-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20178.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20178-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -806,7 +806,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20179.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan20179-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan20179.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan20179-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -814,7 +814,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201710.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201710.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201710-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -822,7 +822,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201711.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201711.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201711-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -830,7 +830,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201712.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201712.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201712-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -838,7 +838,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201713.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201713.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201713-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -846,7 +846,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201714.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201714-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201714.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201714-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -854,7 +854,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201715.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201715-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201715.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201715-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -862,7 +862,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201716.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201716-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201716.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201716-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -870,7 +870,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201717.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201717-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201717.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201717-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -878,7 +878,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201718.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201718-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201718.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201718-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -886,7 +886,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201719.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201719-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201719.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201719-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -894,7 +894,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201720.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201720-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201720.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201720-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -902,7 +902,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201721.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201721-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201721.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201721-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -910,7 +910,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201722.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201722-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201722.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201722-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -918,7 +918,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201723.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201723-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201723.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201723-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -926,7 +926,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201724.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201724-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201724.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201724-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -934,7 +934,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201725.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201725-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201725.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201725-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -942,7 +942,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201726.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201726-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201726.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201726-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -950,7 +950,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201727.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201727-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201727.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201727-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -958,7 +958,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201728.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201728-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201728.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201728-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -966,7 +966,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201729.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201729-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201729.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201729-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -974,7 +974,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201730.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201730-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201730.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201730-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -982,7 +982,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201731.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201731-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201731.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201731-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -990,7 +990,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201732.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201732-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201732.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201732-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -998,7 +998,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201733.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201733-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201733.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201733-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1006,7 +1006,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201734.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201734.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1014,7 +1014,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201735.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201735-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201735.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201735-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1022,7 +1022,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201736.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201736-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201736.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201736-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1030,7 +1030,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201737.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201737-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201737.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201737-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1038,7 +1038,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201738.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201738-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201738.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201738-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1046,7 +1046,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201739.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201739-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201739.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201739-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1054,7 +1054,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201740.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201740-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201740.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201740-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1062,7 +1062,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201741.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201741.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1070,7 +1070,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201742.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201742-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201742.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201742-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1078,7 +1078,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201743.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201743-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201743.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201743-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1086,7 +1086,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201744.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201744-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201744.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201744-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1094,7 +1094,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201745.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201745-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201745.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201745-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1102,7 +1102,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201746.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201746-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201746.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201746-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1110,7 +1110,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201747.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201747-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201747.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201747-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1118,7 +1118,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201748.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201748-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201748.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201748-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1126,7 +1126,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201749.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201749-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201749.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201749-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1134,7 +1134,7 @@
 
     <dl class="gallery-item">
         <dt class="gallery-icon">
-        <a data-title="" title="" href="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201750.jpg"><img width="150" height="150" src="https://www.lavatransforms.org/wp-content/uploads/2017/04/SalonJan201750-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
+        <a data-title="" title="" href="/wp-content/uploads/2017/04/SalonJan201750.jpg"><img width="150" height="150" src="/wp-content/uploads/2017/04/SalonJan201750-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>        </dt>
         <dd>
                                 </dd>
     </dl>
@@ -1193,11 +1193,11 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon October 2016</title>
-		<link>https://www.lavatransforms.org/video/salon1016/</link>
+		<link>/video/salon1016/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 28 Dec 2016 00:42:44 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5936</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5936</guid>
 
 					<description><![CDATA[On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA as a creative contributor or an attendee, we recommend [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5936" data-postid="5936" class="themify_builder_content themify_builder_content-5936 themify_builder">
@@ -1209,10 +1209,10 @@
 		    <!-- module text -->
 <div  class="module module-text tb_h1x0558    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
-<p>For a special <span class="caps">LAVA</span> Sunday Salon that includes a walking tour, you are invited to join architect and historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and Esotouricâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> for a program dedicated to the nearby and endangered Times Mirror Square (1973).</p>
+    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>For a special <span class="caps">LAVA</span> Sunday Salon that includes a walking tour, you are invited to join architect and historian <a href="https://alanhess.net/" target="_blank">Alan Hess</a> and Esotouricâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> for a program dedicated to the nearby and endangered Times Mirror Square (1973).</p>
 <p>This is the third event in the Pereira In Peril seriesâ€”earlier talks were on the <a href="https://www.lavatransforms.org/event/pereira-mwd/" target="_blank">Metropolitan Water District</a> (1963) and <a href="https://www.lavatransforms.org/event/pereira-lacma/" target="_blank"><span class="caps">LACMA</span> campus</a> (1965) â€” and will focus on the redevelopment threat facing the recently sold Times Mirror Square and its effect on the legacy of mid-century architect and city planner William L. Pereira, whose corporate and civic work helped define Los Angeles.</p>
-<p>The first half of the event will be a <span class="caps">LAVA</span> Sunday Salon discussion in the basement of Grand Central Market. Then the group will walk two blocks north to Times Mirror Square, where we will continue to refine the discussion of Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s legacy and significance while viewing the 1973 black glass corporate headquarters. This widely misunderstood structure at the northwest corner of the historic Los Angeles Times compound reveals fascinating layers of change in the cityâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architectural style, the Chandler familyâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship with their newspaper and Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s evolution as an architect. With its future uncertain, there has never been a better time to get to know Times Mirror Square.</p>
+<p>The first half of the event will be a <span class="caps">LAVA</span> Sunday Salon discussion in the basement of Grand Central Market. Then the group will walk two blocks north to Times Mirror Square, where we will continue to refine the discussion of Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s legacy and significance while viewing the 1973 black glass corporate headquarters. This widely misunderstood structure at the northwest corner of the historic Los Angeles Times compound reveals fascinating layers of change in the cityâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s architectural style, the Chandler familyâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s relationship with their newspaper and Pereiraâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s evolution as an architect. With its future uncertain, there has never been a better time to get to know Times Mirror Square.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -1340,11 +1340,11 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon September 2016</title>
-		<link>https://www.lavatransforms.org/video/salon916/</link>
+		<link>/video/salon916/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Tue, 27 Dec 2016 21:56:58 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5918</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5918</guid>
 
 					<description><![CDATA[On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA as a creative contributor or an attendee, we recommend [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5918" data-postid="5918" class="themify_builder_content themify_builder_content-5918 themify_builder">
@@ -1356,9 +1356,9 @@
 		    <!-- module text -->
 <div  class="module module-text tb_jdem028    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
 <p>Musician, cartoon creator and mad-maker of cute-things, Thessaly Lerner, <a href="https://www.theukulady.com/" target="_blank">The Ukulady</a>, sprinkles her unicorny magic at the Sunday Lava Salon in the form of catchy ukulele tunes, interactive crafting and a screening of her Dreamworks TV cartoon shorts with a How-to-Create-Sell-and-Produce-your-Show Q&amp;A! Music, Comedy, Art, Friendship and Intellectual Discourse! Join us and join the campaign for the Downfall of Evil, plus get inspired, get creative and get out of the house!</p>
-<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and walking tour, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
+<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and walking tour, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -1466,11 +1466,11 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon August 2016</title>
-		<link>https://www.lavatransforms.org/video/salon816/</link>
+		<link>/video/salon816/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Tue, 27 Dec 2016 04:13:47 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5908</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5908</guid>
 
 					<description><![CDATA[On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA as a creative contributor or an attendee, we recommend [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5908" data-postid="5908" class="themify_builder_content themify_builder_content-5908 themify_builder">
@@ -1482,7 +1482,7 @@
 		    <!-- module text -->
 <div  class="module module-text tb_3mtc360    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p><p>Our focus is on Electronic Music, and the sub-genre known as <a title="Circuit Bending" href="https://en.wikipedia.org/wiki/Circuit_bending" target="_blank">Circuit Bending</a>. Circuit Bending is the creative rewiring of pre-existing circuits to make new media. Often these circuits are found in inexpensive childrenâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s toys and &#8220;obsolete&#8221; devices. Important aspects of Circuit Bending are the D.I.Y (Do It Yourself) autodidactic nature of immediate exploration into new electronic sounds and the ability to engage in instrument building without the need for an electrical engineering degree. The artists presenting today, <a title="Andy Ben" href="https://andyben.com/" target="_blank">Andy Ben</a>, <a title="Jeff Boynton" href="https://circuitryandpoetry.com/aboutus/AboutUsJeffBio.html" target="_blank">Jeff Boynton</a> and <a title="Mona Jean Cedar" href="https://circuitryandpoetry.com/aboutus/AboutUsMonaBio.html" target="_blank">Mona Jean Cedar,</a> explore the implications of Circuit Bending through a variety of contexts, including performance, documentary video and education.</p><p>For Mona Jean Cedar (poet, dancer and sign language interpreter) and Jeff Boynton (electronic musician), &#8220;Circuitry and Poetry&#8221; arose out of a desire to create collaborative artwork. Jeffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s initial impulse was to create interactive electronic instruments that would respond to Monaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hand and body movements. This did not happen immediately due to the steep learning curve of electronics, but it led to the discovery of the &#8220;black art&#8221; of Circuit Bending. This was the jumping off point, and eventually Jeff was able to develop interfaces that would allow Circuit Bent instruments to respond to light, sound and movement. Mona had already been creating work in which poetry and movement was composed specifically for how well they will work with sign language. Presenter Andy Ben is a musician and technologist and film maker who is interested in the digital convergence and post consumer culture.</p><p>The LAVA Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a title="Broadway On My Mind" href="https://www.lavatransforms.org/broadway-on-my-mind-16" target="_blank">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>    </div>
+    <p>On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining LAVA as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p><p>Our focus is on Electronic Music, and the sub-genre known as <a title="Circuit Bending" href="https://en.wikipedia.org/wiki/Circuit_bending" target="_blank">Circuit Bending</a>. Circuit Bending is the creative rewiring of pre-existing circuits to make new media. Often these circuits are found in inexpensive childrenâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s toys and &#8220;obsolete&#8221; devices. Important aspects of Circuit Bending are the D.I.Y (Do It Yourself) autodidactic nature of immediate exploration into new electronic sounds and the ability to engage in instrument building without the need for an electrical engineering degree. The artists presenting today, <a title="Andy Ben" href="https://andyben.com/" target="_blank">Andy Ben</a>, <a title="Jeff Boynton" href="https://circuitryandpoetry.com/aboutus/AboutUsJeffBio.html" target="_blank">Jeff Boynton</a> and <a title="Mona Jean Cedar" href="https://circuitryandpoetry.com/aboutus/AboutUsMonaBio.html" target="_blank">Mona Jean Cedar,</a> explore the implications of Circuit Bending through a variety of contexts, including performance, documentary video and education.</p><p>For Mona Jean Cedar (poet, dancer and sign language interpreter) and Jeff Boynton (electronic musician), &#8220;Circuitry and Poetry&#8221; arose out of a desire to create collaborative artwork. Jeffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s initial impulse was to create interactive electronic instruments that would respond to Monaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s hand and body movements. This did not happen immediately due to the steep learning curve of electronics, but it led to the discovery of the &#8220;black art&#8221; of Circuit Bending. This was the jumping off point, and eventually Jeff was able to develop interfaces that would allow Circuit Bent instruments to respond to light, sound and movement. Mona had already been creating work in which poetry and movement was composed specifically for how well they will work with sign language. Presenter Andy Ben is a musician and technologist and film maker who is interested in the digital convergence and post consumer culture.</p><p>The LAVA Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a title="Broadway On My Mind" href="https://www.lavatransforms.org/broadway-on-my-mind-16" target="_blank">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>    </div>
 </div>
 <!-- /module text -->
 	        </div>
@@ -1609,14 +1609,14 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon July 2016</title>
-		<link>https://www.lavatransforms.org/video/salon716/</link>
+		<link>/video/salon716/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Tue, 23 Aug 2016 17:19:52 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5808</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5808</guid>
 
 					<description><![CDATA[On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA as a creative contributor or an attendee, we recommend [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1280" height="720" src="https://www.lavatransforms.org/wp-content/uploads/2016/08/skipHeller.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2016/08/skipHeller.jpg 1280w, https://www.lavatransforms.org/wp-content/uploads/2016/08/skipHeller-300x169.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2016/08/skipHeller-768x432.jpg 768w, https://www.lavatransforms.org/wp-content/uploads/2016/08/skipHeller-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p><div id="themify_builder_content-5808" data-postid="5808" class="themify_builder_content themify_builder_content-5808 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1280" height="720" src="/wp-content/uploads/2016/08/skipHeller.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2016/08/skipHeller.jpg 1280w, /wp-content/uploads/2016/08/skipHeller-300x169.jpg 300w, /wp-content/uploads/2016/08/skipHeller-768x432.jpg 768w, /wp-content/uploads/2016/08/skipHeller-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p><div id="themify_builder_content-5808" data-postid="5808" class="themify_builder_content themify_builder_content-5808 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_5808_row module_row_5808-0 tb_yh6i000">
 	    	    <div class="row_inner col_align_top" >
@@ -1625,9 +1625,9 @@
 		    <!-- module text -->
 <div  class="module module-text tb_ra45309    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
 <p>This two-part Sunday Salon features bandleader and music historian <a title="Skip Heller" href="https://en.wikipedia.org/wiki/Skip_Heller" target="_blank">Skip Heller</a> with an exploration of regional culture and lore. First, Skip takes us on an abridged Los Angeles musical history tour, illustrated with vintage film clips. Then, he&#8217;ll bring out his band the <a title="Hollywood Blues Destroyers" href="https://hollywoodbluesdestroyers.com/" target="_blank">Hollywood Blues Destroyers</a> for an acoustic mini-set on the theme of the dark side of modern California, from environmental collapse, career disillusionment to overdevelopment. Join us as Skip celebrates, dispels and dissects the Southland myth machine.</p>
-<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a href="https://www.lavatransforms.org/event/broadway-on-my-mind-14/">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
+<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a href="https://www.lavatransforms.org/event/broadway-on-my-mind-14/">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -1735,11 +1735,11 @@
 			</item>
 		<item>
 		<title>LAVA Sunday Salon June 2016</title>
-		<link>https://www.lavatransforms.org/video/salon616/</link>
+		<link>/video/salon616/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2016 19:28:24 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5778</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5778</guid>
 
 					<description><![CDATA[On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€™re interested in joining LAVA as a creative contributor or an attendee, we recommend [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5778" data-postid="5778" class="themify_builder_content themify_builder_content-5778 themify_builder">
@@ -1751,14 +1751,14 @@
 		    <!-- module text -->
 <div  class="module module-text tb_cvhh004    ">
             <div  class="tb_text_wrap">
-    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
-<p>For the June 2016 Sunday Salon, <span class="caps">LAVA</span> presents The Secret Diaries of Vilma, the sassy El Monte socialite turned Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria Camera Girl.</p>
-<p>Miriam Caldwell, author of the blog <a href="https://www.diaryofvilma.com/" target="_blank">Diary of Vilma, The Unconquerable</a> will take us on a delightful and raucous ride back to the fabulous 1950s. Vilmaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s flamboyant true life story, diaries and hundreds of rare historic photographs were brought out of the dark recesses of storage shortly after her death in 2012.</p>
-<p>Miriam, along with her sister Victoria, will unveil a veritable treasure trove of history, which up until now has been hidden inside their motherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s charismatic diary passages. With the ravishing beauty of a Hollywood starlet, youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be captivated by her charm, wit and especially her brashness, a remnant from her childhood years growing up in a tough New York neighborhood.</p>
+    <p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>For the June 2016 Sunday Salon, <span class="caps">LAVA</span> presents The Secret Diaries of Vilma, the sassy El Monte socialite turned Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cafeteria Camera Girl.</p>
+<p>Miriam Caldwell, author of the blog <a href="https://www.diaryofvilma.com/" target="_blank">Diary of Vilma, The Unconquerable</a> will take us on a delightful and raucous ride back to the fabulous 1950s. Vilmaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s flamboyant true life story, diaries and hundreds of rare historic photographs were brought out of the dark recesses of storage shortly after her death in 2012.</p>
+<p>Miriam, along with her sister Victoria, will unveil a veritable treasure trove of history, which up until now has been hidden inside their motherâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s charismatic diary passages. With the ravishing beauty of a Hollywood starlet, youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll be captivated by her charm, wit and especially her brashness, a remnant from her childhood years growing up in a tough New York neighborhood.</p>
 <p>Highlights of the presentation:</p>
-<p>The history of Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s camera girls: Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll meet the entrepreneurial family who employed the team of camera girls at the <a href="https://www.cliftonsla.com/" target="_blank">Brookdale</a> and Pacific Seas locations. Their souvenir photo business, Keepsake Photography, operated out of the basement of Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s from 1945-1969. Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll also discover how Vilma became the star of <span class="caps">YOUR</span> souvenir photo.</p>
-<p>Vintage Los Angeles: Hot rods, drive-in movies and ritzy supper clubs where you could enjoy a Las Vegas style themed dinner showâ€¦ all for under $10 bucks. Experience Vilmaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s saucy date nights at the height of Hollywoodâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Golden Age and the great American car culture.</p>
-<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a href="https://www.lavatransforms.org/event/broadway-on-my-mind-14/">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
+<p>The history of Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s camera girls: Weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll meet the entrepreneurial family who employed the team of camera girls at the <a href="https://www.cliftonsla.com/" target="_blank">Brookdale</a> and Pacific Seas locations. Their souvenir photo business, Keepsake Photography, operated out of the basement of Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s from 1945-1969. Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll also discover how Vilma became the star of <span class="caps">YOUR</span> souvenir photo.</p>
+<p>Vintage Los Angeles: Hot rods, drive-in movies and ritzy supper clubs where you could enjoy a Las Vegas style themed dinner showâ€¦ all for under $10 bucks. Experience Vilmaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s saucy date nights at the height of Hollywoodâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Golden Age and the great American car culture.</p>
+<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a href="https://www.lavatransforms.org/event/broadway-on-my-mind-14/">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -1866,11 +1866,11 @@
 			</item>
 		<item>
 		<title>LAVA Salon May 2016</title>
-		<link>https://www.lavatransforms.org/video/lava-salon-may-2016/</link>
+		<link>/video/lava-salon-may-2016/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sun, 26 Jun 2016 03:44:34 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5729</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5729</guid>
 
 					<description><![CDATA[Dateline, Los Angeles LAVA Sunday Salon returns from hiatus! New location: Grand Central Market (basement level). On the last Sunday of each month during the hours of noon-2pm, LAVA welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div id="themify_builder_content-5729" data-postid="5729" class="themify_builder_content themify_builder_content-5729 themify_builder">
@@ -1885,9 +1885,9 @@
     <h4><strong>Dateline, Los Angeles</strong></h4>
 <h4><span class="caps">LAVA</span> Sunday Salon returns from hiatus!</h4>
 <h4>New location: Grand Central Market (basement level).</h4>
-<p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
-<p>Our May 2016 <span class="caps">LAVA</span> Sunday Salon features 2015 <span class="caps">LAVA</span> Visionary of the Year <a href="https://www.lavatransforms.org/video/salon315/" target="_blank">Nathan Marsak</a>, with a presentation on 19th Century Los Angeles architecture. Nathanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s talk will focus on Bunker Hill, Angels Flight Railway and the streets immediately surrounding our new Salon base, <a href="https://www.grandcentralmarket.com/" target="_blank">Grand Central Market</a> (basement level). The presentation concludes with a series of vintage film clips highlighting Angels Flight, a beloved landmark whose <a href="https://angelsflight.org/" target="_blank">preservation</a> is a cause dear to several <span class="caps">LAVA</span> Visionaries.</p>
-<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a href="https://www.lavatransforms.org/event/broadway-on-my-mind-13/">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
+<p>On the last Sunday of each month during the hours of noon-2pm, <span class="caps">LAVA</span> welcomes interested individuals to gather in downtown Los Angeles for a loosely structured conversational Salon featuring short presentations and opportunities to meet and connect with one another. If youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />re interested in joining <span class="caps">LAVA</span> as a creative contributor or an attendee, we recommend Salon attendance as an introduction to this growing community.</p>
+<p>Our May 2016 <span class="caps">LAVA</span> Sunday Salon features 2015 <span class="caps">LAVA</span> Visionary of the Year <a href="https://www.lavatransforms.org/video/salon315/" target="_blank">Nathan Marsak</a>, with a presentation on 19th Century Los Angeles architecture. Nathanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s talk will focus on Bunker Hill, Angels Flight Railway and the streets immediately surrounding our new Salon base, <a href="https://www.grandcentralmarket.com/" target="_blank">Grand Central Market</a> (basement level). The presentation concludes with a series of vintage film clips highlighting Angels Flight, a beloved landmark whose <a href="https://angelsflight.org/" target="_blank">preservation</a> is a cause dear to several <span class="caps">LAVA</span> Visionaries.</p>
+<p>The <span class="caps">LAVA</span> Sunday Salon is free, but reservations are required to provide an attendance count for the venue. There are no â€œplus ones,â€ so tell your friends to sign up individually. If attending both the Sunday Salon and <a href="https://www.lavatransforms.org/event/broadway-on-my-mind-13/">walking tour</a>, please sign up for each event. Please donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t reserve unless you plan to attend.</p>
     </div>
 </div>
 <!-- /module text -->
@@ -1995,14 +1995,14 @@
 			</item>
 		<item>
 		<title>LAVA Salon May 2015</title>
-		<link>https://www.lavatransforms.org/video/salon515/</link>
+		<link>/video/salon515/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sun, 31 May 2015 17:40:20 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=5193</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=5193</guid>
 
 					<description><![CDATA[The Photography of Kristin Bedford: Race, History &#38; the Divine Los Angeles-based photographer Kristin Bedford will be presenting her series of photographs about the legacy of the African-American religious leader Father Divine. The body of work delves into issues of race, American religious history, and the mystery of enduring faith. Father Divine, known to his [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="758" src="https://www.lavatransforms.org/wp-content/uploads/2016/03/may2015-4.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2016/03/may2015-4.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2016/03/may2015-4-300x222.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2016/03/may2015-4-1024x758-400x296.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-5193" data-postid="5193" class="themify_builder_content themify_builder_content-5193 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1024" height="758" src="/wp-content/uploads/2016/03/may2015-4.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2016/03/may2015-4.jpg 1024w, /wp-content/uploads/2016/03/may2015-4-300x222.jpg 300w, /wp-content/uploads/2016/03/may2015-4-1024x758-400x296.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-5193" data-postid="5193" class="themify_builder_content themify_builder_content-5193 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_5193_row module_row_5193-0 tb_k6jb115">
 	    	    <div class="row_inner col_align_top" >
@@ -2011,7 +2011,7 @@
 		    <!-- module text -->
 <div  class="module module-text tb_cpc0445    ">
             <div  class="tb_text_wrap">
-    <h3>The Photography of Kristin Bedford: Race, History &amp; the Divine</h3><p>Los Angeles-based photographer Kristin Bedford will be presenting her series of photographs about the legacy of the African-American religious leader Father Divine. The body of work delves into issues of race, American religious history, and the mystery of enduring faith.</p><p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p><p>The followers, who call themselves â€œThe International Peace Mission Movement,â€ are living a way of life and performing rituals created over eighty years ago by their God. With the lack of new followers, their movement is likely in its final chapter. Bedford had the chance to experience and photograph their traditions before they fade away.</p><p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p><h4>Biography</h4><p>Kristin Bedford is a Los Angeles-based photographer who focuses on long-term visual studies of where we live â€“ the streets we walk down, the places we worship in, the homes we create, and the spaces between them all. Her subjects have included religious movements, street culture in numerous urban centers, and the modern day legacy of historic African-American communities.</p><p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p><p><a href="https://lens.blogs.nytimes.com/2014/12/29/philadelphia-city-of-father-divine/" target="_blank">NY Times <span class="caps">LENS</span> Review</a></p><p><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-src="https://gdurl.com/zlSj" alt="" width="80%" /><noscript><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="https://gdurl.com/zlSj" alt="" width="80%" /></noscript></p>    </div>
+    <h3>The Photography of Kristin Bedford: Race, History &amp; the Divine</h3><p>Los Angeles-based photographer Kristin Bedford will be presenting her series of photographs about the legacy of the African-American religious leader Father Divine. The body of work delves into issues of race, American religious history, and the mystery of enduring faith.</p><p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p><p>The followers, who call themselves â€œThe International Peace Mission Movement,â€ are living a way of life and performing rituals created over eighty years ago by their God. With the lack of new followers, their movement is likely in its final chapter. Bedford had the chance to experience and photograph their traditions before they fade away.</p><p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p><h4>Biography</h4><p>Kristin Bedford is a Los Angeles-based photographer who focuses on long-term visual studies of where we live â€“ the streets we walk down, the places we worship in, the homes we create, and the spaces between them all. Her subjects have included religious movements, street culture in numerous urban centers, and the modern day legacy of historic African-American communities.</p><p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p><p><a href="https://lens.blogs.nytimes.com/2014/12/29/philadelphia-city-of-father-divine/" target="_blank">NY Times <span class="caps">LENS</span> Review</a></p><p><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-src="https://gdurl.com/zlSj" alt="" width="80%" /><noscript><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="https://gdurl.com/zlSj" alt="" width="80%" /></noscript></p>    </div>
 </div>
 <!-- /module text -->
 	        </div>

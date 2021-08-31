@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA Goes 3-D for an evening of George Mann&#8217;s Lost Los Angeles at LAPL	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/11/16/lava-goes-3-d-for-an-evening-of-george-manns-lost-los-angeles-at-lapl/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/11/16/lava-goes-3-d-for-an-evening-of-george-manns-lost-los-angeles-at-lapl/</link>
+	<atom:link href="/2012/11/16/lava-goes-3-d-for-an-evening-of-george-manns-lost-los-angeles-at-lapl/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/11/16/lava-goes-3-d-for-an-evening-of-george-manns-lost-los-angeles-at-lapl/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:57:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

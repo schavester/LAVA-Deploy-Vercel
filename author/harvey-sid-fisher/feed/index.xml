@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Harvey Sid Fisher &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/author/harvey-sid-fisher/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/author/harvey-sid-fisher/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Harvey Sig Gig</title>
-		<link>https://www.lavatransforms.org/2012/05/02/harvey-sig-gig/</link>
-					<comments>https://www.lavatransforms.org/2012/05/02/harvey-sig-gig/#respond</comments>
+		<link>/2012/05/02/harvey-sig-gig/</link>
+					<comments>/2012/05/02/harvey-sig-gig/#respond</comments>
 		
 		<dc:creator><![CDATA[Harvey Sid Fisher]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:55 +0000</pubDate>
@@ -38,15 +38,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2012/05/02/harvey-sig-gig/feed/</wfw:commentRss>
+					<wfw:commentRss>/2012/05/02/harvey-sig-gig/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Harvey Sid Fisher</title>
-		<link>https://www.lavatransforms.org/2010/12/10/harvey-sid-fisher/</link>
-					<comments>https://www.lavatransforms.org/2010/12/10/harvey-sid-fisher/#respond</comments>
+		<link>/2010/12/10/harvey-sid-fisher/</link>
+					<comments>/2010/12/10/harvey-sid-fisher/#respond</comments>
 		
 		<dc:creator><![CDATA[Harvey Sid Fisher]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:54 +0000</pubDate>
@@ -59,7 +59,7 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2010/12/10/harvey-sid-fisher/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/12/10/harvey-sid-fisher/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

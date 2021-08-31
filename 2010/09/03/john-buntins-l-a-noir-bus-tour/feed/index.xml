@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: John Buntin&#8217;s L.A. Noir bus tour	</title>
-	<atom:link href="https://www.lavatransforms.org/2010/09/03/john-buntins-l-a-noir-bus-tour/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2010/09/03/john-buntins-l-a-noir-bus-tour/</link>
+	<atom:link href="/2010/09/03/john-buntins-l-a-noir-bus-tour/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/09/03/john-buntins-l-a-noir-bus-tour/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:04:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

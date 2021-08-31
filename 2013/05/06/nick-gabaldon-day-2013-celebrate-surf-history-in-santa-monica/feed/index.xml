@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Nick Gabaldon Day 2013 &#8211; Celebrate Surf History in Santa Monica	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/05/06/nick-gabaldon-day-2013-celebrate-surf-history-in-santa-monica/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/05/06/nick-gabaldon-day-2013-celebrate-surf-history-in-santa-monica/</link>
+	<atom:link href="/2013/05/06/nick-gabaldon-day-2013-celebrate-surf-history-in-santa-monica/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/05/06/nick-gabaldon-day-2013-celebrate-surf-history-in-santa-monica/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

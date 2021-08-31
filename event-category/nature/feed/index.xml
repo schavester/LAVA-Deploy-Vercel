@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Nature &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/event-category/nature/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/event-category/nature/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 11 Jan 2016 23:12:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Hack Your Fruit Tree: the science &#038; technique of grafting</title>
-		<link>https://www.lavatransforms.org/event/graft-fruit/</link>
-					<comments>https://www.lavatransforms.org/event/graft-fruit/#respond</comments>
+		<link>/event/graft-fruit/</link>
+					<comments>/event/graft-fruit/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Mon, 11 Jan 2016 23:02:53 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=event&#038;p=4854</guid>
+				<guid isPermaLink="false">/?post_type=event&#038;p=4854</guid>
 
 					<description><![CDATA[Most fruit tree species donâ€™t grow â€œtrue to seed.â€ Clonal propagation gets around that and thatâ€™s why the majority of trees you see in a nursery are grafted. Learn the principles of grafting technique, why youâ€™d want to use them in your garden, and what the heck those plant cells are up to from a [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="634" src="https://www.lavatransforms.org/wp-content/uploads/2016/01/Grafting2.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2016/01/Grafting2.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2016/01/Grafting2-300x186.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><p>Most fruit tree species donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t grow â€œtrue to seed.â€ Clonal propagation gets around that and thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s why the majority of trees you see in a nursery are grafted.</p>
-<p>Learn the principles of grafting technique, why youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d want to use them in your garden, and what the heck those plant cells are up to from a gardener and a molecular biologist.</p>
+										<content:encoded><![CDATA[<p><img width="1024" height="634" src="/wp-content/uploads/2016/01/Grafting2.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2016/01/Grafting2.jpg 1024w, /wp-content/uploads/2016/01/Grafting2-300x186.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><p>Most fruit tree species donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t grow â€œtrue to seed.â€ Clonal propagation gets around that and thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s why the majority of trees you see in a nursery are grafted.</p>
+<p>Learn the principles of grafting technique, why youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d want to use them in your garden, and what the heck those plant cells are up to from a gardener and a molecular biologist.</p>
 <p>LAVA Visionary Megan Lynch is a member of TheLab as well as a member of California Rare Fruit Growers.</p>
 <p>Dr. Cory Tobin is president of TheLab. He has a Ph.D. in Biology/Plant Genetics from Caltech and a Bachelors in Biochemistry &amp; Molecular Biology from California Lutheran University.</p>
 <div id="themify_builder_content-4854" data-postid="4854" class="themify_builder_content themify_builder_content-4854 themify_builder">
@@ -38,7 +38,7 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/event/graft-fruit/feed/</wfw:commentRss>
+					<wfw:commentRss>/event/graft-fruit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

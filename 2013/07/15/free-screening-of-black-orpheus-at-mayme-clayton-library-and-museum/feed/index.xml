@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Free screening of Black Orpheus at Mayme Clayton Library and Museum	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/</link>
+	<atom:link href="/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/07/15/free-screening-of-black-orpheus-at-mayme-clayton-library-and-museum/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

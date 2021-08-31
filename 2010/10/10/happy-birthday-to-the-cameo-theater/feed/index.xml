@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Happy Birthday to the Cameo Theater	</title>
-	<atom:link href="https://www.lavatransforms.org/2010/10/10/happy-birthday-to-the-cameo-theater/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2010/10/10/happy-birthday-to-the-cameo-theater/</link>
+	<atom:link href="/2010/10/10/happy-birthday-to-the-cameo-theater/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/10/10/happy-birthday-to-the-cameo-theater/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 01 Oct 2015 00:56:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: L.A. Noire walking tour (photos by Chinta Cooper)	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/06/19/l-a-noire-walking-tour-photos-by-chinta-cooper/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/06/19/l-a-noire-walking-tour-photos-by-chinta-cooper/</link>
+	<atom:link href="/2011/06/19/l-a-noire-walking-tour-photos-by-chinta-cooper/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/06/19/l-a-noire-walking-tour-photos-by-chinta-cooper/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:01:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

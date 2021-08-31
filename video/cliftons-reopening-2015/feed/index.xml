@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Brother Pancake&#8217;s invocation for the Reopening of Clifton&#8217;s Cafeteria	</title>
-	<atom:link href="https://www.lavatransforms.org/video/cliftons-reopening-2015/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/cliftons-reopening-2015/</link>
+	<atom:link href="/video/cliftons-reopening-2015/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/cliftons-reopening-2015/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 09:26:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

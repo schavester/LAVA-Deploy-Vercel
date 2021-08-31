@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The Ukulady&#8217;s pioneer cemetery set at Savannah Memorial Park	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/06/02/ukuladypioneer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/06/02/ukuladypioneer/</link>
+	<atom:link href="/2013/06/02/ukuladypioneer/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/06/02/ukuladypioneer/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:56:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA goes to the crime lab	</title>
-	<atom:link href="https://www.lavatransforms.org/2010/10/25/lava-goes-to-the-crime-lab/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2010/10/25/lava-goes-to-the-crime-lab/</link>
+	<atom:link href="/2010/10/25/lava-goes-to-the-crime-lab/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/10/25/lava-goes-to-the-crime-lab/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 13 Feb 2020 01:15:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

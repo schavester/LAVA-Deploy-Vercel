@@ -9,8 +9,8 @@
 
 <channel>
 	<title>OCTAVIUS &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/author/OCTAVIUS/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/author/OCTAVIUS/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Never Dies the Dream</title>
-		<link>https://www.lavatransforms.org/2010/05/15/never-dies-the-dream/</link>
-					<comments>https://www.lavatransforms.org/2010/05/15/never-dies-the-dream/#respond</comments>
+		<link>/2010/05/15/never-dies-the-dream/</link>
+					<comments>/2010/05/15/never-dies-the-dream/#respond</comments>
 		
 		<dc:creator><![CDATA[OCTAVIUS]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:53 +0000</pubDate>
@@ -32,15 +32,15 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[OCTAVIUS will be performing at the Pacific Design Center in Los Angeles on May 20th as part of visual artist Albert Reyesâ€™ Never Dies the Dream exhibit. Mastodon Mesa invites you to lose yourself in the twists and turns of Albert Reyesâ€™ vast handbuilt maze. Comprised of re-purposed wood discarded on the streets of L.A., [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>OCTAVIUS will be performing at the Pacific Design Center in Los Angeles on May 20th as part of visual artist Albert Reyesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Never Dies the Dream exhibit.</p>
-<p>Mastodon Mesa invites you to lose yourself in the twists and turns of Albert Reyesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> vast handbuilt maze. Comprised of re-purposed wood discarded on the streets of L.A., this stunning installation has been under construction for more than four years, hidden away from the world in Reyesâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> back yardâ€”until now.</p>
+										<content:encoded><![CDATA[<p>OCTAVIUS will be performing at the Pacific Design Center in Los Angeles on May 20th as part of visual artist Albert Reyesâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Never Dies the Dream exhibit.</p>
+<p>Mastodon Mesa invites you to lose yourself in the twists and turns of Albert Reyesâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> vast handbuilt maze. Comprised of re-purposed wood discarded on the streets of L.A., this stunning installation has been under construction for more than four years, hidden away from the world in Reyesâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> back yardâ€”until now.</p>
 <p>Albert Reyes is a Los Angeles-based graphic artist whose hyper-realistic yet dreamlike drawings address themes both personal and political. His canvas has ranged from recycled hardcover book covers to photography and public sidewalks, where his spit drawings drew national media attention. Original illustrations and prints by Reyes will also be on display.</p>
 <div id="themify_builder_content-220" data-postid="220" class="themify_builder_content themify_builder_content-220 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2010/05/15/never-dies-the-dream/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/05/15/never-dies-the-dream/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

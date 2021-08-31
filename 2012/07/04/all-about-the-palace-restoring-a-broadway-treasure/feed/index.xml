@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: All About The Palace: Restoring a Broadway Treasure	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/07/04/all-about-the-palace-restoring-a-broadway-treasure/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/07/04/all-about-the-palace-restoring-a-broadway-treasure/</link>
+	<atom:link href="/2012/07/04/all-about-the-palace-restoring-a-broadway-treasure/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/07/04/all-about-the-palace-restoring-a-broadway-treasure/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

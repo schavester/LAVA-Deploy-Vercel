@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The King Eddy&#8217;s Last Blowout	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/11/26/the-king-eddys-last-blowout/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/11/26/the-king-eddys-last-blowout/</link>
+	<atom:link href="/2012/11/26/the-king-eddys-last-blowout/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/11/26/the-king-eddys-last-blowout/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 02:41:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Maja&#8217;s Mysteries: Rapture &#038; Release	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/01/16/majas-mysteries-rapture-release-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/01/16/majas-mysteries-rapture-release-2/</link>
+	<atom:link href="/2012/01/16/majas-mysteries-rapture-release-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/01/16/majas-mysteries-rapture-release-2/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:59:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

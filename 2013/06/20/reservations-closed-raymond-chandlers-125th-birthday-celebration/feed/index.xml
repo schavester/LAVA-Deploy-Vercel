@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Raymond Chandler&#8217;s 125th Birthday Celebration	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/06/20/reservations-closed-raymond-chandlers-125th-birthday-celebration/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/06/20/reservations-closed-raymond-chandlers-125th-birthday-celebration/</link>
+	<atom:link href="/2013/06/20/reservations-closed-raymond-chandlers-125th-birthday-celebration/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/06/20/reservations-closed-raymond-chandlers-125th-birthday-celebration/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 02:49:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

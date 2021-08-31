@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Deep Identifications: Using National Evidence Databases To Solve Local Crimes	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/09/29/deep-identifications-using-national-evidence-databases-to-solve-local-crimes/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/09/29/deep-identifications-using-national-evidence-databases-to-solve-local-crimes/</link>
+	<atom:link href="/2011/09/29/deep-identifications-using-national-evidence-databases-to-solve-local-crimes/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/09/29/deep-identifications-using-national-evidence-databases-to-solve-local-crimes/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 17:21:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

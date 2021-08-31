@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LAVA Exclusives &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/category/lava-exclusives/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/category/lava-exclusives/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 03:03:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Of Scrap &#038; Steel: free rooftop screening of rare 1949 color film set on Main Street, Downtown L.A.</title>
-		<link>https://www.lavatransforms.org/2015/08/12/of-scrap-steel-free-rooftop-screening-of-rare-1949-color-film-set-on-main-street-downtown-l-a/</link>
-					<comments>https://www.lavatransforms.org/2015/08/12/of-scrap-steel-free-rooftop-screening-of-rare-1949-color-film-set-on-main-street-downtown-l-a/#respond</comments>
+		<link>/2015/08/12/of-scrap-steel-free-rooftop-screening-of-rare-1949-color-film-set-on-main-street-downtown-l-a/</link>
+					<comments>/2015/08/12/of-scrap-steel-free-rooftop-screening-of-rare-1949-color-film-set-on-main-street-downtown-l-a/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -41,19 +41,19 @@
 										<content:encoded><![CDATA[<p>Please use the form on the left to register for this event. No &#8220;Plus Ones.&#8221;</p>
 <p><strong><span class="caps">ABOUT THIS EVENT:</span></strong></p>
 <p><span class="caps">LAVA</span> â€“ The Los Angeles Visionaries Association is pleased to announce a free roof-top screening of a newly-discovered circa 1949 short color film of Main Street and other downtown Los Angeles locations, the Union Rescue Mission-produced <em>Of Scrap &amp; Steel</em>. The screening is in conjunction with a series of downtown stories on the In <span class="caps">SRO</span> Land time travel blog, featuring <a href="https://insroland.org/urm/urmarchiveproject" target="_blank">material</a> from the Union Rescue Mission Archives.</p>
-<p><span class="caps">ABOUT</span> <span class="caps">THE</span> <span class="caps">FILM</span>: In mid-1948 the Board of Directors of the Union Rescue Mission approved the expenditure of $5,000 to make the 30-minute film Of Scrap &amp; Steel which portrays the redemption and good works of Arthur Hawkins, an alcoholic executive who ended up on the streets of Los Angeles and whose life was saved when he turned to the <span class="caps">URM</span> for help. <a href="https://en.wikipedia.org/wiki/Porter_Hall" target="_blank">Porter Hall</a> (Arthur Hawkins) is one of only two actors in a film otherwise populated by real Los Angeles characters. (You may recall Hallâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s performance as the pesky guy on the train in Double Indemnity.)</p>
+<p><span class="caps">ABOUT</span> <span class="caps">THE</span> <span class="caps">FILM</span>: In mid-1948 the Board of Directors of the Union Rescue Mission approved the expenditure of $5,000 to make the 30-minute film Of Scrap &amp; Steel which portrays the redemption and good works of Arthur Hawkins, an alcoholic executive who ended up on the streets of Los Angeles and whose life was saved when he turned to the <span class="caps">URM</span> for help. <a href="https://en.wikipedia.org/wiki/Porter_Hall" target="_blank">Porter Hall</a> (Arthur Hawkins) is one of only two actors in a film otherwise populated by real Los Angeles characters. (You may recall Hallâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s performance as the pesky guy on the train in Double Indemnity.)</p>
 <p><em>Of Scrap &amp; Steel</em> was only shown in screenings organized by the <span class="caps">URM</span> or related organizations, and would have been completely lost if Liz Mooradian, <span class="caps">URM</span> historian, had not saved a deteriorating 16mm print and had it transferred to video before it was too late. <em>Of Scrap &amp; Steel</em> is just one of the remarkable artifacts discovered in the Union Rescue Mission archives and explored in the <a href="https://insroland.org/urm/urmarchiveproject" target="_blank">In <span class="caps">SRO</span> Land blog</a>.</p>
 <p>This entertaining and powerful short film is a compelling snapshot of life on Skid Row (Main Street) circa 1949, and a fascinating document of the important work that the <span class="caps">URM</span> continues to do with the most needy in the community. Although downtown Los Angeles features in numerous noir films, it is extremely rare to see color images of eastern downtown, and rarer still to see full-color live-action footage of the vibrant street scene that included rescue missions, pawn shops, amusement parlors, bars, restaurants and the ever-patrolling paddy wagon in search of drunkards to haul away to jail or County work crews.</p>
 <p>This free rooftop screening is jointly organized by <span class="caps">LAVA</span>â€“The Los Angeles Visionaries Association, the <a href="https://insroland.org/" target="_blank">In <span class="caps">SRO</span> Land</a> time travel blog and the <a href="https://urm.org/" target="_blank">Union Rescue Mission</a>. Attendees are encouraged to dress warmly for the cool night air.&nbsp;<span style="line-height: 1.5em;">Refreshments will be provided compliments of URM.</span></p>
-<p>This screening is held in conjunction with the <a href="https://www.lavatransforms.org/urmwalk5" target="_blank">Skid Row Walking Tour</a>, a separate free event beginning two hours before the screening. Separate registration for each event is required if you wish to attend both the screening and walking tour.</p>
+<p>This screening is held in conjunction with the <a href="/urmwalk5" target="_blank">Skid Row Walking Tour</a>, a separate free event beginning two hours before the screening. Separate registration for each event is required if you wish to attend both the screening and walking tour.</p>
 <p>Nearest Metro station is <a href="https://en.wikipedia.org/wiki/Little_Tokyo/Arts_District_(Los_Angeles_Metro_station)" target="_blank">Little Tokyo</a>.</p>
-<p>Limited free parking is available at the <span class="caps">URM</span>â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s underground parking lot. Just tell the attendant you are there for the film. Please carpool: if each guest arrives with one other person in their car, there should be enough parking for all. Those arriving later will have to leave their keys with the parking attendant.</p>
-<p>In addition, there will be overflow parking in the San Julian parking lot located just behind the <span class="caps">URM</span>, on San Julian Street between 5th &amp; 6th Streets, on the east side of the street, adjacent to <span class="caps">URM</span>. Registered attendees will be able to enter the <span class="caps">URM</span> from the Womenâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s entrance on San Julian. There will be ample staff to direct you from the lot to this entrance.</p>
+<p>Limited free parking is available at the <span class="caps">URM</span>â€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s underground parking lot. Just tell the attendant you are there for the film. Please carpool: if each guest arrives with one other person in their car, there should be enough parking for all. Those arriving later will have to leave their keys with the parking attendant.</p>
+<p>In addition, there will be overflow parking in the San Julian parking lot located just behind the <span class="caps">URM</span>, on San Julian Street between 5th &amp; 6th Streets, on the east side of the street, adjacent to <span class="caps">URM</span>. Registered attendees will be able to enter the <span class="caps">URM</span> from the Womenâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s entrance on San Julian. There will be ample staff to direct you from the lot to this entrance.</p>
 <p>In the event of rain, we will screen the film in the Chapel.</p>
 <p>Schedule</p>
 <p>6pm &#8211; Doors open (reserved guests check in at the main entrance and are sent up to the roof)</p>
 <p>7pm-7.30pm &#8211; Refreshments served compliments of the URM. Guests can watch the sunset (7:45pm)</p>
-<p>7.30pm &#8211;&nbsp;8pm &#8211; Rev. Andy Bales (URM), <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> (<a href="https://www.esotouric.com/" target="_blank">Esotouric</a>) and <a href="https://biola.academia.edu/PaulRood" target="_blank">Prof. Paul Rood</a> (BIOLA) will introduce the film in the context of the neighborhoodâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s history, and their work on the In SRO Land time travel blog, and a brief introduction to the life and legacy of the URMâ€˜s founder, Lyman Stewart.</p>
+<p>7.30pm &#8211;&nbsp;8pm &#8211; Rev. Andy Bales (URM), <a href="https://esotouric.com/portfolio/richardschave/" target="_blank">Richard Schave</a> (<a href="https://www.esotouric.com/" target="_blank">Esotouric</a>) and <a href="https://biola.academia.edu/PaulRood" target="_blank">Prof. Paul Rood</a> (BIOLA) will introduce the film in the context of the neighborhoodâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s history, and their work on the In SRO Land time travel blog, and a brief introduction to the life and legacy of the URMâ€˜s founder, Lyman Stewart.</p>
 <p>8pm &#8211; Film screening</p>
 <p><span style="line-height: 1.5em;">8.30pm &#8211; Q &amp; A&nbsp;</span></p>
 <p>9pm &#8211; Event ends</p>
@@ -64,15 +64,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/08/12/of-scrap-steel-free-rooftop-screening-of-rare-1949-color-film-set-on-main-street-downtown-l-a/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/08/12/of-scrap-steel-free-rooftop-screening-of-rare-1949-color-film-set-on-main-street-downtown-l-a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Union Rescue Mission Walking Tour: 124 years on Skid Row</title>
-		<link>https://www.lavatransforms.org/2015/08/12/union-rescue-mission-walking-tour-124-years-on-skid-row/</link>
-					<comments>https://www.lavatransforms.org/2015/08/12/union-rescue-mission-walking-tour-124-years-on-skid-row/#respond</comments>
+		<link>/2015/08/12/union-rescue-mission-walking-tour-124-years-on-skid-row/</link>
+					<comments>/2015/08/12/union-rescue-mission-walking-tour-124-years-on-skid-row/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -87,14 +87,14 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Please use the form on the left to register for this event. No &#8220;Plus Ones.&#8221; ABOUT THIS EVENT: Please join Richard Schave of Esotouric, Prof. Paul Rood of BIOLAÂ and Rev. Andy Bales of the Union Rescue Mission (URM) for a 90-minute walking tour along the historic paths that have delineated Skid Row in downtown Los [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="755" src="https://www.lavatransforms.org/wp-content/uploads/2015/08/226SMain1930s.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/08/226SMain1930s.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2015/08/226SMain1930s-300x221.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/08/226SMain1930s-1024x755-400x294.jpg 400w, https://www.lavatransforms.org/wp-content/uploads/2015/08/226SMain1930s-1024x755-500x368.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/08/226SMain1930s-1024x755-343x252.jpg 343w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><p>Please use the form on the left to register for this event. No &#8220;Plus Ones.&#8221;</p>
+										<content:encoded><![CDATA[<p><img width="1024" height="755" src="/wp-content/uploads/2015/08/226SMain1930s.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/226SMain1930s.jpg 1024w, /wp-content/uploads/2015/08/226SMain1930s-300x221.jpg 300w, /wp-content/uploads/2015/08/226SMain1930s-1024x755-400x294.jpg 400w, /wp-content/uploads/2015/08/226SMain1930s-1024x755-500x368.jpg 500w, /wp-content/uploads/2015/08/226SMain1930s-1024x755-343x252.jpg 343w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><p>Please use the form on the left to register for this event. No &#8220;Plus Ones.&#8221;</p>
 <p><strong>ABOUT THIS EVENT:</strong></p>
 <p>Please join Richard Schave of <a href="https://esotouric.com/" target="_blank">Esotouric</a>, Prof. <a href="https://biola.academia.edu/PaulRood" target="_blank">Paul Rood</a> of BIOLAÂ and Rev. Andy Bales of the Union Rescue Mission (<a href="https://urm.org/" target="_blank"><span class="caps">URM</span></a>) for a 90-minute walking tour along the historic paths that have delineated Skid Row in downtown Los Angeles.Â This tour derives from the ongoing 1947projectÂ <a href="https://insroland.org/urmposts" target="_blank">In SRO Land</a>Â blog series that uses the archives of the URM (founded 1891) as a tool for exploring the social and architectural history of the forgotten people and places of Downtown Los Angeles.</p>
-<p>The tour begins with a survey of the early history of the outreach by the <span class="caps">URM</span> through its gospel wagon and at two now-lost buildings: the original home at 145 N. Main (now City Hall Lawn) and the long-time location at 226 S. Main (now a parking lot next to the former St. Vibianaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cathedral).</p>
-<p>The main themes will be the evolution of public policy on Skid Row from the private philanthropy of Lyman Stewart to todayâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://www.lahsa.org/continuum_of_care.asp" target="_blank">Continuum of Care</a>, the transformative work of the <span class="caps">URM</span>, and the architectural history of the neighborhood.</p>
-<p>The route will include Main Street between 2nd and 3rd Streets (for a then/now comparison of the surviving and demolished locations featured in the 1949 URM-financed short filmÂ <em>Of Scrap &amp; Steel,Â </em>which will be screened later in the evening in aÂ <a href="https://www.lavatransforms.org/scrapsteel6" target="_blank">free event that requires a separate reservation</a>). At 3rd and San Pedro Streets we will discuss theÂ <a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank">Azusa Street Revival</a>, a transformative event in the spiritual history of Los Angeles and the West. During the walk back to the current home of the URM, Rev. Andy Bales will talk about issues and challenges facing the neighborhood and the URM today.</p>
+<p>The tour begins with a survey of the early history of the outreach by the <span class="caps">URM</span> through its gospel wagon and at two now-lost buildings: the original home at 145 N. Main (now City Hall Lawn) and the long-time location at 226 S. Main (now a parking lot next to the former St. Vibianaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Cathedral).</p>
+<p>The main themes will be the evolution of public policy on Skid Row from the private philanthropy of Lyman Stewart to todayâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <a href="https://www.lahsa.org/continuum_of_care.asp" target="_blank">Continuum of Care</a>, the transformative work of the <span class="caps">URM</span>, and the architectural history of the neighborhood.</p>
+<p>The route will include Main Street between 2nd and 3rd Streets (for a then/now comparison of the surviving and demolished locations featured in the 1949 URM-financed short filmÂ <em>Of Scrap &amp; Steel,Â </em>which will be screened later in the evening in aÂ <a href="/scrapsteel6" target="_blank">free event that requires a separate reservation</a>). At 3rd and San Pedro Streets we will discuss theÂ <a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank">Azusa Street Revival</a>, a transformative event in the spiritual history of Los Angeles and the West. During the walk back to the current home of the URM, Rev. Andy Bales will talk about issues and challenges facing the neighborhood and the URM today.</p>
 <p>The rendezvous point for the tour is the <span class="caps">URM</span>â€˜s headquarters at at 6th and San Pedro Streets. A free shuttle bus will take tour attendees to 2nd and Main Streets, where the walking tour begins. Registration is required, and each attendee must register separately, to ensure sufficient seating on the shuttle bus.</p>
-<p>Parking is available at the URMâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s underground parking lot for registered attendees. Just tell the attendent you are there for the walking tour. If everyone attending arrives with one other person in their car, there should be enough parking for all. Those arriving latter will have to leave their keys with the parking attendent.</p>
+<p>Parking is available at the URMâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s underground parking lot for registered attendees. Just tell the attendent you are there for the walking tour. If everyone attending arrives with one other person in their car, there should be enough parking for all. Those arriving latter will have to leave their keys with the parking attendent.</p>
 <p><strong>Nearest Metro station</strong>Â isÂ <a href="https://en.wikipedia.org/wiki/Little_Tokyo_/_Arts_District_%28Los_Angeles_Metro_station%29" target="_blank">Little Tokyo</a>.</p>
 <p><a title="glassPlate-59" href="https://www.flickr.com/photos/richardschave/5932373269/in/album-72157627058672035/" data-flickr-embed="true"><img loading="lazy" src="https://farm7.staticflickr.com/6015/5932373269_759d0a1f4e_n.jpg" alt="glassPlate-59" width="320" height="236" /></a></p>
 <p><script src="//embedr.flickr.com/assets/client-code.js" type="text/javascript" charset="utf-8"></script></p>
@@ -103,15 +103,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/08/12/union-rescue-mission-walking-tour-124-years-on-skid-row/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/08/12/union-rescue-mission-walking-tour-124-years-on-skid-row/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>V is for Vice: Eight Decades of Sin &#038; Scandal, from the Sunset Strip to Beverly Hills</title>
-		<link>https://www.lavatransforms.org/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/</link>
-					<comments>https://www.lavatransforms.org/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/#respond</comments>
+		<link>/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/</link>
+					<comments>/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/#respond</comments>
 		
 		<dc:creator><![CDATA[Donald Johnson]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -126,30 +126,30 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To buy a ticket for this event click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€™s inquiry into the history and practice of forensic science in Los Angeles, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="640" height="407" src="https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg 640w, https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-300x191.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-500x317.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-343x218.jpg 343w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>To buy a ticket for this event click <a href="https://esotouric.com/crimelaboct2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p>Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</p>
+										<content:encoded><![CDATA[<p><img width="640" height="407" src="/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg 640w, /wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-300x191.jpg 300w, /wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-500x317.jpg 500w, /wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-343x218.jpg 343w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>To buy a ticket for this event click <a href="https://esotouric.com/crimelaboct2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p>Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</p>
 <p>Presentation #1: V is for Vice</p>
-<p>Mike Fratantoni, an <span class="caps">LASD</span> Jailer who sits on the board of the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Museum and is organizing the new exhibition space in the Hall of Justice, makes a return engagement with a fascinating presentation on the unwritten history of vice in West Hollywood and corruption in law enforcement.</p>
-<p>In 1940, West Hollywood madam Lee Francis was arrested on a morals charge, her first. Media coverage of the subsequent trial exposed the thriving trade in sin along the Sunset Strip, and had southland husbands quaking in their socks. But the papers never printed the name of one prostitute arrested in the â€œHouse of Francisâ€ raid: LaVonne Weaver, soon-to-be wife of gang kingpin Mickey Cohen. For decades, mob historians have chased down rumors that â€œdance instructorâ€ Lavonne was actually a â€œworking girl.â€ Wonder no more, as in a <span class="caps">LAVA</span> exclusive, LaVonne Weaverâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mugshot will be unveiled. Lee Francis had a reputation, but madam Brenda Allen was an underworld superstar, as famous for her wardrobe and high-powered social connections as she was for the services available at her hillside brothel. Her 1948 arrest and subsequent Grand Jury investigation revealed deep veins of corruption within the Los Angeles Police Department.</p>
+<p>Mike Fratantoni, an <span class="caps">LASD</span> Jailer who sits on the board of the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Museum and is organizing the new exhibition space in the Hall of Justice, makes a return engagement with a fascinating presentation on the unwritten history of vice in West Hollywood and corruption in law enforcement.</p>
+<p>In 1940, West Hollywood madam Lee Francis was arrested on a morals charge, her first. Media coverage of the subsequent trial exposed the thriving trade in sin along the Sunset Strip, and had southland husbands quaking in their socks. But the papers never printed the name of one prostitute arrested in the â€œHouse of Francisâ€ raid: LaVonne Weaver, soon-to-be wife of gang kingpin Mickey Cohen. For decades, mob historians have chased down rumors that â€œdance instructorâ€ Lavonne was actually a â€œworking girl.â€ Wonder no more, as in a <span class="caps">LAVA</span> exclusive, LaVonne Weaverâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mugshot will be unveiled. Lee Francis had a reputation, but madam Brenda Allen was an underworld superstar, as famous for her wardrobe and high-powered social connections as she was for the services available at her hillside brothel. Her 1948 arrest and subsequent Grand Jury investigation revealed deep veins of corruption within the Los Angeles Police Department.</p>
 <h3>Presentation #2: Beverly Hills Confidential</h3>
 <p>Clark Fogg, the lead forensics investigator at the Beverly Hills Police Department, and investigative journalist Barbara Schroeder share the sensational crimes and scandals of the glamorous city of Beverly Hills, as chronicled in their book â€œBeverly Hills Confidential: A Century of Stars, Scandals and Murders.â€</p>
 <p>Featured topics include:</p>
-<p>The cityâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first blockbuster scandal â€” the Doheny murder mystery at Greystone Mansion â€” New information on who really killed gangster Bugsy Siegel â€” The true story of the death of Lupe Velez, the movie star known as â€œThe Mexican Spitfireâ€ â€” The mysterious execution of publicist-to-the-stars Ronni Chasen</p>
+<p>The cityâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first blockbuster scandal â€” the Doheny murder mystery at Greystone Mansion â€” New information on who really killed gangster Bugsy Siegel â€” The true story of the death of Lupe Velez, the movie star known as â€œThe Mexican Spitfireâ€ â€” The mysterious execution of publicist-to-the-stars Ronni Chasen</p>
 <p>Copies of â€œBeverly Hills Confidentialâ€ will be available for purchase and signing during the event.</p>
 <div id="themify_builder_content-1467" data-postid="1467" class="themify_builder_content themify_builder_content-1467 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bubblegum Music is the Naked Truth</title>
-		<link>https://www.lavatransforms.org/2015/05/29/bubblegum-music-is-the-naked-truth/</link>
-					<comments>https://www.lavatransforms.org/2015/05/29/bubblegum-music-is-the-naked-truth/#respond</comments>
+		<link>/2015/05/29/bubblegum-music-is-the-naked-truth/</link>
+					<comments>/2015/05/29/bubblegum-music-is-the-naked-truth/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -173,15 +173,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/05/29/bubblegum-music-is-the-naked-truth/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/05/29/bubblegum-music-is-the-naked-truth/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Canceled &#8211; LAVA&#8217;s 44th Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/05/27/canceled-lavas-44th-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/05/27/canceled-lavas-44th-sunday-salon/#respond</comments>
+		<link>/2015/05/27/canceled-lavas-44th-sunday-salon/</link>
+					<comments>/2015/05/27/canceled-lavas-44th-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -198,23 +198,23 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: line-through;"><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4:30pm</strong>.</span></p>
 <h3><span style="text-decoration: line-through;">Dead Men Do Tell Tales: Inside the Mind of Professor Donald Johnson</span></h3>
-<p><span style="text-decoration: line-through;">Join us this month as Professor Donald Johnson, Director of the Criminalistics Department at Cal State Los Angeles, shares lighthearted, offbeat and illuminating reminisces of his personal journey from morbid child to journeyman mortician to professional homicide investigator, forensic scientist and educator. From blood spatter evidence to embalming, bone collecting to rappelling down buildings looking for evidence, Professor Johnson always seems to find himself surrounded by the most interesting artifacts of lives interrupted. Share in his adventures, and learn about the shoes he fills at <span class="caps">CSULA</span>â€˜s Criminalistics Department, which was founded by the legendary <span class="caps">LAPD</span> criminalist Ray Pinker in 1965 and which continues to explore new frontiers in forensic science under Dr. Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s enlightened direction.</span></p>
-<p><span style="text-decoration: line-through;">Professor Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Sunday Salon presentation also serves as an introduction to his ongoing series of <span class="caps">LAVA</span> forensic science seminars in his teaching lab at Cal State Los Angeles, including the upcoming <em><a href="https://www.lavatransforms.org/crimelabaug2015" target="_blank">Serial Killer Summer Session: The Night Stalker &amp; The 60 Freeway Slayer</a></em> on August 16. Purchase your ticket for the program now and help support new research into the science of crime detection.</span></p>
+<p><span style="text-decoration: line-through;">Join us this month as Professor Donald Johnson, Director of the Criminalistics Department at Cal State Los Angeles, shares lighthearted, offbeat and illuminating reminisces of his personal journey from morbid child to journeyman mortician to professional homicide investigator, forensic scientist and educator. From blood spatter evidence to embalming, bone collecting to rappelling down buildings looking for evidence, Professor Johnson always seems to find himself surrounded by the most interesting artifacts of lives interrupted. Share in his adventures, and learn about the shoes he fills at <span class="caps">CSULA</span>â€˜s Criminalistics Department, which was founded by the legendary <span class="caps">LAPD</span> criminalist Ray Pinker in 1965 and which continues to explore new frontiers in forensic science under Dr. Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s enlightened direction.</span></p>
+<p><span style="text-decoration: line-through;">Professor Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Sunday Salon presentation also serves as an introduction to his ongoing series of <span class="caps">LAVA</span> forensic science seminars in his teaching lab at Cal State Los Angeles, including the upcoming <em><a href="/crimelabaug2015" target="_blank">Serial Killer Summer Session: The Night Stalker &amp; The 60 Freeway Slayer</a></em> on August 16. Purchase your ticket for the program now and help support new research into the science of crime detection.</span></p>
 <p><img loading="lazy" src="https://www.trbimg.com/img-51f47a14/turbine/la-1441957-me-0604-criminalists5-ac-jpg-20130727/600/600x400" alt="Prof. Don Johnson, director of Criminalistics Department, CSULA" height="200" width="300" /></p>
 <div id="themify_builder_content-1452" data-postid="1452" class="themify_builder_content themify_builder_content-1452 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/05/27/canceled-lavas-44th-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/05/27/canceled-lavas-44th-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LAVA&#8217;s 43rd Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/#respond</comments>
+		<link>/2015/04/06/lavas-43rd-sunday-salon/</link>
+					<comments>/2015/04/06/lavas-43rd-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -233,12 +233,12 @@
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4:30pm</strong>.</p>
 <h3>The Photography of Kristin Bedford: Race, History &amp; the Divine</h3>
 <p>Los Angeles-based photographer Kristin Bedford will be presenting her series of photographs about the legacy of the African-American religious leader Father Divine. The body of work delves into issues of race, American religious history, and the mystery of enduring faith.</p>
-<p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p>
+<p>Father Divine, known to his followers as God, once had tens of thousands of devotees in 1930s Harlem. To the outside world Father Divine died in 1965, but for his followers he â€œlay his body downâ€ and is still with them as he always has been. Now in their seventies, eighties, and nineties, eighteen of the remaining celibate followers live with Mother Divine at Fatherâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s estate outside of Philadelphia. In 2013, Kristin Bedford spent five weeks living with and photographing this community.</p>
 <p>The followers, who call themselves â€œThe International Peace Mission Movement,â€ are living a way of life and performing rituals created over eighty years ago by their God. With the lack of new followers, their movement is likely in its final chapter. Bedford had the chance to experience and photograph their traditions before they fade away.</p>
-<p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p>
+<p>The Father Divine presentation will be followed by an exclusive sneak peek of Bedfordâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s current photography project.</p>
 <h4>Biography</h4>
 <p>Kristin Bedford is a Los Angeles-based photographer who focuses on long-term visual studies of where we live â€“ the streets we walk down, the places we worship in, the homes we create, and the spaces between them all. Her subjects have included religious movements, street culture in numerous urban centers, and the modern day legacy of historic African-American communities.</p>
-<p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p>
+<p><a href="https://www.kristinbedford.com/" target="_blank">Kristinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s website</a></p>
 <p><a href="https://lens.blogs.nytimes.com/2014/12/29/philadelphia-city-of-father-divine/" target="_blank">NY Times <span class="caps">LENS</span> Review</a></p>
 <p><img title="Father's Estate, 'The Mountain of the House of the Lord'" src="https://gdurl.com/zlSj" alt="" width="80%" /></p>
 <div id="themify_builder_content-1436" data-postid="1436" class="themify_builder_content themify_builder_content-1436 themify_builder">
@@ -246,15 +246,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/04/06/lavas-43rd-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/04/06/lavas-43rd-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sold out! Serial Killer Summer Session: The Night Stalker &#038; The 60 Freeway Slayer</title>
-		<link>https://www.lavatransforms.org/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/</link>
-					<comments>https://www.lavatransforms.org/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/#respond</comments>
+		<link>/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/</link>
+					<comments>/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -268,29 +268,29 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[This event is sold out. If you&#8217;d like to know more about the event, or to get on the waiting list, click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>This event is sold out. If you&#8217;d like to know more about the event, or to get on the waiting list, click <a href="https://esotouric.com/crimelabaug2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
+										<content:encoded><![CDATA[<p>This event is sold out. If you&#8217;d like to know more about the event, or to get on the waiting list, click <a href="https://esotouric.com/crimelabaug2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
 <p><strong>Presentation #1</strong>: Stalking The Night Stalker</p>
 <p>Almost exactly thirty years ago, Richard Ramirez was captured by a mob of enraged East Los Angeles community members, ending the reign of terror of the self-proclaimed Night Stalker, who laid siege to the city through a series of vicious home invasion attacks in the spring and summer of 1985.</p>
-<p>Giselle Lavigne is a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department who worked on analyzing the physical evidence used for Richard Ramirezâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> murder trial. She will present in great detail on the full complement of forensic evidence that was gathered, revealing the actions of the killer through the trace, blood and other evidence he left behind.</p>
+<p>Giselle Lavigne is a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department who worked on analyzing the physical evidence used for Richard Ramirezâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> murder trial. She will present in great detail on the full complement of forensic evidence that was gathered, revealing the actions of the killer through the trace, blood and other evidence he left behind.</p>
 <p><strong>Presentation #2</strong>: The 60 Freeway Slayer</p>
 <p>Professor Donald Johnson, our host and the Director of the Criminalistics Department, will present on six murders of prostitutes in 1993-94, which were initially attributed to an unknown â€œ60 Freeway Slayer.â€</p>
-<p>When Professor Johnson was a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department, he investigated the murders, and gathered the evidence which, almost a decade later with the introduction of <span class="caps">DNA</span> evidence into the courtroom, would result in the conviction and death sentence of the â€œ60 Freeway Slayer,â€ who <span class="caps">DNA</span> evidence showed to be incarcerated felon Ivan Hill. The case is a pivotal example of the remarkable impact that new forensic technology has in the courtroom and the lab.</p>
-<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the evolving toolkit used to gather and interpret physical evidence for the benefit of investigating officers and juries, from the 1980s to the present.</p>
+<p>When Professor Johnson was a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department, he investigated the murders, and gathered the evidence which, almost a decade later with the introduction of <span class="caps">DNA</span> evidence into the courtroom, would result in the conviction and death sentence of the â€œ60 Freeway Slayer,â€ who <span class="caps">DNA</span> evidence showed to be incarcerated felon Ivan Hill. The case is a pivotal example of the remarkable impact that new forensic technology has in the courtroom and the lab.</p>
+<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the evolving toolkit used to gather and interpret physical evidence for the benefit of investigating officers and juries, from the 1980s to the present.</p>
 <div id="themify_builder_content-1425" data-postid="1425" class="themify_builder_content themify_builder_content-1425 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LAVA&#8217;s 42nd Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/02/18/lavas-42nd-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/02/18/lavas-42nd-sunday-salon/#respond</comments>
+		<link>/2015/02/18/lavas-42nd-sunday-salon/</link>
+					<comments>/2015/02/18/lavas-42nd-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -308,23 +308,23 @@
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4pm</strong>.</p>
 <p>Join poet and memoirist Joan Jobe Smith for an afternoon of poetry &amp; storytelling at the <span class="caps">LAVA</span> Sunday Salon. The newly published <em><a href="https://astore.amazon.com/bubble1-20/detail/1502898284" target="_blank">Tales of An Ancient Go-Go Girl</a></em> by long-time Long Beach, California resident Joan Jobe Smith, is a picaresque True Tale, a 50-year Glotessey spanning the 1965 Los Angeles Watts Riots, near death at the hands of a homicidal ex-husband, the counter-culture go-go swinging let-it-all-hang-out 1960s-â€˜70s, single Motherhood and Feminism. Rarely does a natural poet and historian such as Joan Jobe Smith endure such ordeals and challenges and survive to tell the tale. It is a Tale written with go-going panache and patois, and heart, courage and humor to make our lives richer and wiser. The event will be a series of short Q&amp;As with LAVA&#8217;s Richard Schave on milestones from the memoir, punctuated by Joan reading poetry selections which span her career.</p>
 <p>Excerpts from 5-Star Reviews of <em><a href="https://astore.amazon.com/bubble1-20/detail/1502898284" target="_blank">Tales of An Ancient Go-Go Girl</a></em>:</p>
-<p>â€œCharles Bukowski said the inimitable Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s writing â€˜has the reality of force properly put down on paper; she cuts herself loose into the stratosphere.â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Joanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s heart is so damned big. Sheâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not only cut herself loose into the stratosphere, she takes anyone who wants to go with her along for the ride. And now we have this raw-edged, honest, beauty of a bookâ€¦â€ â€”L. Jakiela, Creative Writing Professor, University of Pittsburgh</p>
-<p>â€œVividly conjures up the dark shadows and wisecracks of a Film Noir, set in 1960s-â€˜70s L.A., with a cast of glamourous yet vulnerable dancers, slimy bosses, wharf rats (both rodents, ex-husband and customers) with walk-ons by celebrities (Dick Dale, Ike and Tina Turner) amongst the burgeoning pop music and drug counter-culture of the era. Energized by Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s poetic eye and exuberant syntax, these true Tales will enthrall readers, revealing its author as a brilliant chronicler of her Noir-ish life and times.â€œâ€”Jules Smith, Londonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em>Times Literary Supplement</em></p>
-<p>â€œI just finished reading Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em><span class="caps">Tales of An Ancient Go-Go Girl</span>.</em> She has such a descriptive, poetic talent for words as she weaves her true life tales of love, jealousy, near murder and trials. Bukowski advised her to write about her go-go girl years. I admire her ability to bring scenes from the &#8217;60s and &#8217;70s so vividly to life.â€&#8211;Linda King</p>
+<p>â€œCharles Bukowski said the inimitable Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s writing â€˜has the reality of force properly put down on paper; she cuts herself loose into the stratosphere.â€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Joanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s heart is so damned big. Sheâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s not only cut herself loose into the stratosphere, she takes anyone who wants to go with her along for the ride. And now we have this raw-edged, honest, beauty of a bookâ€¦â€ â€”L. Jakiela, Creative Writing Professor, University of Pittsburgh</p>
+<p>â€œVividly conjures up the dark shadows and wisecracks of a Film Noir, set in 1960s-â€˜70s L.A., with a cast of glamourous yet vulnerable dancers, slimy bosses, wharf rats (both rodents, ex-husband and customers) with walk-ons by celebrities (Dick Dale, Ike and Tina Turner) amongst the burgeoning pop music and drug counter-culture of the era. Energized by Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s poetic eye and exuberant syntax, these true Tales will enthrall readers, revealing its author as a brilliant chronicler of her Noir-ish life and times.â€œâ€”Jules Smith, Londonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em>Times Literary Supplement</em></p>
+<p>â€œI just finished reading Joan Jobe Smithâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s <em><span class="caps">Tales of An Ancient Go-Go Girl</span>.</em> She has such a descriptive, poetic talent for words as she weaves her true life tales of love, jealousy, near murder and trials. Bukowski advised her to write about her go-go girl years. I admire her ability to bring scenes from the &#8217;60s and &#8217;70s so vividly to life.â€&#8211;Linda King</p>
 <div id="themify_builder_content-1419" data-postid="1419" class="themify_builder_content themify_builder_content-1419 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/02/18/lavas-42nd-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/02/18/lavas-42nd-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LAVA&#8217;s 41st Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/#respond</comments>
+		<link>/2015/01/29/lavas-41st-sunday-salon/</link>
+					<comments>/2015/01/29/lavas-41st-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -339,24 +339,24 @@
 
 					<description><![CDATA[Please note that, due to limited room capacity, attendees must register to attend the LAVA Sunday Salon. To sign up for this free event: First register as a user on this site, or login to your existing account and then return to this page. Refresh the page and the signup field will appear just to [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4pm</strong>.</p>
-<p>Architectural Historian <a href="https://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="https://www.lavatransforms.org/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,&nbsp;presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p>
+<p>Architectural Historian <a href="https://www.insroland.org/user/653" target="_blank">Nathan Marsak</a>, the <a href="/lavavisionary2015" target="_blank">LAVA Visionary of the Year for 2015</a>,&nbsp;presents on the forgotten architectural landscape of nineteenth-century Los Angelesâ€”a lost world whose most salient impulse was toward the imposing, rough-hewn blocks of the Romanesque.</p>
 <p>The common narrative regarding the visual development of early Los Angeles usually involves the native vernacular of the pueblo, which one may still visit in any number of extant adobes; from there, following some historic boom times, we Angelenos and visitors alike are regaled by the wondrous Beaux-Arts high-rises of downtown. If pure Victorian architecture is considered, one likely turns attention to the Eastlake and Queen Anne examples along Carroll Avenue, or to the used-car lot of gingerbread, Heritage Square.</p>
-<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
-<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
+<p>This does a disservice, asserts Marsak, to the wonderland of Richardsonian Romanesque, Romanesque Revival, and Romanesque-hybrid office blocks and civic structures that once defined our city. A confluence of money and local pride, primarily in the late-1880s, resulted in what was arguably Americaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s greatest center of the style, short-lived though it may have been. The ethos of the City Beautiful movement, skyscraper construction, and other factors contributed to its demise.</p>
+<p>It is especially striking that these structures, whose construction exuded solidity and permanence, should have been removed on so great a scale. Besides illuminating twenty of the most notable lost masterpieces, Marsakâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s lecture will visit those few remaining examples of the style. Attention will be given as well to the styles that fought for dominance in defining Victorian Los Angeles, e.g., French Empire.</p>
 <div id="themify_builder_content-1405" data-postid="1405" class="themify_builder_content themify_builder_content-1405 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/01/29/lavas-41st-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/01/29/lavas-41st-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hot Lead and Hot Leads: Forensic Firearm / Gang Communication Analysis forensic science seminar</title>
-		<link>https://www.lavatransforms.org/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/</link>
-					<comments>https://www.lavatransforms.org/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/#respond</comments>
+		<link>/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/</link>
+					<comments>/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/#respond</comments>
 		
 		<dc:creator><![CDATA[Donald Johnson]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -371,10 +371,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To purchase a ticket for this special event, click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€™s inquiry into the history and practice of forensic science in Los [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="960" height="540" src="https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg 960w, https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-300x169.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-500x281.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-343x192.jpg 343w" sizes="(max-width: 960px) 100vw, 960px" /></p><p>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabmarch2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
+										<content:encoded><![CDATA[<p><img width="960" height="540" src="/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg 960w, /wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-300x169.jpg 300w, /wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-500x281.jpg 500w, /wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-343x192.jpg 343w" sizes="(max-width: 960px) 100vw, 960px" /></p><p>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabmarch2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
 <p>Presentation #1:&nbsp;<em>The Secrets of Forensic Firearm Analysis</em> with Forensic Firearm and Toolmark Examiner Michael I. Kelley</p>
-<p>For our first talk, join Michael I. Kelley, who works with the Los Angeles Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department as a trainer in the Firearm Identification unit, and who previously presented on his crime scene reconstruction of Pat Tillmanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s death in Afghanistan, for an in-depth presentation on law enforcement techniques for analyzing projectiles and weapons from criminal investigations.</p>
+<p>For our first talk, join Michael I. Kelley, who works with the Los Angeles Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department as a trainer in the Firearm Identification unit, and who previously presented on his crime scene reconstruction of Pat Tillmanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s death in Afghanistan, for an in-depth presentation on law enforcement techniques for analyzing projectiles and weapons from criminal investigations.</p>
 <p>In this introduction to the science of forensic firearm analysis, illustrated with real crime scene photographs and casework, Mike will cover:</p>
 <ul>
 <li>Examination of ammunition.</li>
@@ -386,14 +386,14 @@
 <li>Toolmark identification</li>
 </ul>
 <p>Presentation #2: <em>Murder Behind Bars</em> with LASD Team Leader and educator Nick Guskos</p>
-<p>For our second talk, join <span class="caps">LASD</span> Team Leader and educator Nick Guskos, co-author of the 2013 textbook <a href="https://astore.amazon.com/bubble1-20/detail/0135057493" target="_blank">Criminal Investigation: An Illustrated Case Study Approach</a>, for an insightful presentation inside the hidden world of gang communication. Nick takes us deep within the investigation into a case of a murder which occurred inside the walls of the Los Angeles County Jail. Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll follow along as the case unfolds and is eventually solved through intelligence gathering. Intelligence gathering is the key to understanding all complex criminal organizations, including terrorism. This latter area is the topic of Nickâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s doctoral dissertation, and will be covered at the conclusion of his talk.</p>
-<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the real work thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s done in the field by forensic investigators, and the tools and techniques used to interpret physical evidence and analyze intelligence for the benefit of investigating officers and juries.</p>
+<p>For our second talk, join <span class="caps">LASD</span> Team Leader and educator Nick Guskos, co-author of the 2013 textbook <a href="https://astore.amazon.com/bubble1-20/detail/0135057493" target="_blank">Criminal Investigation: An Illustrated Case Study Approach</a>, for an insightful presentation inside the hidden world of gang communication. Nick takes us deep within the investigation into a case of a murder which occurred inside the walls of the Los Angeles County Jail. Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll follow along as the case unfolds and is eventually solved through intelligence gathering. Intelligence gathering is the key to understanding all complex criminal organizations, including terrorism. This latter area is the topic of Nickâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s doctoral dissertation, and will be covered at the conclusion of his talk.</p>
+<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the real work thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s done in the field by forensic investigators, and the tools and techniques used to interpret physical evidence and analyze intelligence for the benefit of investigating officers and juries.</p>
 <div id="themify_builder_content-1400" data-postid="1400" class="themify_builder_content themify_builder_content-1400 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

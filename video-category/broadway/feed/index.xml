@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Broadway &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/video-category/broadway/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/video-category/broadway/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 13 Feb 2020 06:37:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,17 +18,17 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Crossing the L.A. River on the Sixth Street Bridge</title>
-		<link>https://www.lavatransforms.org/video/sixth-street-bridge-good-bye/</link>
+		<link>/video/sixth-street-bridge-good-bye/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Sat, 24 Oct 2015 22:28:41 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/video/lava-broadway-on-my-mind-walking-tour-2-august-25-2013-copy/</guid>
+				<guid isPermaLink="false">/video/lava-broadway-on-my-mind-walking-tour-2-august-25-2013-copy/</guid>
 
 					<description><![CDATA[A drive over the Sixth Street bridge from Downtown into Boyle Heights at dusk in the final weeks of the bridge&#8217;s existence. A long good-bye. Youtube Channel link for Drive Over Sixth Street Bridge]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="745" src="https://www.lavatransforms.org/wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f-300x218.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f-1024x745-400x291.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4781" data-postid="4781" class="themify_builder_content themify_builder_content-4781 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1024" height="745" src="/wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f.jpg 1024w, /wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f-300x218.jpg 300w, /wp-content/uploads/2015/10/F-3991-6th-Street-Viaduct-view-of-river-spans-looking-North-f-1024x745-400x291.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4781" data-postid="4781" class="themify_builder_content themify_builder_content-4781 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_4781_row module_row_4781-0 tb_lavy030">
 	    	    <div class="row_inner col_align_top" >
@@ -134,56 +134,56 @@
 			</item>
 		<item>
 		<title>Bradbury Building Elevator Down</title>
-		<link>https://www.lavatransforms.org/video/bradbury-building-elevator-down/</link>
-					<comments>https://www.lavatransforms.org/video/bradbury-building-elevator-down/#respond</comments>
+		<link>/video/bradbury-building-elevator-down/</link>
+					<comments>/video/bradbury-building-elevator-down/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Tue, 22 Sep 2015 19:35:11 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4343</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=4343</guid>
 
 					<description><![CDATA[URL for Youtube video goes here.]]></description>
-										<content:encoded><![CDATA[<p><img width="640" height="429" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/iraYellinBradbury1.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/iraYellinBradbury1.jpg 640w, https://www.lavatransforms.org/wp-content/uploads/2015/09/iraYellinBradbury1-300x201.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>URL for Youtube video goes <a href="https://www.youtube.com/watch?v=c_T6dees0rw">here</a>.</p>
+										<content:encoded><![CDATA[<p><img width="640" height="429" src="/wp-content/uploads/2015/09/iraYellinBradbury1.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/iraYellinBradbury1.jpg 640w, /wp-content/uploads/2015/09/iraYellinBradbury1-300x201.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>URL for Youtube video goes <a href="https://www.youtube.com/watch?v=c_T6dees0rw">here</a>.</p>
 <div id="themify_builder_content-4343" data-postid="4343" class="themify_builder_content themify_builder_content-4343 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/video/bradbury-building-elevator-down/feed/</wfw:commentRss>
+					<wfw:commentRss>/video/bradbury-building-elevator-down/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LAVA visits Ernest Batchelder&#8217;s Dutch Chocolate Shoppe</title>
-		<link>https://www.lavatransforms.org/video/dutchchocolateshoppe/</link>
-					<comments>https://www.lavatransforms.org/video/dutchchocolateshoppe/#respond</comments>
+		<link>/video/dutchchocolateshoppe/</link>
+					<comments>/video/dutchchocolateshoppe/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Tue, 22 Sep 2015 18:50:16 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4336</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=4336</guid>
 
 					<description><![CDATA[To watch this video onÂ YouTube, clickÂ here.]]></description>
-										<content:encoded><![CDATA[<p><img width="640" height="484" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/orig.-Chocolate-Shop-2-Kidney.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/orig.-Chocolate-Shop-2-Kidney.jpg 640w, https://www.lavatransforms.org/wp-content/uploads/2015/09/orig.-Chocolate-Shop-2-Kidney-300x227.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>To watch this video onÂ YouTube, clickÂ <a href="https://www.youtube.com/watch?v=A1I8Gewd-UA">here</a>.</p>
+										<content:encoded><![CDATA[<p><img width="640" height="484" src="/wp-content/uploads/2015/09/orig.-Chocolate-Shop-2-Kidney.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/orig.-Chocolate-Shop-2-Kidney.jpg 640w, /wp-content/uploads/2015/09/orig.-Chocolate-Shop-2-Kidney-300x227.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>To watch this video onÂ YouTube, clickÂ <a href="https://www.youtube.com/watch?v=A1I8Gewd-UA">here</a>.</p>
 <div id="themify_builder_content-4336" data-postid="4336" class="themify_builder_content themify_builder_content-4336 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/video/dutchchocolateshoppe/feed/</wfw:commentRss>
+					<wfw:commentRss>/video/dutchchocolateshoppe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Clifton&#8217;s Unveiling</title>
-		<link>https://www.lavatransforms.org/video/cliftons-unveiling/</link>
+		<link>/video/cliftons-unveiling/</link>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 08 Feb 2012 18:22:14 +0000</pubDate>
-				<guid isPermaLink="false">https://www.lavatransforms.org/?post_type=video&#038;p=4380</guid>
+				<guid isPermaLink="false">/?post_type=video&#038;p=4380</guid>
 
 					<description><![CDATA[On the evening of February 7, 2012, the "modern" metal grate that was applied to the historic 1935 facade of Clifton's Cafeteria circa 1962 was removed in advance of the next day's press conference about plans for the building's restoration. This video shows stills of the removal process, and the unveiling itself.]]></description>
-										<content:encoded><![CDATA[<p><img width="1024" height="768" src="https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05.jpg 1024w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05-300x225.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-500x375.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-847x635.jpg 847w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-400x300.jpg 400w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-360x270.jpg 360w, https://www.lavatransforms.org/wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-1160x870.jpg 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4380" data-postid="4380" class="themify_builder_content themify_builder_content-4380 themify_builder">
+										<content:encoded><![CDATA[<p><img width="1024" height="768" src="/wp-content/uploads/2015/09/Cliftons_Cafeteria-05.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/Cliftons_Cafeteria-05.jpg 1024w, /wp-content/uploads/2015/09/Cliftons_Cafeteria-05-300x225.jpg 300w, /wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-500x375.jpg 500w, /wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-847x635.jpg 847w, /wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-400x300.jpg 400w, /wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-360x270.jpg 360w, /wp-content/uploads/2015/09/Cliftons_Cafeteria-05-1024x768-1160x870.jpg 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /></p><div id="themify_builder_content-4380" data-postid="4380" class="themify_builder_content themify_builder_content-4380 themify_builder">
     	<!-- module_row -->
 	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_4380_row module_row_4380-0 tb_9il5080">
 	    	    <div class="row_inner col_align_top" >
@@ -240,7 +240,7 @@
 		        <!-- module box -->
     <div  class="module module-box tb_dz55111  ">
 	                <div class="module-box-content ui rounded gradient embossed shadow tb_default_color ">
-	    <div class="tb_text_wrap"><h3>Youtube Channel Link for this post:</h3><h4><a href="https://www.youtube.com/watch?v=SZPGozrmeW8">Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Unveiling</a></h4></div>
+	    <div class="tb_text_wrap"><h3>Youtube Channel Link for this post:</h3><h4><a href="https://www.youtube.com/watch?v=SZPGozrmeW8">Cliftonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Unveiling</a></h4></div>
         </div>
     </div>
     <!-- /module box -->

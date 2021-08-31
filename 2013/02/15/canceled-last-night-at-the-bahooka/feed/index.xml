@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: CANCELED &#8212; Last Night at The Bahooka	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/02/15/canceled-last-night-at-the-bahooka/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/02/15/canceled-last-night-at-the-bahooka/</link>
+	<atom:link href="/2013/02/15/canceled-last-night-at-the-bahooka/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/02/15/canceled-last-night-at-the-bahooka/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

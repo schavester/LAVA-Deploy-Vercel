@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Paul Nugent of The Aetherius Society at the LAVA Sunday Salon, August 2013	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/09/22/paul-nugent-of-the-aetherius-society-at-the-lava-sunday-salon-august-2013/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/09/22/paul-nugent-of-the-aetherius-society-at-the-lava-sunday-salon-august-2013/</link>
+	<atom:link href="/2013/09/22/paul-nugent-of-the-aetherius-society-at-the-lava-sunday-salon-august-2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/09/22/paul-nugent-of-the-aetherius-society-at-the-lava-sunday-salon-august-2013/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:55:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

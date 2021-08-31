@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Technology &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/category/technology/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 17:32:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>V is for Vice: Eight Decades of Sin &#038; Scandal, from the Sunset Strip to Beverly Hills</title>
-		<link>https://www.lavatransforms.org/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/</link>
-					<comments>https://www.lavatransforms.org/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/#respond</comments>
+		<link>/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/</link>
+					<comments>/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/#respond</comments>
 		
 		<dc:creator><![CDATA[Donald Johnson]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -37,30 +37,30 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To buy a ticket for this event click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€™s inquiry into the history and practice of forensic science in Los Angeles, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="640" height="407" src="https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg 640w, https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-300x191.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-500x317.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-343x218.jpg 343w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>To buy a ticket for this event click <a href="https://esotouric.com/crimelaboct2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p>Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</p>
+										<content:encoded><![CDATA[<p><img width="640" height="407" src="/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist.jpg 640w, /wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-300x191.jpg 300w, /wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-500x317.jpg 500w, /wp-content/uploads/2015/08/the-Cohen-gang.-From-left-to-right-Mike-Howard-Mickey-Cohen-Sol-Davis-and-James-Rist-343x218.jpg 343w" sizes="(max-width: 640px) 100vw, 640px" /></p><p>To buy a ticket for this event click <a href="https://esotouric.com/crimelaboct2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p>Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</p>
 <p>Presentation #1: V is for Vice</p>
-<p>Mike Fratantoni, an <span class="caps">LASD</span> Jailer who sits on the board of the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Museum and is organizing the new exhibition space in the Hall of Justice, makes a return engagement with a fascinating presentation on the unwritten history of vice in West Hollywood and corruption in law enforcement.</p>
-<p>In 1940, West Hollywood madam Lee Francis was arrested on a morals charge, her first. Media coverage of the subsequent trial exposed the thriving trade in sin along the Sunset Strip, and had southland husbands quaking in their socks. But the papers never printed the name of one prostitute arrested in the â€œHouse of Francisâ€ raid: LaVonne Weaver, soon-to-be wife of gang kingpin Mickey Cohen. For decades, mob historians have chased down rumors that â€œdance instructorâ€ Lavonne was actually a â€œworking girl.â€ Wonder no more, as in a <span class="caps">LAVA</span> exclusive, LaVonne Weaverâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mugshot will be unveiled. Lee Francis had a reputation, but madam Brenda Allen was an underworld superstar, as famous for her wardrobe and high-powered social connections as she was for the services available at her hillside brothel. Her 1948 arrest and subsequent Grand Jury investigation revealed deep veins of corruption within the Los Angeles Police Department.</p>
+<p>Mike Fratantoni, an <span class="caps">LASD</span> Jailer who sits on the board of the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Museum and is organizing the new exhibition space in the Hall of Justice, makes a return engagement with a fascinating presentation on the unwritten history of vice in West Hollywood and corruption in law enforcement.</p>
+<p>In 1940, West Hollywood madam Lee Francis was arrested on a morals charge, her first. Media coverage of the subsequent trial exposed the thriving trade in sin along the Sunset Strip, and had southland husbands quaking in their socks. But the papers never printed the name of one prostitute arrested in the â€œHouse of Francisâ€ raid: LaVonne Weaver, soon-to-be wife of gang kingpin Mickey Cohen. For decades, mob historians have chased down rumors that â€œdance instructorâ€ Lavonne was actually a â€œworking girl.â€ Wonder no more, as in a <span class="caps">LAVA</span> exclusive, LaVonne Weaverâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mugshot will be unveiled. Lee Francis had a reputation, but madam Brenda Allen was an underworld superstar, as famous for her wardrobe and high-powered social connections as she was for the services available at her hillside brothel. Her 1948 arrest and subsequent Grand Jury investigation revealed deep veins of corruption within the Los Angeles Police Department.</p>
 <h3>Presentation #2: Beverly Hills Confidential</h3>
 <p>Clark Fogg, the lead forensics investigator at the Beverly Hills Police Department, and investigative journalist Barbara Schroeder share the sensational crimes and scandals of the glamorous city of Beverly Hills, as chronicled in their book â€œBeverly Hills Confidential: A Century of Stars, Scandals and Murders.â€</p>
 <p>Featured topics include:</p>
-<p>The cityâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first blockbuster scandal â€” the Doheny murder mystery at Greystone Mansion â€” New information on who really killed gangster Bugsy Siegel â€” The true story of the death of Lupe Velez, the movie star known as â€œThe Mexican Spitfireâ€ â€” The mysterious execution of publicist-to-the-stars Ronni Chasen</p>
+<p>The cityâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first blockbuster scandal â€” the Doheny murder mystery at Greystone Mansion â€” New information on who really killed gangster Bugsy Siegel â€” The true story of the death of Lupe Velez, the movie star known as â€œThe Mexican Spitfireâ€ â€” The mysterious execution of publicist-to-the-stars Ronni Chasen</p>
 <p>Copies of â€œBeverly Hills Confidentialâ€ will be available for purchase and signing during the event.</p>
 <div id="themify_builder_content-1467" data-postid="1467" class="themify_builder_content themify_builder_content-1467 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/08/06/v-is-for-vice-eight-decades-of-sin-scandal-from-the-sunset-strip-to-beverly-hills/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Canceled &#8211; LAVA&#8217;s 44th Sunday Salon</title>
-		<link>https://www.lavatransforms.org/2015/05/27/canceled-lavas-44th-sunday-salon/</link>
-					<comments>https://www.lavatransforms.org/2015/05/27/canceled-lavas-44th-sunday-salon/#respond</comments>
+		<link>/2015/05/27/canceled-lavas-44th-sunday-salon/</link>
+					<comments>/2015/05/27/canceled-lavas-44th-sunday-salon/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -77,23 +77,23 @@
 <p>&nbsp;</p>
 <p><span style="text-decoration: line-through;"><strong>Please note that, due to limited room capacity, attendees must register to attend the <span class="caps">LAVA</span> Sunday Salon</strong>. To sign up for this free event: First <a href="user/register">register</a> as a user on this site, or <a href="user/login">login</a> to your existing account and then return to this page. Refresh the page and the signup field will appear just to the left of this text. Enter your email address. No plus-ones; each guest must register individually. If you find you are unable to attend, please return to this page and cancel your reservation. <strong>Also, note that the Sunday Salon has a new time slot: 2-4:30pm</strong>.</span></p>
 <h3><span style="text-decoration: line-through;">Dead Men Do Tell Tales: Inside the Mind of Professor Donald Johnson</span></h3>
-<p><span style="text-decoration: line-through;">Join us this month as Professor Donald Johnson, Director of the Criminalistics Department at Cal State Los Angeles, shares lighthearted, offbeat and illuminating reminisces of his personal journey from morbid child to journeyman mortician to professional homicide investigator, forensic scientist and educator. From blood spatter evidence to embalming, bone collecting to rappelling down buildings looking for evidence, Professor Johnson always seems to find himself surrounded by the most interesting artifacts of lives interrupted. Share in his adventures, and learn about the shoes he fills at <span class="caps">CSULA</span>â€˜s Criminalistics Department, which was founded by the legendary <span class="caps">LAPD</span> criminalist Ray Pinker in 1965 and which continues to explore new frontiers in forensic science under Dr. Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s enlightened direction.</span></p>
-<p><span style="text-decoration: line-through;">Professor Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Sunday Salon presentation also serves as an introduction to his ongoing series of <span class="caps">LAVA</span> forensic science seminars in his teaching lab at Cal State Los Angeles, including the upcoming <em><a href="https://www.lavatransforms.org/crimelabaug2015" target="_blank">Serial Killer Summer Session: The Night Stalker &amp; The 60 Freeway Slayer</a></em> on August 16. Purchase your ticket for the program now and help support new research into the science of crime detection.</span></p>
+<p><span style="text-decoration: line-through;">Join us this month as Professor Donald Johnson, Director of the Criminalistics Department at Cal State Los Angeles, shares lighthearted, offbeat and illuminating reminisces of his personal journey from morbid child to journeyman mortician to professional homicide investigator, forensic scientist and educator. From blood spatter evidence to embalming, bone collecting to rappelling down buildings looking for evidence, Professor Johnson always seems to find himself surrounded by the most interesting artifacts of lives interrupted. Share in his adventures, and learn about the shoes he fills at <span class="caps">CSULA</span>â€˜s Criminalistics Department, which was founded by the legendary <span class="caps">LAPD</span> criminalist Ray Pinker in 1965 and which continues to explore new frontiers in forensic science under Dr. Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s enlightened direction.</span></p>
+<p><span style="text-decoration: line-through;">Professor Johnsonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Sunday Salon presentation also serves as an introduction to his ongoing series of <span class="caps">LAVA</span> forensic science seminars in his teaching lab at Cal State Los Angeles, including the upcoming <em><a href="/crimelabaug2015" target="_blank">Serial Killer Summer Session: The Night Stalker &amp; The 60 Freeway Slayer</a></em> on August 16. Purchase your ticket for the program now and help support new research into the science of crime detection.</span></p>
 <p><img loading="lazy" src="https://www.trbimg.com/img-51f47a14/turbine/la-1441957-me-0604-criminalists5-ac-jpg-20130727/600/600x400" alt="Prof. Don Johnson, director of Criminalistics Department, CSULA" height="200" width="300" /></p>
 <div id="themify_builder_content-1452" data-postid="1452" class="themify_builder_content themify_builder_content-1452 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/05/27/canceled-lavas-44th-sunday-salon/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/05/27/canceled-lavas-44th-sunday-salon/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pasadena Confidential crime bus tour</title>
-		<link>https://www.lavatransforms.org/2015/05/21/pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://www.lavatransforms.org/2015/05/21/pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>/2015/05/21/pasadena-confidential-crime-bus-tour/</link>
+					<comments>/2015/05/21/pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -112,15 +112,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/05/21/pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/05/21/pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Opulent Mobility 2015 Call for Submissions</title>
-		<link>https://www.lavatransforms.org/2015/05/17/opulent-mobility-2015-call-for-submissions/</link>
-					<comments>https://www.lavatransforms.org/2015/05/17/opulent-mobility-2015-call-for-submissions/#respond</comments>
+		<link>/2015/05/17/opulent-mobility-2015-call-for-submissions/</link>
+					<comments>/2015/05/17/opulent-mobility-2015-call-for-submissions/#respond</comments>
 		
 		<dc:creator><![CDATA[A. Laura Brody]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -141,15 +141,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/05/17/opulent-mobility-2015-call-for-submissions/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/05/17/opulent-mobility-2015-call-for-submissions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sold out! Serial Killer Summer Session: The Night Stalker &#038; The 60 Freeway Slayer</title>
-		<link>https://www.lavatransforms.org/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/</link>
-					<comments>https://www.lavatransforms.org/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/#respond</comments>
+		<link>/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/</link>
+					<comments>/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/#respond</comments>
 		
 		<dc:creator><![CDATA[Richard Schave]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -163,29 +163,29 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[This event is sold out. If you&#8217;d like to know more about the event, or to get on the waiting list, click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>This event is sold out. If you&#8217;d like to know more about the event, or to get on the waiting list, click <a href="https://esotouric.com/crimelabaug2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
+										<content:encoded><![CDATA[<p>This event is sold out. If you&#8217;d like to know more about the event, or to get on the waiting list, click <a href="https://esotouric.com/crimelabaug2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
 <p><strong>Presentation #1</strong>: Stalking The Night Stalker</p>
 <p>Almost exactly thirty years ago, Richard Ramirez was captured by a mob of enraged East Los Angeles community members, ending the reign of terror of the self-proclaimed Night Stalker, who laid siege to the city through a series of vicious home invasion attacks in the spring and summer of 1985.</p>
-<p>Giselle Lavigne is a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department who worked on analyzing the physical evidence used for Richard Ramirezâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> murder trial. She will present in great detail on the full complement of forensic evidence that was gathered, revealing the actions of the killer through the trace, blood and other evidence he left behind.</p>
+<p>Giselle Lavigne is a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department who worked on analyzing the physical evidence used for Richard Ramirezâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> murder trial. She will present in great detail on the full complement of forensic evidence that was gathered, revealing the actions of the killer through the trace, blood and other evidence he left behind.</p>
 <p><strong>Presentation #2</strong>: The 60 Freeway Slayer</p>
 <p>Professor Donald Johnson, our host and the Director of the Criminalistics Department, will present on six murders of prostitutes in 1993-94, which were initially attributed to an unknown â€œ60 Freeway Slayer.â€</p>
-<p>When Professor Johnson was a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department, he investigated the murders, and gathered the evidence which, almost a decade later with the introduction of <span class="caps">DNA</span> evidence into the courtroom, would result in the conviction and death sentence of the â€œ60 Freeway Slayer,â€ who <span class="caps">DNA</span> evidence showed to be incarcerated felon Ivan Hill. The case is a pivotal example of the remarkable impact that new forensic technology has in the courtroom and the lab.</p>
-<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the evolving toolkit used to gather and interpret physical evidence for the benefit of investigating officers and juries, from the 1980s to the present.</p>
+<p>When Professor Johnson was a forensic investigator for the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department, he investigated the murders, and gathered the evidence which, almost a decade later with the introduction of <span class="caps">DNA</span> evidence into the courtroom, would result in the conviction and death sentence of the â€œ60 Freeway Slayer,â€ who <span class="caps">DNA</span> evidence showed to be incarcerated felon Ivan Hill. The case is a pivotal example of the remarkable impact that new forensic technology has in the courtroom and the lab.</p>
+<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the evolving toolkit used to gather and interpret physical evidence for the benefit of investigating officers and juries, from the 1980s to the present.</p>
 <div id="themify_builder_content-1425" data-postid="1425" class="themify_builder_content themify_builder_content-1425 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/03/13/sold-out-serial-killer-summer-session-the-night-stalker-the-60-freeway-slayer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hot Lead and Hot Leads: Forensic Firearm / Gang Communication Analysis forensic science seminar</title>
-		<link>https://www.lavatransforms.org/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/</link>
-					<comments>https://www.lavatransforms.org/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/#respond</comments>
+		<link>/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/</link>
+					<comments>/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/#respond</comments>
 		
 		<dc:creator><![CDATA[Donald Johnson]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -200,10 +200,10 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To purchase a ticket for this special event, click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€™s inquiry into the history and practice of forensic science in Los [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="960" height="540" src="https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg 960w, https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-300x169.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-500x281.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-343x192.jpg 343w" sizes="(max-width: 960px) 100vw, 960px" /></p><p>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabmarch2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
+										<content:encoded><![CDATA[<p><img width="960" height="540" src="/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO.jpg 960w, /wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-300x169.jpg 300w, /wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-500x281.jpg 500w, /wp-content/uploads/2015/01/lavaCrimeLabMarch2015PHOTO-343x192.jpg 343w" sizes="(max-width: 960px) 100vw, 960px" /></p><p>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabmarch2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history and practice of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span></p>
 <p>Presentation #1:&nbsp;<em>The Secrets of Forensic Firearm Analysis</em> with Forensic Firearm and Toolmark Examiner Michael I. Kelley</p>
-<p>For our first talk, join Michael I. Kelley, who works with the Los Angeles Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department as a trainer in the Firearm Identification unit, and who previously presented on his crime scene reconstruction of Pat Tillmanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s death in Afghanistan, for an in-depth presentation on law enforcement techniques for analyzing projectiles and weapons from criminal investigations.</p>
+<p>For our first talk, join Michael I. Kelley, who works with the Los Angeles Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Department as a trainer in the Firearm Identification unit, and who previously presented on his crime scene reconstruction of Pat Tillmanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s death in Afghanistan, for an in-depth presentation on law enforcement techniques for analyzing projectiles and weapons from criminal investigations.</p>
 <p>In this introduction to the science of forensic firearm analysis, illustrated with real crime scene photographs and casework, Mike will cover:</p>
 <ul>
 <li>Examination of ammunition.</li>
@@ -215,22 +215,22 @@
 <li>Toolmark identification</li>
 </ul>
 <p>Presentation #2: <em>Murder Behind Bars</em> with LASD Team Leader and educator Nick Guskos</p>
-<p>For our second talk, join <span class="caps">LASD</span> Team Leader and educator Nick Guskos, co-author of the 2013 textbook <a href="https://astore.amazon.com/bubble1-20/detail/0135057493" target="_blank">Criminal Investigation: An Illustrated Case Study Approach</a>, for an insightful presentation inside the hidden world of gang communication. Nick takes us deep within the investigation into a case of a murder which occurred inside the walls of the Los Angeles County Jail. Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll follow along as the case unfolds and is eventually solved through intelligence gathering. Intelligence gathering is the key to understanding all complex criminal organizations, including terrorism. This latter area is the topic of Nickâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s doctoral dissertation, and will be covered at the conclusion of his talk.</p>
-<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the real work thatâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s done in the field by forensic investigators, and the tools and techniques used to interpret physical evidence and analyze intelligence for the benefit of investigating officers and juries.</p>
+<p>For our second talk, join <span class="caps">LASD</span> Team Leader and educator Nick Guskos, co-author of the 2013 textbook <a href="https://astore.amazon.com/bubble1-20/detail/0135057493" target="_blank">Criminal Investigation: An Illustrated Case Study Approach</a>, for an insightful presentation inside the hidden world of gang communication. Nick takes us deep within the investigation into a case of a murder which occurred inside the walls of the Los Angeles County Jail. Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll follow along as the case unfolds and is eventually solved through intelligence gathering. Intelligence gathering is the key to understanding all complex criminal organizations, including terrorism. This latter area is the topic of Nickâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s doctoral dissertation, and will be covered at the conclusion of his talk.</p>
+<p>By the afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s conclusion, attendees will have a deeper understanding of the real work thatâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s done in the field by forensic investigators, and the tools and techniques used to interpret physical evidence and analyze intelligence for the benefit of investigating officers and juries.</p>
 <div id="themify_builder_content-1400" data-postid="1400" class="themify_builder_content themify_builder_content-1400 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/feed/</wfw:commentRss>
+					<wfw:commentRss>/2015/01/15/hot-lead-and-hot-leads-forensic-firearm-gang-communication-analysis-forensic-science-seminar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Where There&#8217;s Smoke forensic science seminar</title>
-		<link>https://www.lavatransforms.org/2014/11/05/where-theres-smoke-forensic-science-seminar/</link>
-					<comments>https://www.lavatransforms.org/2014/11/05/where-theres-smoke-forensic-science-seminar/#respond</comments>
+		<link>/2014/11/05/where-theres-smoke-forensic-science-seminar/</link>
+					<comments>/2014/11/05/where-theres-smoke-forensic-science-seminar/#respond</comments>
 		
 		<dc:creator><![CDATA[Donald Johnson]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -245,23 +245,23 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To purchase a ticket for this special event, click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe&#160;to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€™s inquiry into the history of forensic science in Los Angeles, in [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="781" height="500" src="https://www.lavatransforms.org/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51.jpg 781w, https://www.lavatransforms.org/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51-300x192.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51-500x320.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51-343x219.jpg 343w" sizes="(max-width: 781px) 100vw, 781px" /></p><p>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabjan2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="https://www.lavatransforms.org/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
-<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span><span style="line-height: 1.5em;">We are delighted to announce a return engagement by </span><span class="caps" style="line-height: 1.5em;">LAVA</span><span style="line-height: 1.5em;"> favorite Ed Nordskog, Senior Arson Investigator for the </span><span class="caps" style="line-height: 1.5em;">LASD</span><span style="line-height: 1.5em;"> and author of</span><span style="line-height: 1.5em;">&nbsp;</span><a style="line-height: 1.5em;" href="https://astore.amazon.com/bubble1-20/detail/146537552X" target="_blank">&#8220;&#8216;Torchered&#8217; Minds: Case Histories of Notorious Serial Arsonists</a><span style="line-height: 1.5em;">&#8220;</span><span style="line-height: 1.5em;">&nbsp;and &#8220;</span><a style="line-height: 1.5em;" href="https://astore.amazon.com/bubble1-20/detail/1482327791" target="_blank">Fire Raisers, Freaks and Fiends: Obsessive Arsonists in the California Foothills</a><span style="line-height: 1.5em;">.&#8221;&nbsp;</span><span style="line-height: 1.5em;">Ed will present in detail on how two of his most fascinating recent investigations were solved.&nbsp;</span><span style="line-height: 1.5em;">Case #1</span><span style="line-height: 1.5em;">: St John Vianney Catholic Church arson, Hacienda Heights. In April 2011, a brazen arsonist entered the church sanctuary and carefully ensured its destruction. Two priests sleeping in the attached building narrowly escaped with their lives. Youâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll marvel at the two-year, multi-agency investigation, the bizarre suspect and how toilet paper became the key to breaking the case.&nbsp;</span><span style="line-height: 1.5em;">Case #2</span><span style="line-height: 1.5em;">: Marijuana Shop Fires. Beginning in 2009, black street gangs began firebombing marijuana dispensaries throughout the Los Angeles basin, with a large number occurring in Hollywood and West Hollywood. Watch as the facts fall into place through the recently concluded four-year investigation, resulting in the convictions of 11 conspirators and a surprising ring leader.</span></p>
-<p><span style="line-height: 1.5em;">By the end of Edâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s presentation, attendees will have gained familiarity with the real-world experience of a top arson investigator, and with the shadow worlds inhabited by two very different types of arsonist.&nbsp;</span><span style="line-height: 1.5em;">Copies of Ed Nordskogâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s books will be available for purchase during the program.</span></p>
+										<content:encoded><![CDATA[<p><img width="781" height="500" src="/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51.jpg 781w, /wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51-300x192.jpg 300w, /wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51-500x320.jpg 500w, /wp-content/uploads/2014/11/room_fire_custom-5fd6c5194611bb59a71bf5552e329ebfcd1096cc-s51-343x219.jpg 343w" sizes="(max-width: 781px) 100vw, 781px" /></p><p>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabjan2015" target="_blank">here.</a>&nbsp;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a href="/newsletter/subscriptions" target="_blank">subscribe</a>&nbsp;to LAVA&#8217;s occasional Crime Lab Newsletter.</p>
+<p><span style="line-height: 1.5em;">Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.&nbsp;</span><span style="line-height: 1.5em;">We are delighted to announce a return engagement by </span><span class="caps" style="line-height: 1.5em;">LAVA</span><span style="line-height: 1.5em;"> favorite Ed Nordskog, Senior Arson Investigator for the </span><span class="caps" style="line-height: 1.5em;">LASD</span><span style="line-height: 1.5em;"> and author of</span><span style="line-height: 1.5em;">&nbsp;</span><a style="line-height: 1.5em;" href="https://astore.amazon.com/bubble1-20/detail/146537552X" target="_blank">&#8220;&#8216;Torchered&#8217; Minds: Case Histories of Notorious Serial Arsonists</a><span style="line-height: 1.5em;">&#8220;</span><span style="line-height: 1.5em;">&nbsp;and &#8220;</span><a style="line-height: 1.5em;" href="https://astore.amazon.com/bubble1-20/detail/1482327791" target="_blank">Fire Raisers, Freaks and Fiends: Obsessive Arsonists in the California Foothills</a><span style="line-height: 1.5em;">.&#8221;&nbsp;</span><span style="line-height: 1.5em;">Ed will present in detail on how two of his most fascinating recent investigations were solved.&nbsp;</span><span style="line-height: 1.5em;">Case #1</span><span style="line-height: 1.5em;">: St John Vianney Catholic Church arson, Hacienda Heights. In April 2011, a brazen arsonist entered the church sanctuary and carefully ensured its destruction. Two priests sleeping in the attached building narrowly escaped with their lives. Youâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll marvel at the two-year, multi-agency investigation, the bizarre suspect and how toilet paper became the key to breaking the case.&nbsp;</span><span style="line-height: 1.5em;">Case #2</span><span style="line-height: 1.5em;">: Marijuana Shop Fires. Beginning in 2009, black street gangs began firebombing marijuana dispensaries throughout the Los Angeles basin, with a large number occurring in Hollywood and West Hollywood. Watch as the facts fall into place through the recently concluded four-year investigation, resulting in the convictions of 11 conspirators and a surprising ring leader.</span></p>
+<p><span style="line-height: 1.5em;">By the end of Edâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s presentation, attendees will have gained familiarity with the real-world experience of a top arson investigator, and with the shadow worlds inhabited by two very different types of arsonist.&nbsp;</span><span style="line-height: 1.5em;">Copies of Ed Nordskogâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s books will be available for purchase during the program.</span></p>
 <div id="themify_builder_content-1377" data-postid="1377" class="themify_builder_content themify_builder_content-1377 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/11/05/where-theres-smoke-forensic-science-seminar/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/11/05/where-theres-smoke-forensic-science-seminar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pasadena Confidential crime bus tour</title>
-		<link>https://www.lavatransforms.org/2014/07/28/pasadena-confidential-crime-bus-tour/</link>
-					<comments>https://www.lavatransforms.org/2014/07/28/pasadena-confidential-crime-bus-tour/#respond</comments>
+		<link>/2014/07/28/pasadena-confidential-crime-bus-tour/</link>
+					<comments>/2014/07/28/pasadena-confidential-crime-bus-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -280,15 +280,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/07/28/pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/07/28/pasadena-confidential-crime-bus-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Don&#8217;t Turn Your Back: Real L.A. Murders from the Dawn of Forensic Science</title>
-		<link>https://www.lavatransforms.org/2014/07/12/dont-turn-your-back-real-l-a-murders-from-the-dawn-of-forensic-science/</link>
-					<comments>https://www.lavatransforms.org/2014/07/12/dont-turn-your-back-real-l-a-murders-from-the-dawn-of-forensic-science/#respond</comments>
+		<link>/2014/07/12/dont-turn-your-back-real-l-a-murders-from-the-dawn-of-forensic-science/</link>
+					<comments>/2014/07/12/dont-turn-your-back-real-l-a-murders-from-the-dawn-of-forensic-science/#respond</comments>
 		
 		<dc:creator><![CDATA[Donald Johnson]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -303,29 +303,29 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[To purchase a ticket for this special event, click here.&#160;If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, subscribe to LAVA&#8217;s occasional Crime Lab Newsletter. Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€™s inquiry into the history of forensic science in Los Angeles, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="410" height="327" src="https://www.lavatransforms.org/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://www.lavatransforms.org/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE.jpg 410w, https://www.lavatransforms.org/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE-300x239.jpg 300w, https://www.lavatransforms.org/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE-500x398.jpg 500w, https://www.lavatransforms.org/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE-343x273.jpg 343w" sizes="(max-width: 410px) 100vw, 410px" /></p><p><em><strong>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabnovember2014" target="_blank">here.</a>&nbsp;</strong></em>If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a style="font-style: italic; font-weight: bold;" href="https://www.lavatransforms.org/newsletter/subscriptions">subscribe</a><em> to LAVA&#8217;s occasional Crime Lab Newsletter.</em></p>
-<p>Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.</p>
+										<content:encoded><![CDATA[<p><img width="410" height="327" src="/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE.jpg 410w, /wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE-300x239.jpg 300w, /wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE-500x398.jpg 500w, /wp-content/uploads/2014/07/CLUSC_8_1_00166784A_J_CLARK_GUN_RESIZE-343x273.jpg 343w" sizes="(max-width: 410px) 100vw, 410px" /></p><p><em><strong>To purchase a ticket for this special event, click <a href="https://esotouric.com/crimelabnovember2014" target="_blank">here.</a>&nbsp;</strong></em>If you&#8217;d like to be contacted when another crime lab tour and lecture are scheduled, <a style="font-style: italic; font-weight: bold;" href="/newsletter/subscriptions">subscribe</a><em> to LAVA&#8217;s occasional Crime Lab Newsletter.</em></p>
+<p>Join us in the Cal State Los Angeles teaching crime lab for an afternoonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s inquiry into the history of forensic science in Los Angeles, in support of new research coming out of the Criminalistics Department.</p>
 <p><em>Presenters</em>:</p>
-<p>Mike Fratantoni, an <span class="caps">LASD</span> Deputy who sits on the board of the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Museum, makes a return engagement to the crime lab to present two fascinating and complex cases which will explore the development of forensic investigation.</p>
-<p>Meiling Cabral is Chair of the California Association of Criminalistsâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Historical Committee, and a forensic investigator for the <span class="caps">LAPD</span>. Meiling combines a practicing forensic scientistâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s experience and an historianâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s passion for reconstructing the past.  For each of Deputy Fratantoniâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s case presentations, she will provide a â€œThen &amp; Nowâ€ forensic overview, highlighting technological breakthroughs, methodological changes and how the cases have influenced the development of modern forensic investigation.</p>
+<p>Mike Fratantoni, an <span class="caps">LASD</span> Deputy who sits on the board of the Los Angeles County Sheriffâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Museum, makes a return engagement to the crime lab to present two fascinating and complex cases which will explore the development of forensic investigation.</p>
+<p>Meiling Cabral is Chair of the California Association of Criminalistsâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Historical Committee, and a forensic investigator for the <span class="caps">LAPD</span>. Meiling combines a practicing forensic scientistâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s experience and an historianâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s passion for reconstructing the past.  For each of Deputy Fratantoniâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s case presentations, she will provide a â€œThen &amp; Nowâ€ forensic overview, highlighting technological breakthroughs, methodological changes and how the cases have influenced the development of modern forensic investigation.</p>
 <p><em>Case One</em>: Poor Little Louise Peete</p>
-<p>In 1920, a homeless Louise Peete turned her romantic attentions towards elderly mining executive Jacob Denton, and moved into his house off Wilshire Boulevard. In May, Denton disappeared. When his friends called, Louise claimed that Denton had gone into hiding after being disfigured in a sword fight. For months, she lived and entertained in Dentonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mansion, until the police agreed to search the house. Dentonâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s murdered body was discovered buried in the basement, but Louise Peete had flown the coop. Captured and tried, she was found guilty of murder and sentenced to life in San Quentin. She served eighteen years, and was once again homeless. Good-hearted Margaret Logan offered Louise a position as paid companion and housekeeper. Five years later, Margaret vanished. Her body was discovered in the backyard of her Pacific Palisades home. Thanks to the forensic evidence gathered and interpreted by Ray Pinker, <span class="caps">LAPD</span> chemist and future director of the <span class="caps">CSULA</span> Criminalistics Department, Louise was found guilty of murder and executed in the California gas chamber in&nbsp;1947.</p>
+<p>In 1920, a homeless Louise Peete turned her romantic attentions towards elderly mining executive Jacob Denton, and moved into his house off Wilshire Boulevard. In May, Denton disappeared. When his friends called, Louise claimed that Denton had gone into hiding after being disfigured in a sword fight. For months, she lived and entertained in Dentonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s mansion, until the police agreed to search the house. Dentonâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s murdered body was discovered buried in the basement, but Louise Peete had flown the coop. Captured and tried, she was found guilty of murder and sentenced to life in San Quentin. She served eighteen years, and was once again homeless. Good-hearted Margaret Logan offered Louise a position as paid companion and housekeeper. Five years later, Margaret vanished. Her body was discovered in the backyard of her Pacific Palisades home. Thanks to the forensic evidence gathered and interpreted by Ray Pinker, <span class="caps">LAPD</span> chemist and future director of the <span class="caps">CSULA</span> Criminalistics Department, Louise was found guilty of murder and executed in the California gas chamber in&nbsp;1947.</p>
 <p><em>Case Two</em>: The End of Charlie Crawford</p>
-<p>Charlie â€œThe Gray Wolfâ€ Crawford and newspaper editor Hebert Spencer were shot, Spencer fatally, in Crawfordâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Hollywood office on May 20, 1931.  The investigation and trials that followed are the stuff of Los Angeles legend. Crawford was a racketeer who was in with the crooked â€œCity Hall Crowdâ€ during Prohibition. He died in a hospital ward muttering with his last breath that heâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d take the name of his killer to his grave. Forensic investigators in the <span class="caps">LAPD</span> went to work seeking the answer. Before they found it, David Clark, a former Assistant District Attorney and candidate for a municipal judgeship, walked into the Hall of Justice and confessed.  Homicide detectives were incredulous, and the forensic investigation continued.  The first trial resulted in a mistrial, the second in acquittal.  In his presentation, Deputy Frantantoni will walk us through the landmark forensic analysis and pull back the curtains on this rich and fascinating period of Los Angeles history, and a story so twisted, no less a noir master than Raymond Chandler fictionalized it.</p>
+<p>Charlie â€œThe Gray Wolfâ€ Crawford and newspaper editor Hebert Spencer were shot, Spencer fatally, in Crawfordâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s Hollywood office on May 20, 1931.  The investigation and trials that followed are the stuff of Los Angeles legend. Crawford was a racketeer who was in with the crooked â€œCity Hall Crowdâ€ during Prohibition. He died in a hospital ward muttering with his last breath that heâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />d take the name of his killer to his grave. Forensic investigators in the <span class="caps">LAPD</span> went to work seeking the answer. Before they found it, David Clark, a former Assistant District Attorney and candidate for a municipal judgeship, walked into the Hall of Justice and confessed.  Homicide detectives were incredulous, and the forensic investigation continued.  The first trial resulted in a mistrial, the second in acquittal.  In his presentation, Deputy Frantantoni will walk us through the landmark forensic analysis and pull back the curtains on this rich and fascinating period of Los Angeles history, and a story so twisted, no less a noir master than Raymond Chandler fictionalized it.</p>
 <div id="themify_builder_content-1306" data-postid="1306" class="themify_builder_content themify_builder_content-1306 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/07/12/dont-turn-your-back-real-l-a-murders-from-the-dawn-of-forensic-science/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/07/12/dont-turn-your-back-real-l-a-murders-from-the-dawn-of-forensic-science/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>South L.A. Road Trip: Hot Rods, Adobes, Googie &#038; Early Modernism</title>
-		<link>https://www.lavatransforms.org/2014/06/16/south-l-a-road-trip-hot-rods-adobes-googie-early-modernism/</link>
-					<comments>https://www.lavatransforms.org/2014/06/16/south-l-a-road-trip-hot-rods-adobes-googie-early-modernism/#respond</comments>
+		<link>/2014/06/16/south-l-a-road-trip-hot-rods-adobes-googie-early-modernism/</link>
+					<comments>/2014/06/16/south-l-a-road-trip-hot-rods-adobes-googie-early-modernism/#respond</comments>
 		
 		<dc:creator><![CDATA[Kim Cooper]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -349,7 +349,7 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/06/16/south-l-a-road-trip-hot-rods-adobes-googie-early-modernism/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/06/16/south-l-a-road-trip-hot-rods-adobes-googie-early-modernism/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

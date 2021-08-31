@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The New Chinatowns tour	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/01/11/the-new-chinatowns-tour/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/01/11/the-new-chinatowns-tour/</link>
+	<atom:link href="/2011/01/11/the-new-chinatowns-tour/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/01/11/the-new-chinatowns-tour/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:02:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

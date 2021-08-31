@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: MURDER WILL OUT: THE SECRET WORLD OF TRACE EVIDENCE	</title>
-	<atom:link href="https://www.lavatransforms.org/2016/04/27/murder-will-out/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2016/04/27/murder-will-out/</link>
+	<atom:link href="/2016/04/27/murder-will-out/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/04/27/murder-will-out/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 03:14:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: testing URLs for events &#038; videos	</title>
-	<atom:link href="https://www.lavatransforms.org/video/universal-url/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/universal-url/</link>
+	<atom:link href="/video/universal-url/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/universal-url/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 09:26:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

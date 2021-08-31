@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The LAVA Salon â€” Jim Tully: A Hobo in Hollywood	</title>
-	<atom:link href="https://www.lavatransforms.org/video/mussosalon4/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/mussosalon4/</link>
+	<atom:link href="/video/mussosalon4/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/mussosalon4/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Tue, 29 Mar 2016 02:51:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

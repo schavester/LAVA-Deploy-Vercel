@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: RITUALS: SACRED AND PROFANE	</title>
-	<atom:link href="https://www.lavatransforms.org/2016/04/27/rituals-sacred-and-profane/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2016/04/27/rituals-sacred-and-profane/</link>
+	<atom:link href="/2016/04/27/rituals-sacred-and-profane/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/04/27/rituals-sacred-and-profane/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 03:14:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The LAVA Salon at Musso &#038; Frank &#8212; That Side of Paradise: Dorothy Parker &#038; F. Scott Fitzgerald in the Garden of Allah	</title>
-	<atom:link href="https://www.lavatransforms.org/video/mussosalon3/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/mussosalon3/</link>
+	<atom:link href="/video/mussosalon3/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/mussosalon3/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Tue, 29 Mar 2016 16:03:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

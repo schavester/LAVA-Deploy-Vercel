@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA&#8217;s Sunday Salon (note new location &#8211; this month only)	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/05/22/lavas-sunday-salon-note-new-location-this-month-only/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/05/22/lavas-sunday-salon-note-new-location-this-month-only/</link>
+	<atom:link href="/2011/05/22/lavas-sunday-salon-note-new-location-this-month-only/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/05/22/lavas-sunday-salon-note-new-location-this-month-only/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:01:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

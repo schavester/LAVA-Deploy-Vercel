@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: My first overnight in LA with Charles and Ray Eames in Pacific Palisades &#8211; 1952	</title>
-	<atom:link href="https://www.lavatransforms.org/2010/03/11/eameshouse/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2010/03/11/eameshouse/</link>
+	<atom:link href="/2010/03/11/eameshouse/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/11/eameshouse/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 02:55:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

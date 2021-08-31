@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Union Rescue Mission Walking Tour: 121 years on Skid Row	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/05/26/union-rescue-mission-walking-tour-121-years-on-skid-row-2/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/05/26/union-rescue-mission-walking-tour-121-years-on-skid-row-2/</link>
+	<atom:link href="/2012/05/26/union-rescue-mission-walking-tour-121-years-on-skid-row-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/05/26/union-rescue-mission-walking-tour-121-years-on-skid-row-2/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:58:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

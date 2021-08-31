@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Sneak a peak into Professor Donald Johnson&#8217;s crime lab	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/01/09/sneak-a-peak-into-professor-donald-johnsons-crime-lab/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/01/09/sneak-a-peak-into-professor-donald-johnsons-crime-lab/</link>
+	<atom:link href="/2011/01/09/sneak-a-peak-into-professor-donald-johnsons-crime-lab/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/01/09/sneak-a-peak-into-professor-donald-johnsons-crime-lab/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:02:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: testing	</title>
-	<atom:link href="https://www.lavatransforms.org/video/testing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/testing/</link>
+	<atom:link href="/video/testing/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/testing/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Sun, 06 Mar 2016 21:18:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: George Mann&#8217;s Lost Los Angeles	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/09/06/george-manns-lost-los-angeles/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/09/06/george-manns-lost-los-angeles/</link>
+	<atom:link href="/2012/09/06/george-manns-lost-los-angeles/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/09/06/george-manns-lost-los-angeles/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:57:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

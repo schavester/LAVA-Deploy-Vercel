@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Christina Rice on Ann Dvorak at the LAVA Sunday Salon, November 2013	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/12/17/christina-rice-on-ann-dvorak-at-the-lava-sunday-salon-november-2013/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/12/17/christina-rice-on-ann-dvorak-at-the-lava-sunday-salon-november-2013/</link>
+	<atom:link href="/2013/12/17/christina-rice-on-ann-dvorak-at-the-lava-sunday-salon-november-2013/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/12/17/christina-rice-on-ann-dvorak-at-the-lava-sunday-salon-november-2013/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:54:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

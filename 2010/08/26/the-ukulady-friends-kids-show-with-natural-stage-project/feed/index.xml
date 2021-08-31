@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The Ukulady &#038; Friends Kids Show with Natural Stage Project!	</title>
-	<atom:link href="https://www.lavatransforms.org/2010/08/26/the-ukulady-friends-kids-show-with-natural-stage-project/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2010/08/26/the-ukulady-friends-kids-show-with-natural-stage-project/</link>
+	<atom:link href="/2010/08/26/the-ukulady-friends-kids-show-with-natural-stage-project/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/08/26/the-ukulady-friends-kids-show-with-natural-stage-project/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

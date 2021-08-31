@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Arson Murders and Fire Death Investigation	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/09/25/arson-murders-and-fire-death-investigation/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/09/25/arson-murders-and-fire-death-investigation/</link>
+	<atom:link href="/2012/09/25/arson-murders-and-fire-death-investigation/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/09/25/arson-murders-and-fire-death-investigation/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 17:27:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

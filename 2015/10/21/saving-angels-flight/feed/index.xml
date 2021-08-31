@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Saving Angels Flight	</title>
-	<atom:link href="https://www.lavatransforms.org/2015/10/21/saving-angels-flight/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2015/10/21/saving-angels-flight/</link>
+	<atom:link href="/2015/10/21/saving-angels-flight/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/10/21/saving-angels-flight/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 03:14:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

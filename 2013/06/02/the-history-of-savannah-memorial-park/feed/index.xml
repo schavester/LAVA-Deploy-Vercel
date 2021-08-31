@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The History of Savannah Memorial Park	</title>
-	<atom:link href="https://www.lavatransforms.org/2013/06/02/the-history-of-savannah-memorial-park/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2013/06/02/the-history-of-savannah-memorial-park/</link>
+	<atom:link href="/2013/06/02/the-history-of-savannah-memorial-park/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/06/02/the-history-of-savannah-memorial-park/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:56:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

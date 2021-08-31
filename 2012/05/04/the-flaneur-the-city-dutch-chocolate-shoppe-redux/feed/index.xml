@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Dutch Chocolate Shoppe Redux	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/05/04/the-flaneur-the-city-dutch-chocolate-shoppe-redux/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/05/04/the-flaneur-the-city-dutch-chocolate-shoppe-redux/</link>
+	<atom:link href="/2012/05/04/the-flaneur-the-city-dutch-chocolate-shoppe-redux/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/05/04/the-flaneur-the-city-dutch-chocolate-shoppe-redux/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Thu, 14 Nov 2019 03:27:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

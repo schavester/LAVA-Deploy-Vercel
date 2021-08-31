@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA&#8217;s March 2011 Sunday Salon video	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/03/29/lavas-march-2011-sunday-salon-video/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/03/29/lavas-march-2011-sunday-salon-video/</link>
+	<atom:link href="/2011/03/29/lavas-march-2011-sunday-salon-video/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/03/29/lavas-march-2011-sunday-salon-video/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 20:01:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

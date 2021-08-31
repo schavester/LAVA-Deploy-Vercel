@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: A Dashiell Hammett Evening	</title>
-	<atom:link href="https://www.lavatransforms.org/video/hammettsalon/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/video/hammettsalon/</link>
+	<atom:link href="/video/hammettsalon/feed/" rel="self" type="application/rss+xml" />
+	<link>/video/hammettsalon/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Tue, 29 Mar 2016 16:06:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

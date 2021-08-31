@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: LAVA&#8217;s Sunday Salon: Susanna Dakin, An Artist for President	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/01/03/lavas-sunday-salon-susanna-dakin-an-artist-for-president/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/01/03/lavas-sunday-salon-susanna-dakin-an-artist-for-president/</link>
+	<atom:link href="/2012/01/03/lavas-sunday-salon-susanna-dakin-an-artist-for-president/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/01/03/lavas-sunday-salon-susanna-dakin-an-artist-for-president/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:59:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

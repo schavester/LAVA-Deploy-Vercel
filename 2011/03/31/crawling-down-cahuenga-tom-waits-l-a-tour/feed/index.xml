@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Crawling Down Cahuenga: Tom Waits&#8217; L.A. tour	</title>
-	<atom:link href="https://www.lavatransforms.org/2011/03/31/crawling-down-cahuenga-tom-waits-l-a-tour/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2011/03/31/crawling-down-cahuenga-tom-waits-l-a-tour/</link>
+	<atom:link href="/2011/03/31/crawling-down-cahuenga-tom-waits-l-a-tour/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/03/31/crawling-down-cahuenga-tom-waits-l-a-tour/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

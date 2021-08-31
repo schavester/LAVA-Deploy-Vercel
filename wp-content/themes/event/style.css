@@ -2498,7 +2498,7 @@ COMMENTS
 
 }
 .commentlist .bypostauthor > .comment-author cite {
-	background: url(https://www.lavatransforms.org/wp-content/themes/event/images/icon-author-comment.png) no-repeat 0 2px;
+	background: url(/wp-content/themes/event/images/icon-author-comment.png) no-repeat 0 2px;
 	padding-left: 18px;
 }
 .commentlist .comment-time {

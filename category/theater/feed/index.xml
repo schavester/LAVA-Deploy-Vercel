@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Theater &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/category/theater/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/category/theater/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Wiltern Theatre All About Tour and Reception</title>
-		<link>https://www.lavatransforms.org/2014/08/05/wiltern-theatre-all-about-tour-and-reception/</link>
-					<comments>https://www.lavatransforms.org/2014/08/05/wiltern-theatre-all-about-tour-and-reception/#respond</comments>
+		<link>/2014/08/05/wiltern-theatre-all-about-tour-and-reception/</link>
+					<comments>/2014/08/05/wiltern-theatre-all-about-tour-and-reception/#respond</comments>
 		
 		<dc:creator><![CDATA[Nick Matonak]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -37,22 +37,22 @@
 
 					<description><![CDATA[Please join us for our first All About at the beautiful Art Deco Wiltern Theatre. Opened in 1931, the Wiltern was threatened with demolition and was only saved&#160;because of the determination of local preservationists. Come hear the story of the rescue and restoration, then take docent-guided tours of the entire theatre, including backstage areas not [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Please join us for our first All About at the beautiful Art Deco <a href="https://www.thewiltern.net/" target="_blank">Wiltern Theatre</a>.  Opened in 1931, the Wiltern was threatened with demolition and was only  saved&nbsp;because of the determination of local preservationists.</p>
-<p>Come  hear the story of the rescue and restoration, then take docent-guided  tours of the entire theatre, including backstage areas not accessible to  the public! Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been granted FULL ACCESS for this tour; donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss  this rare opportunity!</p>
+<p>Come  hear the story of the rescue and restoration, then take docent-guided  tours of the entire theatre, including backstage areas not accessible to  the public! Weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ve been granted FULL ACCESS for this tour; donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss  this rare opportunity!</p>
 <p>This Tour will feature the same presentation and 4 tour loops as the day&#8217;s earlier tour, and a Reception  in the lobby following the tour. Special guests to be announced. Your  ticket includes admission and appetizers. There will also be a cash bar. Tickets are $35 ($30 for LAHTF members, click the &#8220;Redeem Benefits&#8221; button during checkout to apply LAHTF Member Discount).</p>
 <div id="themify_builder_content-1327" data-postid="1327" class="themify_builder_content themify_builder_content-1327 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/08/05/wiltern-theatre-all-about-tour-and-reception/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/08/05/wiltern-theatre-all-about-tour-and-reception/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Wiltern Theatre All About Tour</title>
-		<link>https://www.lavatransforms.org/2014/08/05/wiltern-theatre-all-about-tour/</link>
-					<comments>https://www.lavatransforms.org/2014/08/05/wiltern-theatre-all-about-tour/#respond</comments>
+		<link>/2014/08/05/wiltern-theatre-all-about-tour/</link>
+					<comments>/2014/08/05/wiltern-theatre-all-about-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Nick Matonak]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -74,15 +74,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/08/05/wiltern-theatre-all-about-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/08/05/wiltern-theatre-all-about-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ella Fitzgerald Birthday Celebration: Cabaret Concert</title>
-		<link>https://www.lavatransforms.org/2014/04/17/ella-fitzgerald-birthday-celebration-cabaret-concert/</link>
-					<comments>https://www.lavatransforms.org/2014/04/17/ella-fitzgerald-birthday-celebration-cabaret-concert/#respond</comments>
+		<link>/2014/04/17/ella-fitzgerald-birthday-celebration-cabaret-concert/</link>
+					<comments>/2014/04/17/ella-fitzgerald-birthday-celebration-cabaret-concert/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:58 +0000</pubDate>
@@ -100,15 +100,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2014/04/17/ella-fitzgerald-birthday-celebration-cabaret-concert/feed/</wfw:commentRss>
+					<wfw:commentRss>/2014/04/17/ella-fitzgerald-birthday-celebration-cabaret-concert/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Black Talkies on Parade screening of Moms Mabley stars in &#8220;Boarding House Blues&#8221;</title>
-		<link>https://www.lavatransforms.org/2013/10/15/black-talkies-on-parade-screening-of-moms-mabley-stars-in-boarding-house-blues/</link>
-					<comments>https://www.lavatransforms.org/2013/10/15/black-talkies-on-parade-screening-of-moms-mabley-stars-in-boarding-house-blues/#respond</comments>
+		<link>/2013/10/15/black-talkies-on-parade-screening-of-moms-mabley-stars-in-boarding-house-blues/</link>
+					<comments>/2013/10/15/black-talkies-on-parade-screening-of-moms-mabley-stars-in-boarding-house-blues/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -118,23 +118,23 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Join MCLM as we celebrate one of Americaâ€™s most popular forms of early entertainment: vaudeville! Boarding House Blues is a 1948 comedy directed by Josh Binney, a ï¬lmmaker known for helming the classic musical ï¬lms Hi De Ho, The Joint is Jumpinâ€™ and Killer Diller. Produced by All-American News, a company which specialized in African [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Join MCLM as we celebrate one of Americaâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most popular forms of early entertainment: vaudeville!</p>
-<p><em>Boarding House Blues </em>is a 1948 comedy directed by Josh Binney, a ï¬lmmaker known for helming the classic musical ï¬lms <em>Hi De Ho, The Joint is Jumpinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em> and <em>Killer Diller.</em> Produced by All-American News, a company which specialized in African American newsreels, <em>Boarding House Blues</em> has the unique feel&nbsp;<span style="font-size: 12px; line-height: 1.5;">of being both a narrative ï¬lm and concert performance, providing contemporary audiences a sneak peek at how a â€œChitlinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Circuitâ€ vaudeville show would play during its height.</span></p>
+										<content:encoded><![CDATA[<p>Join MCLM as we celebrate one of Americaâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most popular forms of early entertainment: vaudeville!</p>
+<p><em>Boarding House Blues </em>is a 1948 comedy directed by Josh Binney, a ï¬lmmaker known for helming the classic musical ï¬lms <em>Hi De Ho, The Joint is Jumpinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em> and <em>Killer Diller.</em> Produced by All-American News, a company which specialized in African American newsreels, <em>Boarding House Blues</em> has the unique feel&nbsp;<span style="font-size: 12px; line-height: 1.5;">of being both a narrative ï¬lm and concert performance, providing contemporary audiences a sneak peek at how a â€œChitlinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Circuitâ€ vaudeville show would play during its height.</span></p>
 <p>The story is a vehicle for legendary comedic talent Jackie â€œMomsâ€ Mabley, one of the earliest successful female comedians of vaudeville, stage and ï¬lm.</p>
 <div id="themify_builder_content-1128" data-postid="1128" class="themify_builder_content themify_builder_content-1128 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/10/15/black-talkies-on-parade-screening-of-moms-mabley-stars-in-boarding-house-blues/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/10/15/black-talkies-on-parade-screening-of-moms-mabley-stars-in-boarding-house-blues/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Serial Time for Tiny Humans!</title>
-		<link>https://www.lavatransforms.org/2013/09/19/serial-time-for-tiny-humans/</link>
-					<comments>https://www.lavatransforms.org/2013/09/19/serial-time-for-tiny-humans/#respond</comments>
+		<link>/2013/09/19/serial-time-for-tiny-humans/</link>
+					<comments>/2013/09/19/serial-time-for-tiny-humans/#respond</comments>
 		
 		<dc:creator><![CDATA[The Ukulady]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -153,15 +153,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/09/19/serial-time-for-tiny-humans/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/09/19/serial-time-for-tiny-humans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Public + Art: Three Ducks in a Row</title>
-		<link>https://www.lavatransforms.org/2013/07/16/public-art-three-ducks-in-a-row/</link>
-					<comments>https://www.lavatransforms.org/2013/07/16/public-art-three-ducks-in-a-row/#respond</comments>
+		<link>/2013/07/16/public-art-three-ducks-in-a-row/</link>
+					<comments>/2013/07/16/public-art-three-ducks-in-a-row/#respond</comments>
 		
 		<dc:creator><![CDATA[Heidi Duckler]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -178,7 +178,7 @@
 
 					<description><![CDATA[Combining civic art, musical performance, and dance, Heidi Duckler Dance Theatre&#8217;s Public + Art: Three Ducks in a Row will animate the East Los Angeles Civic Center with three arts events in one free, family-friendly evening. The evening will kick off with a one-of-a-kind public art tour featuring artists whose work is currently displayed at [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p class="p1">Combining civic art, musical performance, and dance, Heidi Duckler Dance Theatre&#8217;s <em>Public + Art: Three Ducks in a Row </em>will animate the East Los Angeles Civic Center with three arts events in one free, family-friendly evening.</p>
-<p class="p1">The evening will kick off with a one-of-a-kind public art tour featuring artists whose work is currently displayed at the Civic Center, allowing participants to develop a more engaged and nuanced understanding of the civic art across the site&#8217;s lush park landscape. Immediately following the tour, award-winning rock, jazz, and experimental musicians Don Preston and Andrea Centazzo will enliven the Centerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s amphitheater stage with live music, as a performance by Heidi Duckler Dance Theatre dancers complement the musiciansâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> unique, layered sounds. &nbsp;</p>
+<p class="p1">The evening will kick off with a one-of-a-kind public art tour featuring artists whose work is currently displayed at the Civic Center, allowing participants to develop a more engaged and nuanced understanding of the civic art across the site&#8217;s lush park landscape. Immediately following the tour, award-winning rock, jazz, and experimental musicians Don Preston and Andrea Centazzo will enliven the Centerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s amphitheater stage with live music, as a performance by Heidi Duckler Dance Theatre dancers complement the musiciansâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> unique, layered sounds. &nbsp;</p>
 <p class="p1"><em>Public + Art: Three Ducks in a Row</em> will conclude with a Curbside Conversation panel, providing a space for dialogue between artists and community members and cultivating enhanced consciousness of, and appreciation, for art in the public realm.&nbsp;</p>
 <p class="p1">The public art tour departs from the East Los Angeles Library lobby at 7pm, and the following performances and Curbside Conversation will take place at 8pm at the Civic Center&#8217;s amphitheater stage. For more information and to RSVP for the event, visit www.heididuckler.org.&nbsp;</p>
 <div id="themify_builder_content-1051" data-postid="1051" class="themify_builder_content themify_builder_content-1051 themify_builder">
@@ -186,15 +186,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/07/16/public-art-three-ducks-in-a-row/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/07/16/public-art-three-ducks-in-a-row/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>An Evening with the Nicholas Brothers</title>
-		<link>https://www.lavatransforms.org/2013/05/06/an-evening-with-the-nicholas-brothers/</link>
-					<comments>https://www.lavatransforms.org/2013/05/06/an-evening-with-the-nicholas-brothers/#respond</comments>
+		<link>/2013/05/06/an-evening-with-the-nicholas-brothers/</link>
+					<comments>/2013/05/06/an-evening-with-the-nicholas-brothers/#respond</comments>
 		
 		<dc:creator><![CDATA[Adrienne Crew]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -214,15 +214,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/05/06/an-evening-with-the-nicholas-brothers/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/05/06/an-evening-with-the-nicholas-brothers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Evenings With the Boys In the Backroom</title>
-		<link>https://www.lavatransforms.org/2013/04/15/evenings-with-the-boys-in-the-backroom/</link>
-					<comments>https://www.lavatransforms.org/2013/04/15/evenings-with-the-boys-in-the-backroom/#respond</comments>
+		<link>/2013/04/15/evenings-with-the-boys-in-the-backroom/</link>
+					<comments>/2013/04/15/evenings-with-the-boys-in-the-backroom/#respond</comments>
 		
 		<dc:creator><![CDATA[Holly Witham]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -231,9 +231,9 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[REVEALING PLAY CAPTURES TRUE STORES ABOUT HOLLYWOODâ€™S &#8220;BACKROOM BOYS&#8221; &#8220;â€¦ Itâ€™s a brilliant play. It&#8217;s so good that Iâ€™m even tempted to steal from it myself.&#8221; â€“ William Saroyan&#8217;s play character A collection of wonderful stories and memories is the heart of a fascinating play called &#8220;Evenings with The Boys in the Backroom&#8221; by Peter [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>REVEALING PLAY CAPTURES TRUE STORES ABOUT HOLLYWOODâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />S &#8220;BACKROOM BOYS&#8221;</p>
-<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">&#8220;â€¦ Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a brilliant play. It&#8217;s so good that Iâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m even tempted to steal from it myself.&#8221; â€“ William Saroyan&#8217;s play character</span></p>
-<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">A collection of wonderful stories and memories is the heart of a fascinating play called &#8220;Evenings with The Boys in the Backroom&#8221; by Peter Adum and Joyce Fante. Itâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Los Angeles version of Gertrude Steinâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1920s &#8220;Left Bank Salon&#8221; in Paris where she hosted luminaries like Ernest Hemingway, F. Scott Fitzgerald, Sinclair Lewis, Pablo Picasso and Henri Matisse. The play, as a staged reading, showcases L.A.&#8217;s own 1930s salon of gifted writers set in Stanley Rose&#8217;s Book Store, one door east of the Musso &amp; Frank Grill and across from the Brown Derby in Hollywood. The world premiere production will be presented as a benefit for the Friends of the Altadena Public Library in association with The Moveable Theatre Company, which uses volunteer professional actors. The performance is Sunday, May 5, 2013 at 3:00 PM in the Altadena Public Library community room in Altadena, California. (For tickets: 626-798-0833 or www.altadenalibrary.org)</span></p>
+										<content:encoded><![CDATA[<p>REVEALING PLAY CAPTURES TRUE STORES ABOUT HOLLYWOODâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />S &#8220;BACKROOM BOYS&#8221;</p>
+<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">&#8220;â€¦ Itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s a brilliant play. It&#8217;s so good that Iâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />m even tempted to steal from it myself.&#8221; â€“ William Saroyan&#8217;s play character</span></p>
+<p><span style="font-size: 12.222222328186035px; line-height: 1.5;">A collection of wonderful stories and memories is the heart of a fascinating play called &#8220;Evenings with The Boys in the Backroom&#8221; by Peter Adum and Joyce Fante. Itâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s the Los Angeles version of Gertrude Steinâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s 1920s &#8220;Left Bank Salon&#8221; in Paris where she hosted luminaries like Ernest Hemingway, F. Scott Fitzgerald, Sinclair Lewis, Pablo Picasso and Henri Matisse. The play, as a staged reading, showcases L.A.&#8217;s own 1930s salon of gifted writers set in Stanley Rose&#8217;s Book Store, one door east of the Musso &amp; Frank Grill and across from the Brown Derby in Hollywood. The world premiere production will be presented as a benefit for the Friends of the Altadena Public Library in association with The Moveable Theatre Company, which uses volunteer professional actors. The performance is Sunday, May 5, 2013 at 3:00 PM in the Altadena Public Library community room in Altadena, California. (For tickets: 626-798-0833 or www.altadenalibrary.org)</span></p>
 <p><span style="font-size: 12.222222328186035px; line-height: 1.5;">&nbsp;</span><span style="font-size: 12.222222328186035px; line-height: 1.5;">&#8220;From the start, this play has interested and enchanted me,&#8221; said Holly Witham, founder and production director of The Moveable Theatre Company. &#8220;Call me a 1930s buff, or a fan of the Golden Age of Hollywood or a hopeless bibliophile; I am guilty of all these things and from all, can point with enthusiasm to this fascinating story of how some of the best writers of an era socialized, played, fought, gossiped, supported and challenged each other, amid the sometimes cruel, heart-breaking and tough world of Hollywood,&#8221; Witham said.</span></p>
 <p><span style="font-size: 12.222222328186035px; line-height: 1.5;"></span><span style="font-size: 12.222222328186035px; line-height: 1.5;">Set in 1938, this original work written a number of years ago, chronicles the friendships between Hollywood book store owner Stanley Rose and some of his most famous customers: John Fante, William Saroyan, Nathanael West and Carey McWilliams. &nbsp;To help write the play, John Fante&#8217;s widow, Joyce, now deceased, shared her knowledge of the intimate details of conversations that occurred in Stanley Rose&#8217;s back room behind the book shop. This is where Rose&#8217;s successful friends talked, drank, played cards and discussed ideas which would inspire their most famous works. The scene was like a &#8220;Who&#8217;s Who&#8221; of the Los Angeles literary scene during Hollywood&#8217;s Golden Age.</span></p>
 <p><span style="font-size: 12.222222328186035px; line-height: 1.5;"></span><span style="font-size: 12.222222328186035px; line-height: 1.5;">For example, William Saroyan wrote the Pulitzer Prize wining play, &#8220;The Time of Your Life.&#8221; John Fante, a novelist, wrote &#8220;Ask the Dust&#8221; among others and Nathanael West wrote bitter, satirical novels like &#8220;Day of the Locust.&#8221; Carey McWilliams, an attorney and &#8220;muckraker,&#8221; wrote works including &#8220;Factories in the Fields&#8221; and one of the finest histories of Southern California.</span></p>
@@ -244,15 +244,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/04/15/evenings-with-the-boys-in-the-backroom/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/04/15/evenings-with-the-boys-in-the-backroom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>All About the TCL Chinese Theatre Tour</title>
-		<link>https://www.lavatransforms.org/2013/04/08/all-about-the-tcl-chinese-theatre-tour/</link>
-					<comments>https://www.lavatransforms.org/2013/04/08/all-about-the-tcl-chinese-theatre-tour/#respond</comments>
+		<link>/2013/04/08/all-about-the-tcl-chinese-theatre-tour/</link>
+					<comments>/2013/04/08/all-about-the-tcl-chinese-theatre-tour/#respond</comments>
 		
 		<dc:creator><![CDATA[Nick Matonak]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -264,22 +264,22 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The LAHTF returns to the TCL Chinese Theatre for a comprehensive behind-the-scenes tour. Our seasoned volunteer docents will lead you on a full exploration of the theatre â€“ from the projection booth and Graumanâ€™s private box, to behind the screen and under the stage. Theatre historian Ed Kelsey will present the history of the theatre [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; line-height: 16px;">The LAHTF returns to the TCL Chinese Theatre for a comprehensive behind-the-scenes tour. Our seasoned volunteer docents will lead you on a full exploration of the theatre â€“ from the projection booth and Graumanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s private box, to behind the screen and under the stage. Theatre historian Ed Kelsey will present the history of the theatre with vintage photos projected on the big screen. All About the TCL Chinese Theatre presents a unique opportunity to explore Sid Graumanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s masterpiece.</span><br style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 16px;" /><br style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 16px;" /><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; line-height: 16px;">The TCL Chinese theatre&nbsp;</span><span class="text_exposed_show" style="display: inline; color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; line-height: 16px;">will soon close for renovation and restoration work. Areas behind the current screen will be altered as part of the renovation. This will be your last opportunity to visit the staging areas of Sid Graumanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s signature prologues. The LAHTF is working in concert with theatre management and can report that no defining historic characteristics in the auditorium or exterior will be affected in the work that will soon take place. In fact, the TCL Chinese will re-open with state-of-the-art equipment and increased patron comfort. It will still be the best place in the world to see a movie.</p>
+										<content:encoded><![CDATA[<p><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; line-height: 16px;">The LAHTF returns to the TCL Chinese Theatre for a comprehensive behind-the-scenes tour. Our seasoned volunteer docents will lead you on a full exploration of the theatre â€“ from the projection booth and Graumanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s private box, to behind the screen and under the stage. Theatre historian Ed Kelsey will present the history of the theatre with vintage photos projected on the big screen. All About the TCL Chinese Theatre presents a unique opportunity to explore Sid Graumanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s masterpiece.</span><br style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 16px;" /><br style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 16px;" /><span style="color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; line-height: 16px;">The TCL Chinese theatre&nbsp;</span><span class="text_exposed_show" style="display: inline; color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; line-height: 16px;">will soon close for renovation and restoration work. Areas behind the current screen will be altered as part of the renovation. This will be your last opportunity to visit the staging areas of Sid Graumanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s signature prologues. The LAHTF is working in concert with theatre management and can report that no defining historic characteristics in the auditorium or exterior will be affected in the work that will soon take place. In fact, the TCL Chinese will re-open with state-of-the-art equipment and increased patron comfort. It will still be the best place in the world to see a movie.</p>
 <p>Buy your tickets now at&nbsp;<a style="color: #3b5998; cursor: pointer;" rel="nofollow nofollow" href="https://www.facebook.com/l.php?u=http%3A%2F%2Fwww.lahtf.org%2F&amp;h=8AQG3VOhv&amp;s=1" target="_blank">https://www.lahtf.org/</a>. This event is sure to sell out.</span></p>
 <div id="themify_builder_content-978" data-postid="978" class="themify_builder_content themify_builder_content-978 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/04/08/all-about-the-tcl-chinese-theatre-tour/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/04/08/all-about-the-tcl-chinese-theatre-tour/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>All About the Million Dollar Theater</title>
-		<link>https://www.lavatransforms.org/2013/03/13/all-about-the-million-dollar-theater/</link>
-					<comments>https://www.lavatransforms.org/2013/03/13/all-about-the-million-dollar-theater/#respond</comments>
+		<link>/2013/03/13/all-about-the-million-dollar-theater/</link>
+					<comments>/2013/03/13/all-about-the-million-dollar-theater/#respond</comments>
 		
 		<dc:creator><![CDATA[Nick Matonak]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:57 +0000</pubDate>
@@ -292,13 +292,13 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Join us as we explore Sid Graumanâ€™s first Los Angeles movie palace. The M$ set a new standard for the national movie palace building boom that swept the U.S. during the 1920â€™s. Designed by architect William Lee Woollett, the M$ is unique â€“ a daring mixture of styles,art and colors. Described as a Spanish cathedral [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Join us as we explore Sid Graumanâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first Los Angeles movie palace. The M$ set a new standard for the national movie palace building boom that swept the U.S. during the 1920â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s. Designed by architect William Lee Woollett, the M$ is unique â€“ a daring mixture of styles,art and colors. Described as a Spanish cathedral set in a Greek temple, the interior was a riot of rich colors, original art works and lush patron amenities. The M$ is currently closed to the public. Donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss this chance to see this amazing work of art.</p>
+										<content:encoded><![CDATA[<p>Join us as we explore Sid Graumanâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s first Los Angeles movie palace. The M$ set a new standard for the national movie palace building boom that swept the U.S. during the 1920â€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s. Designed by architect William Lee Woollett, the M$ is unique â€“ a daring mixture of styles,art and colors. Described as a Spanish cathedral set in a Greek temple, the interior was a riot of rich colors, original art works and lush patron amenities. The M$ is currently closed to the public. Donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss this chance to see this amazing work of art.</p>
 <p>&nbsp;</p>
-<p>More than any other Broadway theatre, the many glories of the M$ are faded or completely hidden from view. Ed Kelsey will highlight the history, illustrate the many interior alterations and celebrate what remains. Weâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll take you behind the scenes &#8211; from the basement to the balcony &#8211; and share the hidden treasures of L.A.â€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most unusual movie palace.</p>
+<p>More than any other Broadway theatre, the many glories of the M$ are faded or completely hidden from view. Ed Kelsey will highlight the history, illustrate the many interior alterations and celebrate what remains. Weâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />ll take you behind the scenes &#8211; from the basement to the balcony &#8211; and share the hidden treasures of L.A.â€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s most unusual movie palace.</p>
 <p>&nbsp;</p>
 <p>LAHTF Member Tour Admission: $10 â€“ limit 2 tickets per member. Tickets are available exclusively at:&nbsp;<a class="smarterwiki-linkify" style="color: #ff0000;" href="https://www.lahtf.org/">www.lahtf.org</a></p>
 <p>&nbsp;</p>
-<p>Tour capacity is limited and a sellout is likely. Act Now! Donâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss this rare opportunity to experience a breathtaking masterwork. Sign on as a new volunteer, spend extra time inside and see even more! Email&nbsp;<a class="smarterwiki-linkify" style="color: #ff0000;" href="mailto:info@lahtf.org">info@lahtf.org</a>&nbsp;to sign up.</p>
+<p>Tour capacity is limited and a sellout is likely. Act Now! Donâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />t miss this rare opportunity to experience a breathtaking masterwork. Sign on as a new volunteer, spend extra time inside and see even more! Email&nbsp;<a class="smarterwiki-linkify" style="color: #ff0000;" href="mailto:info@lahtf.org">info@lahtf.org</a>&nbsp;to sign up.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div id="themify_builder_content-963" data-postid="963" class="themify_builder_content themify_builder_content-963 themify_builder">
@@ -306,7 +306,7 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2013/03/13/all-about-the-million-dollar-theater/feed/</wfw:commentRss>
+					<wfw:commentRss>/2013/03/13/all-about-the-million-dollar-theater/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

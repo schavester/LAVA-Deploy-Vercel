@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bob Baker &#8211; Los Angeles Visionaries Association</title>
-	<atom:link href="https://www.lavatransforms.org/author/bob-baker/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/</link>
+	<atom:link href="/author/bob-baker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Mon, 30 Nov -001 00:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Halloween Hoop De Doo</title>
-		<link>https://www.lavatransforms.org/2012/10/02/halloween-hoop-de-doo/</link>
-					<comments>https://www.lavatransforms.org/2012/10/02/halloween-hoop-de-doo/#respond</comments>
+		<link>/2012/10/02/halloween-hoop-de-doo/</link>
+					<comments>/2012/10/02/halloween-hoop-de-doo/#respond</comments>
 		
 		<dc:creator><![CDATA[Bob Baker]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -32,21 +32,21 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Bob Baker Marionette Theater continues its 52nd season with â€œBob Bakerâ€™s&#160;Halloween&#160;Hoop-Dee-Doâ€ playing October 6-November 10, 2012.&#160;One of the theaterâ€™s perennial favorites, â€œBob Bakerâ€™s&#160;Halloween&#160;Hoop-De-Doâ€ first played the theater in 1963. &#160;Featuring a fantastical cast of over 100&#160;Halloweenthemed puppets, from the Purple People Eater and the Invisible Man to a gaggle of Roaring 20&#8217;s skeletons dancing [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 13.333333969116211px; line-height: normal; font-family: Verdana, Helvetica, Arial;"><span style="font-size: x-small;"><span style="font-size: 10pt;">The Bob Baker Marionette Theater continues its 52nd season with â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-Dee-Doâ€ playing October 6-November 10, 2012.&nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">One of the theaterâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s perennial favorites, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ first played the theater in 1963. &nbsp;Featuring a fantastical cast of over 100&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>themed puppets, from the Purple People Eater and the Invisible Man to a gaggle of Roaring 20&#8217;s skeletons dancing the night away in Hernando&#8217;s Hideaway, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ will whisk you away to â€œthe place where imagination dwellsâ€. &nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">These celebrated marionettes are presented in Bob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s now famous â€œIn the Roundâ€ cabaret style, with the puppeteers not only exposed to the audience, but serving as an integral part of the proceedings . . . and also making the audience part of the show.&nbsp;<br />&nbsp;<br />â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ is an hour-long revue. After the performance, guests are invited to visit with the Puppeteers and have refreshments in our Party Room.</span></span></span></p>
+										<content:encoded><![CDATA[<p><span style="font-size: 13.333333969116211px; line-height: normal; font-family: Verdana, Helvetica, Arial;"><span style="font-size: x-small;"><span style="font-size: 10pt;">The Bob Baker Marionette Theater continues its 52nd season with â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-Dee-Doâ€ playing October 6-November 10, 2012.&nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">One of the theaterâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s perennial favorites, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ first played the theater in 1963. &nbsp;Featuring a fantastical cast of over 100&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>themed puppets, from the Purple People Eater and the Invisible Man to a gaggle of Roaring 20&#8217;s skeletons dancing the night away in Hernando&#8217;s Hideaway, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ will whisk you away to â€œthe place where imagination dwellsâ€. &nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">These celebrated marionettes are presented in Bob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s now famous â€œIn the Roundâ€ cabaret style, with the puppeteers not only exposed to the audience, but serving as an integral part of the proceedings . . . and also making the audience part of the show.&nbsp;<br />&nbsp;<br />â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ is an hour-long revue. After the performance, guests are invited to visit with the Puppeteers and have refreshments in our Party Room.</span></span></span></p>
 <div id="themify_builder_content-852" data-postid="852" class="themify_builder_content themify_builder_content-852 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2012/10/02/halloween-hoop-de-doo/feed/</wfw:commentRss>
+					<wfw:commentRss>/2012/10/02/halloween-hoop-de-doo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Halloween Hoop De Doo</title>
-		<link>https://www.lavatransforms.org/2012/10/02/halloween-hoop-de-doo/</link>
-					<comments>https://www.lavatransforms.org/2012/10/02/halloween-hoop-de-doo/#respond</comments>
+		<link>/2012/10/02/halloween-hoop-de-doo/</link>
+					<comments>/2012/10/02/halloween-hoop-de-doo/#respond</comments>
 		
 		<dc:creator><![CDATA[Bob Baker]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:56 +0000</pubDate>
@@ -56,21 +56,21 @@
 		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[The Bob Baker Marionette Theater continues its 52nd season with â€œBob Bakerâ€™s&#160;Halloween&#160;Hoop-Dee-Doâ€ playing October 6-November 10, 2012.&#160;One of the theaterâ€™s perennial favorites, â€œBob Bakerâ€™s&#160;Halloween&#160;Hoop-De-Doâ€ first played the theater in 1963. &#160;Featuring a fantastical cast of over 100&#160;Halloween&#160;themed puppets, from the Purple People Eater and the Invisible Man to a gaggle of Roaring 20&#8217;s skeletons dancing [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><span style="font-size: 13.333333969116211px; line-height: normal; font-family: Verdana, Helvetica, Arial;"><span style="font-size: x-small;"><span style="font-size: 10pt;">The Bob Baker Marionette Theater continues its 52nd season with â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-Dee-Doâ€ playing October 6-November 10, 2012.&nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">One of the theaterâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s perennial favorites, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ first played the theater in 1963. &nbsp;Featuring a fantastical cast of over 100&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween&nbsp;</span>themed puppets, from the Purple People Eater and the Invisible Man to a gaggle of Roaring 20&#8217;s skeletons dancing the night away in Hernando&#8217;s Hideaway, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ will whisk you away to â€œthe place where imagination dwellsâ€. &nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">These celebrated marionettes are presented in Bob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s now famous â€œIn the Roundâ€ cabaret style, with the puppeteers not only exposed to the audience, but serving as an integral part of the proceedings . . . and also making the audience part of the show.&nbsp;<br />&nbsp;<br />â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ is an hour-long revue. After the performance, guests are invited to visit with the Puppeteers and have refreshments in our Party Room.</span></span></span></p>
+										<content:encoded><![CDATA[<p><span style="font-size: 13.333333969116211px; line-height: normal; font-family: Verdana, Helvetica, Arial;"><span style="font-size: x-small;"><span style="font-size: 10pt;">The Bob Baker Marionette Theater continues its 52nd season with â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-Dee-Doâ€ playing October 6-November 10, 2012.&nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">One of the theaterâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s perennial favorites, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ first played the theater in 1963. &nbsp;Featuring a fantastical cast of over 100&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween&nbsp;</span>themed puppets, from the Purple People Eater and the Invisible Man to a gaggle of Roaring 20&#8217;s skeletons dancing the night away in Hernando&#8217;s Hideaway, â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ will whisk you away to â€œthe place where imagination dwellsâ€. &nbsp;<br /></span></span></span><span style="font-size: 13.333333969116211px; line-height: normal; font-family: 'Times New Roman';"><span style="font-size: 12pt;"><br /></span></span><span style="font-size: x-small; line-height: normal;"><span style="font-family: Verdana, Helvetica, Arial;"><span style="font-size: 10pt;">These celebrated marionettes are presented in Bob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s now famous â€œIn the Roundâ€ cabaret style, with the puppeteers not only exposed to the audience, but serving as an integral part of the proceedings . . . and also making the audience part of the show.&nbsp;<br />&nbsp;<br />â€œBob Bakerâ€<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />s&nbsp;<span class="il" style="background-color: #ffffcc;">Halloween</span>&nbsp;Hoop-De-Doâ€ is an hour-long revue. After the performance, guests are invited to visit with the Puppeteers and have refreshments in our Party Room.</span></span></span></p>
 <div id="themify_builder_content-851" data-postid="851" class="themify_builder_content themify_builder_content-851 themify_builder">
     </div>
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2012/10/02/halloween-hoop-de-doo/feed/</wfw:commentRss>
+					<wfw:commentRss>/2012/10/02/halloween-hoop-de-doo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fiesta Allegre puppet show</title>
-		<link>https://www.lavatransforms.org/2010/02/24/fiesta-allegre-puppet-show/</link>
-					<comments>https://www.lavatransforms.org/2010/02/24/fiesta-allegre-puppet-show/#respond</comments>
+		<link>/2010/02/24/fiesta-allegre-puppet-show/</link>
+					<comments>/2010/02/24/fiesta-allegre-puppet-show/#respond</comments>
 		
 		<dc:creator><![CDATA[Bob Baker]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:53 +0000</pubDate>
@@ -85,15 +85,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2010/02/24/fiesta-allegre-puppet-show/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/02/24/fiesta-allegre-puppet-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fiesta Allegre puppet show</title>
-		<link>https://www.lavatransforms.org/2010/02/24/fiesta-allegre-puppet-show/</link>
-					<comments>https://www.lavatransforms.org/2010/02/24/fiesta-allegre-puppet-show/#respond</comments>
+		<link>/2010/02/24/fiesta-allegre-puppet-show/</link>
+					<comments>/2010/02/24/fiesta-allegre-puppet-show/#respond</comments>
 		
 		<dc:creator><![CDATA[Bob Baker]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:53 +0000</pubDate>
@@ -108,15 +108,15 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2010/02/24/fiesta-allegre-puppet-show/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/02/24/fiesta-allegre-puppet-show/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bob Baker</title>
-		<link>https://www.lavatransforms.org/2010/02/22/bob-baker/</link>
-					<comments>https://www.lavatransforms.org/2010/02/22/bob-baker/#respond</comments>
+		<link>/2010/02/22/bob-baker/</link>
+					<comments>/2010/02/22/bob-baker/#respond</comments>
 		
 		<dc:creator><![CDATA[Bob Baker]]></dc:creator>
 		<pubDate>Wed, 16 Sep 2015 04:06:53 +0000</pubDate>
@@ -132,7 +132,7 @@
 <!-- /themify_builder_content -->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://www.lavatransforms.org/2010/02/22/bob-baker/feed/</wfw:commentRss>
+					<wfw:commentRss>/2010/02/22/bob-baker/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

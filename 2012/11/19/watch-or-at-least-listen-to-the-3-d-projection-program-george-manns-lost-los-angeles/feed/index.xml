@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Watch (or at least listen) to the 3-D projection program &#8220;George Mann&#8217;s Lost Los Angeles&#8221;	</title>
-	<atom:link href="https://www.lavatransforms.org/2012/11/19/watch-or-at-least-listen-to-the-3-d-projection-program-george-manns-lost-los-angeles/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.lavatransforms.org/2012/11/19/watch-or-at-least-listen-to-the-3-d-projection-program-george-manns-lost-los-angeles/</link>
+	<atom:link href="/2012/11/19/watch-or-at-least-listen-to-the-3-d-projection-program-george-manns-lost-los-angeles/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/11/19/watch-or-at-least-listen-to-the-3-d-projection-program-george-manns-lost-los-angeles/</link>
 	<description>LAVA</description>
 	<lastBuildDate>Wed, 30 Mar 2016 19:57:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>
